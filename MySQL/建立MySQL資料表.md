@@ -2,10 +2,15 @@
 
 ```
 $sql="CREATE TABLE students(
-	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
 	name varchar(20) NOT NULL,
 	email varchar(80) NOT NULL UNIQUE
 )";
+```
+
+```
+NOT NULL - 必須有值，不能為空
+UNSIGNED - 使用無符號數值，0及正數
 ```
 
 *程序導向*
@@ -26,6 +31,3 @@ try{
 	die($e->getMessage());
 }
 ```
-
-
-
