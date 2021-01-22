@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "fdbd2660236aaa50",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f4fc57c99fd468",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JSON.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7da961d8f5f74132",
+    "type": "split",
+    "children": [
+      {
+        "id": "a30df6f557ef6aef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5087ddb7fb553a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebf8c6f0956a96fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26b0071a15edaf1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc7d621950780eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504e403d6d0ca818",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JSON.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "JSON.md",
+    "異常處理.md",
+    "字串函式.md",
+    "正規表示式.md",
+    "過濾器.md",
+    "魔術常量.md",
+    "Untitled.md",
+    "PHP 字串函式.md"
+  ]
+}
