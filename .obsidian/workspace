@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "PHP/預處理類操作資料庫.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -87,14 +87,14 @@
   },
   "lastOpenFiles": [
     "PHP/預處理類操作資料庫.md",
-    "PHP/物件導向操作資料庫.md",
-    "MySQL/MySQL 預處理.md",
-    "MySQL/獲取最後插入行的ID.md",
-    "PHP/JSON.md",
+    "MySQL/連接MySQL資料庫伺服器.md",
+    "PHP/資料物件預處理操作資料庫.md",
     "PHP/資料物件操作資料庫.md",
-    "PHP/程序導向操作資料庫.md",
-    "MySQL/其它補充.md",
+    "PHP/Untitled.md",
+    "MySQL/MySQL 預處理.md",
+    "PHP/異常處理.md",
+    "PHP/過濾器.md",
     "PHP/OOP.md",
-    "PHP/Untitled.md"
+    "PHP/物件導向操作資料庫.md"
   ]
 }

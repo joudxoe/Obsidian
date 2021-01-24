@@ -1,15 +1,13 @@
 *程序導向*
 ```
 $link=mysqli_connect('hostname','username','password','database');
-if($link===false) die(mysqli_connect_error());
-if(mysqli_connect_errno($link)) die(mysqli_connect_error);
+if(mysqli_connect_errno()) die(mysqli_connect_error());
 mysqli_close($link);
 ```
 
 *物件導向*
 ```
 $mysqli=new mysqli('hostname','username','password','database');
-if($mysqli===false) die($mysqli->connect_error);
 if($mysqli->connect_errno) die($mysqli->connect_error);
 $mysqli->close();
 ```
