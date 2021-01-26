@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/檔案操作函式.md",
+            "file": "PHP/預處理類操作資料庫.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/檔案操作函式.md",
+                "file": "PHP/預處理類操作資料庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PHP/預處理類操作資料庫.md",
+    "PHP/資料物件操作資料庫.md",
+    "MySQL/連接MySQL資料庫伺服器.md",
+    "MySQL/獲取最後插入行的ID.md",
     "PHP/檔案操作函式.md",
     "PHP/函數.md",
     "PHP/Untitled.md",
     "MySQL/MySQL 預處理.md",
     "MySQL/其它補充.md",
-    "Others/命令提示字元.md",
-    "Others/VS_Code 快捷鍵.md",
-    "Others/Untitled.md",
-    "PHP/過濾器.md",
-    "PHP/字串函式.md"
+    "Others/命令提示字元.md"
   ]
 }
