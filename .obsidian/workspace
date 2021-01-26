@@ -87,14 +87,14 @@
   },
   "lastOpenFiles": [
     "PHP/預處理類操作資料庫.md",
-    "MySQL/連接MySQL資料庫伺服器.md",
+    "PHP/OOP.md",
+    "PHP/JSON.md",
     "PHP/資料物件預處理操作資料庫.md",
     "PHP/資料物件操作資料庫.md",
-    "PHP/Untitled.md",
-    "MySQL/MySQL 預處理.md",
-    "PHP/異常處理.md",
-    "PHP/過濾器.md",
-    "PHP/OOP.md",
-    "PHP/物件導向操作資料庫.md"
+    "PHP/字串函式.md",
+    "PHP/函數.md",
+    "PHP/正規表示式.md",
+    "MySQL/連接MySQL資料庫伺服器.md",
+    "PHP/Untitled.md"
   ]
 }
