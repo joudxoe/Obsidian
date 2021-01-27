@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "9e2516df0510bdce",
+    "id": "db0b865d19f16778",
     "type": "split",
     "children": [
       {
-        "id": "784e820263366a92",
+        "id": "02bda78b58f42075",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/結構化查詢語言.md",
-            "mode": "preview"
+            "file": "PHP/抽象類別和介面.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef658bc155b1380f",
+    "id": "ea69088c6518fac8",
     "type": "split",
     "children": [
       {
-        "id": "9f06a8d3e656d962",
+        "id": "a7099594cabe5615",
         "type": "tabs",
         "children": [
           {
-            "id": "34092f1ee3dffa62",
+            "id": "a0ef7afbd30cdfa9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "d1f2e59c71f6d920",
+            "id": "52f84831935d54ff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "499b8d28f62e5168",
+    "id": "1e59b90db4bc11c8",
     "type": "split",
     "children": [
       {
-        "id": "1e45ff073d614db7",
+        "id": "65f2537f81773a08",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5d4988c657c0aa",
+            "id": "0eefb944097c1df1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/結構化查詢語言.md",
+                "file": "PHP/抽象類別和介面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/結構化查詢語言.md",
-    "Others/Untitled.md",
-    "MySQL/MySQL 補充.md",
+    "PHP/Untitled.md",
+    "PHP/OOP.md",
+    "PHP/靜態屬性和方法.md",
+    "PHP/例外處理.md",
+    "PHP/存取方法.md",
     "PHP/函數.md",
+    "Others/EMMET.md",
+    "MySQL/MySQL 常用函式.md",
     "PHP/字串函式.md",
-    "PHP/檔案操作函式.md",
-    "MySQL/備份與還原資料庫.md",
-    "MySQL/獲取最後插入行的ID.md",
-    "MySQL/Untitled.md",
-    "MySQL/MySQL 常用函式.md"
+    "PHP/正規表示式.md"
   ]
 }
