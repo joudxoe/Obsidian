@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/正規表示式.md",
-            "mode": "source"
+            "file": "MySQL/結構化查詢語言.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/正規表示式.md",
+                "file": "MySQL/結構化查詢語言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/正規表示式.md",
-    "PHP/日期函式.md",
-    "PHP/物件導向操作資料庫.md",
-    "PHP/陣列函式.md",
+    "MySQL/結構化查詢語言.md",
+    "Others/Untitled.md",
+    "MySQL/MySQL 補充.md",
     "PHP/函數.md",
-    "PHP/數學函式.md",
-    "PHP/資料物件預處理操作資料庫.md",
-    "PHP/資料物件操作資料庫.md",
-    "MySQL/連接MySQL資料庫伺服器.md",
-    "Others/命令提示字元.md"
+    "PHP/字串函式.md",
+    "PHP/檔案操作函式.md",
+    "MySQL/備份與還原資料庫.md",
+    "MySQL/獲取最後插入行的ID.md",
+    "MySQL/Untitled.md",
+    "MySQL/MySQL 常用函式.md"
   ]
 }

@@ -1,0 +1,35 @@
+*`pow()`*
+*`round()`*
+*`now()`*
+*`curdate() / current_date()`*
+*`curtime() / current_time()`*
+*`year()`*
+*`month()`*
+*`day()`*
+*`date()`*
+*`hour()`*
+*`minute()`*
+*`second()`*
+*`time()`*
+*`dayname()`*
+*`monthname()`*
+*`quarter()`*
+*`dayofweek()`*
+*`dayofmonth()`*
+*`dayofyear()`*
+*`last_day()`*
+*`sum()`*
+*`avg()`*
+*`count()`*
+*`max()`*
+*`min()`*
+*`concat()`*
+*`length()`*
+*`left()`*
+*`right()`*
+*`substring()`*
+*`replace()`*
+*`insert()`*
+*`lower()`*
+*`upper()`*
+*`locate()`*
