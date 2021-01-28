@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/建立配置檔案.md",
+            "file": "PHP/超全域變數.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/建立配置檔案.md",
+                "file": "PHP/超全域變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/建立配置檔案.md",
-    "Others/EMMET.md",
-    "PHP/字串函式.md",
-    "PHP/日期函式.md",
-    "PHP/抽象類別和介面.md",
+    "PHP/超全域變數.md",
+    "Others/MVC.md",
+    "JavaScript/Ajax.md",
+    "Others/Untitled.md",
+    "JavaScript/DOM.md",
+    "JavaScript/Untitled.md",
     "PHP/Untitled.md",
-    "PHP/OOP.md",
-    "PHP/靜態屬性和方法.md",
-    "PHP/例外處理.md",
-    "PHP/存取方法.md"
+    "PHP/檔案與目錄操作.md",
+    "PHP/物件導向操作資料庫.md",
+    "PHP/字串函式.md"
   ]
 }

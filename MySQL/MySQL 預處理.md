@@ -1,4 +1,4 @@
-*預處理語句是一個包含佔位符而不是實際SQL語法的查詢模板，佔位符會在執行時被實際值替換*
+預處理語句是一個包含佔位符而不是實際SQL語法的查詢模板，佔位符會在執行時被實際值替換
 
 使用預處理句的優點
 
@@ -7,7 +7,6 @@
 * 提供SQL注入保護，因為佔位符的值不直接嵌入SQL查詢字串中
 
 ```
-// prepare an insert statement
 $sql="INSERT INTO students (name,email) VALUES (?,?)";
 ```
 
