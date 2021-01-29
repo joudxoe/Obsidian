@@ -3,7 +3,8 @@
 ***
 
 *生成HTML5文檔結構*
-`html:5`  /  `!`
+`!`
+`html:5`
 
 *生成HTML4過渡型*
 `html:xt`
@@ -33,7 +34,22 @@
 `span{lorem...}`
 
 *生成Lorem ipsum文本，是一種用於排版設計的拉丁文章*
-`lorem`  /  `lipsum`
+`lorem`
+`lipsum`
 
 *指定文字的個數*
 `lorem10`
+
+***
+
+`#page>.logo+ul#navigation>li*5>a{item$}`
+`ul#navigation.dropdown.navbar`
+`(div>dl>(dt+dd)*3)+footer`
+`ul>li.item$*5`
+`ul>li.item$@10*5`
+`ul>li.item$*5>a>{$$}`
+`ul>li*5>{item$}`
+`ul>li*5>{item$@5}`
+`em>{click}+b>{here}`
+`.header+.footer`
+

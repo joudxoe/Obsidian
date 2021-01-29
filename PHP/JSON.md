@@ -24,6 +24,10 @@
 }
 ```
 
+*JSON函式*
+
+*`json_encode()` 將變數編碼成JSON格式*
+*`json_decode()` 將JSON格式的字符串解碼成變數*
 
 *JSON編碼: 將關聯陣列編碼為JSON物件*
 ```
