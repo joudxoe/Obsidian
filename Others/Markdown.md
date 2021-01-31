@@ -54,8 +54,7 @@ ___
 ``
 ```
 
-*連結*
-
-*圖片*
-
 *自動連結*
+
+`<https://www.google.com>`
+`<jane@gmail.com>`
