@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/上傳檔案.md",
-            "mode": "source"
+            "file": "HTML/補充資料.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/上傳檔案.md",
+                "file": "HTML/補充資料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/上傳檔案.md",
-    "PHP/Untitled.md",
-    "PHP/函數補充.md",
-    "Others/Markdown.md",
-    "PHP/表單驗證.md",
-    "PHP/標頭定義.md",
-    "Others/Untitled.md",
-    "Others/EMMET.md",
-    "Others/MVC.md",
-    "PHP/超全域變數.md"
+    "HTML/補充資料.md",
+    "HTML/Untitled.md",
+    "HTML/HTML5補充資料.md",
+    "JavaScript/Ajax.md",
+    "JavaScript/DOM.md",
+    "CSS/偽類和偽元素.md",
+    "CSS/隱藏頁面元素的方法.md",
+    "CSS/補充知識.md",
+    "CSS/應用技巧.md",
+    "CSS/Untitled.md"
   ]
 }
