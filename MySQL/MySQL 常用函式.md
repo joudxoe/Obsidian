@@ -7,23 +7,24 @@
 *`sqrt()` 取平方根*
 ***
 *`now()` 取得伺服器當前的日期時間*
-*`curdate() / current_date()` 取得伺服器當前日期*
-*`curtime() / current_time()` 取得伺服器當前時間*
+*`current_timestamp()` 取得伺服器當前的日期時間*
+*`curdate()` / `current_date()` 取得伺服器當前日期*
+*`curtime()` / `current_time()` 取得伺服器當前時間*
 *`year()` 取日期的年份*
-*`month()` 取日期的月份*
-*`day()` *
-*`date()`*
-*`hour()` 取時間的時*
-*`minute()` 取時間的分*
-*`second()` 取時間的秒*
-*`time()`*
+*`month()` 取日期的月份(1-12)*
+*`day()` 返回指定時間的日期(1-31)*
+*`date()` 返回指定時間的年月日*
+*`hour()` 取時間的時(0-23)*
+*`minute()` 取時間的分(0-59)*
+*`second()` 取時間的秒(0-59)*
+*`time()` 返回指定時間的時分秒*
 *`dayname()` 取日期的星期*
 *`monthname()` 取日期的月份*
-*`quarter()` 取日期的季*
-*`dayofweek()`*
-*`dayofmonth()`*
-*`dayofyear()`*
-*`last_day()`*
+*`quarter()` 取日期的季(1-4)*
+*`dayofweek()` 返回指定日期的星期索引(1-7)*
+*`dayofmonth()` 返回指定時間的日期(1-31)*
+*`dayofyear()` 返回指定日期在一年中的第幾天(1-366)*
+*`last_day()` 返回指定日期當月的最後一天，可用來判斷閨年*
 ***
 *`sum()`*
 *`avg()`*

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c582ff332bb208f0",
+        "id": "be7c8e0e4e14d26b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/補充資料.md",
-            "mode": "preview"
+            "file": "PHP/靜態屬性和方法.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/補充資料.md",
+                "file": "PHP/靜態屬性和方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML/補充資料.md",
-    "HTML/Untitled.md",
-    "HTML/HTML5補充資料.md",
-    "JavaScript/Ajax.md",
-    "JavaScript/DOM.md",
-    "CSS/偽類和偽元素.md",
-    "CSS/隱藏頁面元素的方法.md",
-    "CSS/補充知識.md",
-    "CSS/應用技巧.md",
-    "CSS/Untitled.md"
+    "PHP/靜態屬性和方法.md",
+    "PHP/資訊安全.md",
+    "PHP/函數補充.md",
+    "PHP/Untitled.md",
+    "MySQL/MySQL 補充資料.md",
+    "MySQL/MySQL 常用函式.md",
+    "Others/VSCode 快捷鍵.md",
+    "Others/Windwos 快捷鍵.md",
+    "Others/MVC.md",
+    "Others/VS_Code 快捷鍵.md"
   ]
 }

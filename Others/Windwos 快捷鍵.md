@@ -5,13 +5,29 @@
 *`WIN+X` 開啟快速連結功能表*
 *`WIN+TAB` 開啟工作檢視畫面*
 *`WIN+D` 顯示隱藏桌面*
-*`WIN+LEFT / WIN+RIGHT` 將視窗左/右側最大化*
+*`WIN+LEFT`/`WIN+RIGHT` 將視窗左/右側最大化*
 *`WIN+UP` 將視窗最大化*
 *`WIN+DOWN` 將視窗最小化/移除目前的應用程式*
+*`WIN+S` 開啟搜尋*
+*`WIN+U` 開啟輕鬆存取中心*
+*`WIN+R` 開啟執行對話方塊*
+*`WIN+L` 鎖定電腦*
+*`WIN+E` 開啟檔案總管*
 *`CTRL+SHIFT+DELETE` 快速清除瀏覽器快取*
 *`ALT+D` 選取網址列中的網址*
 *`ALT+LEFT` 返回上一頁*
-*`WIN+. / WIN+;` 開啟Emoji面版*
+*`WIN+.`/`WIN+;` 開啟Emoji面版*
+*`WIN+,` 暫時預覽桌面*
 *`CTRL+ESC` 開啟開始功能表*
 *`CTRL+SHIFT+ESC` 開啟工作管理員*
-*`ALT+D` 選取網址列中的網址*
+*`CTRL+D` 刪除選取的項目*
+*`CTRL+F4` 關閉使用中的文件*
+*`CTRL+R` 重整使用中的視窗*
+*`CTRL+W` 關閉目前的頁面/視窗*
+*`ALT+SPACE` 開啟使用中視窗的捷徑功能表*
+*`ALT+TAB` 在開啟的應用程式之間切換*
+*`ALT+ENTER` 在檔案總管中顯示選取項目之內容*
+*`F4` 在檔案總管中顯示網址列清單*
+*`ALT+F4` 關閉使用中的項目或應用程式*
+*`SHIFT+F10` 顯示所選項目的捷徑功能表*
+*`SHIFT+DELETE` 永久刪除選取的項目*
