@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "be7c8e0e4e14d26b",
+        "id": "d3cb2692f80179fb",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/靜態屬性和方法.md",
+            "file": "PHP/變數.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/靜態屬性和方法.md",
+                "file": "PHP/變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/靜態屬性和方法.md",
+    "PHP/補充知識.md",
     "PHP/資訊安全.md",
-    "PHP/函數補充.md",
+    "PHP/運算子.md",
+    "PHP/上傳檔案.md",
+    "PHP/數學函式.md",
+    "PHP/亂數函數.md",
+    "PHP/資料型別.md",
     "PHP/Untitled.md",
-    "MySQL/MySQL 補充資料.md",
-    "MySQL/MySQL 常用函式.md",
-    "Others/VSCode 快捷鍵.md",
-    "Others/Windwos 快捷鍵.md",
-    "Others/MVC.md",
-    "Others/VS_Code 快捷鍵.md"
+    "PHP/表單驗證.md",
+    "PHP/標頭定義.md"
   ]
 }
