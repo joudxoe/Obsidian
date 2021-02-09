@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d3cb2692f80179fb",
+        "id": "e4a6f0ff67ec7413",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/程序導向操作資料庫.md",
+            "file": "PHP/表單驗證.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/程序導向操作資料庫.md",
+                "file": "PHP/表單驗證.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/程序導向操作資料庫.md",
-    "PHP/資料物件操作資料庫.md",
-    "PHP/資料物件預處理操作資料庫.md",
+    "PHP/表單驗證.md",
+    "PHP/變數.md",
+    "PHP/常數.md",
+    "PHP/字串函式.md",
+    "PHP/運算子.md",
     "PHP/迴圈.md",
-    "PHP/例外異常處理.md",
-    "PHP/上傳檔案.md",
-    "PHP/檔案與目錄操作.md",
-    "PHP/電子郵件.md",
     "PHP/錯誤檢測處理.md",
-    "PHP/物件導向預處理操作資料庫.md"
+    "PHP/日期時間.md",
+    "PHP/JSON.md",
+    "PHP/繼承.md"
   ]
 }
