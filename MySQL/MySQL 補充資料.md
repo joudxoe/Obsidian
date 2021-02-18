@@ -1,4 +1,4 @@
-*SQL的敘述分為三大類: DDL、DML、DCL*
+*SQL敘述分類: DDL、DML、DCL、DQL*
 
 *DDL(資料定義語言) - 用來建立或刪除資料庫及資料表*
 - CREATE: 建立資料庫或資料表
@@ -6,7 +6,6 @@
 - ALTER: 修改資料庫或資料表的結構
 
 *DML(資料操作語言) - 查詢或修改資料表的記錄，核心操作也就是CRUD*
-- SELECT: 查詢資料表記錄
 - INSERT: 新增資料表記錄
 - UPDATE: 更新資料表記錄
 - DELETE: 刪除資料表記錄
@@ -16,6 +15,11 @@
 - ROLLBACK: 取消對資料庫執行的變更動作
 - GRANT: 賦予使用者操作權限
 - REVOKE: 徹銷使用者的操作權限
+
+*DQL(資料查詢語言) - 用來查詢資料表的記錄*
+- SELECT
+- FROM
+- WHERE
 
 *查詢敘述的基本語法*
 ```
@@ -45,7 +49,8 @@
 
 ***
 
-*SQL是用來操作/管理/維護資料庫的語言*
+*MySQL是一種關聯式資料庫管理系統*
+*SQL(Structure Query Language)-結構化查詢語言，是用來操作/管理/維護資料庫的語言*
 *XAMPP: Apache+MariaDB+PHP+Perl*
 *字元集(Character set): 資料庫文字的編碼方式*
 *連線校對(Collation): 字元集中的字元排序方式*
@@ -70,3 +75,7 @@
 *使用UNION合併兩個查詢，只會得到一個包含兩個查詢記錄的結果*
 *子查詢是將查詢敘述放在另一個SQL敘述的SELECT括號內，甩來簡化SQL敘述*
 *PMA有三種登入認證模式: config、cookie、http*
+*MySQL默認創建/自帶的數據庫*
+- information_schema: 儲存資料庫對象信息
+- performance_schema: 主要用於收集資料庫服務器性能參數
+- sys: 包含儲存過程、自定義函數以及視圖

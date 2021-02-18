@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/物件導向.md",
+            "file": "MySQL/數據類型.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/物件導向.md",
+                "file": "MySQL/數據類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/物件導向.md",
-    "PHP/分頁實作.md",
-    "PHP/程序導向操作資料庫.md",
+    "MySQL/Untitled.md",
+    "MySQL/MySQL 補充資料.md",
+    "MySQL/DML.md",
+    "MySQL/DDL.md",
+    "MySQL/DQL.md",
+    "MySQL/備份與還原資料庫.md",
+    "MySQL/MySQL 常用函式.md",
+    "PHP/資料物件操作資料庫.md",
     "PHP/物件導向操作資料庫.md",
-    "PHP/分頁功能.md",
-    "JavaScript/Ajax.md",
-    "PHP/變數.md",
-    "PHP/表單驗證.md",
-    "PHP/常數.md",
-    "PHP/字串函式.md"
+    "PHP/程序導向操作資料庫.md"
   ]
 }
