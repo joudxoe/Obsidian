@@ -1,4 +1,4 @@
-*EMMET是一種快速編寫HTML和CSS的插件*
+*EMMET是一種用來快速編寫HTML和CSS的插件/縮寫語法*
 
 ***
 
