@@ -1,4 +1,4 @@
-*EMMET是一種用來快速編寫HTML和CSS的插件/縮寫語法*
+EMMET是一種用來快速編寫HTML和CSS的插件/縮寫語法
 
 ***
 
@@ -41,6 +41,8 @@
 `lorem10`
 
 ***
+
+語法示例
 
 `#page>.logo+ul#navigation>li*5>a{item$}`
 `ul#navigation.dropdown.navbar`

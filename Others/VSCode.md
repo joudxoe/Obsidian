@@ -1,5 +1,6 @@
-*Visual Studio Code是微軟開發的跨平台開源文字/代碼編輯器*
-*VSCode支援語法突顯、代碼自動補全並內建命令行工具和Git版控也可透過下載擴充套件*
+Visual Studio Code是微軟開發的跨平台開源文字/代碼編輯器
+
+VS Code支援語法突顯、代碼自動補全並內建命令行工具和Git版控也可透過下載擴充套件
 
 ***
 
@@ -86,3 +87,4 @@
 *`Color Picker` 顏色選擇器*
 *`Fira Code` 美觀的字型*
 *`TabNine` 自動補齊程式碼*
+

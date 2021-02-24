@@ -1,4 +1,4 @@
-*Markdown是主要用於編寫文檔內容的語言*
+Markdown是主要用於編寫文檔內容的語言
 
 ***
 
@@ -118,7 +118,7 @@ ___<strong></strong>__
 \*literal asterisks\*
 ```
 
-Youtube影片
+*Youtube影片*
 ```
 [![圖片說明文字](影片封面圖)](影片網址)
 ```
