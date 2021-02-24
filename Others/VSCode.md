@@ -1,3 +1,8 @@
+*Visual Studio Code是微軟開發的跨平台開源文字/代碼編輯器*
+*VSCode支援語法突顯、代碼自動補全並內建命令行工具和Git版控也可透過下載擴充套件*
+
+***
+
 *`CTRL+L` 選取整行*
 *`CTRL+SHIFT+L` / `CTRL+F2` 一次選取檔案內所有相同的文字*
 *`SHIFT+ALT+F` / `CTRL+K+F` 格式化程式碼*
@@ -62,3 +67,22 @@
 *`F11` 進入*
 *`SFHIT+F11` 跳出*
 *`F10` 跳過*
+
+***
+
+*推薦安裝的外掛/擴充套件(Extensions)*
+
+*`Bracket Pair Colorizer` 透過顏色來配對大中小括號，可更輕易的找到結尾括號*
+*`indent-rainbow` 透過顏色來配對/辨別縮排層級*
+*`Prettier` 代碼排版對齊/格式化*
+*`Live Server` 即時更新預覽*
+*`AutoFileName` 自動填入檔案路徑*
+*`Code Spell Checker` 拚寫檢查*
+*`Guides`*
+*`Power Mode` 打字特效*
+*`Material Icon Theme` 圖示*
+*`Beautify` JavaScript,HTML,CSS程式碼格式化*
+*`Emmet` 快速編寫HTML和CSS的縮寫語法*
+*`Color Picker` 顏色選擇器*
+*`Fira Code` 美觀的字型*
+*`TabNine` 自動補齊程式碼*
