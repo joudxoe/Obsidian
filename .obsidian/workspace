@@ -1,20 +1,16 @@
 {
   "main": {
-    "id": "db0b865d19f16778",
+    "id": "8e469d2d42addd5e",
     "type": "split",
     "children": [
       {
-        "id": "52f522b781a93714",
+        "id": "9c98d940c677a415",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "PHP/字串函式.md",
-=======
-            "file": "PHP/類別.md",
->>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
             "mode": "source"
           }
         }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea69088c6518fac8",
+    "id": "65f8d1b70bdde13b",
     "type": "split",
     "children": [
       {
-        "id": "a7099594cabe5615",
+        "id": "c3ed963cff183cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ef7afbd30cdfa9",
+            "id": "d40271bfa64cd0a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +35,7 @@
             }
           },
           {
-            "id": "52f84831935d54ff",
+            "id": "39ecf127f0f6b0da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,24 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "1e59b90db4bc11c8",
+    "id": "42d3a6c5d680a01b",
     "type": "split",
     "children": [
       {
-        "id": "65f2537f81773a08",
+        "id": "dcde573baf8aa81d",
         "type": "tabs",
         "children": [
           {
-            "id": "0eefb944097c1df1",
+            "id": "55909402c77de62e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "PHP/字串函式.md",
-=======
-                "file": "PHP/類別.md",
->>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,28 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PHP/字串函式.md",
-    "PHP/存取方法.md",
-    "MySQL/數據類型.md",
-    "MySQL/Untitled.md",
-    "MySQL/MySQL 補充資料.md",
-    "MySQL/DML.md",
-    "MySQL/DDL.md",
-    "MySQL/DQL.md",
-    "MySQL/備份與還原資料庫.md",
-    "MySQL/MySQL 常用函式.md"
-=======
-    "PHP/Untitled.md",
-    "PHP/物件導向.md",
-    "PHP/陣列.md",
-    "PHP/迴圈.md",
-    "PHP/函數補充.md",
-    "PHP/變數.md",
-    "PHP/程序導向操作資料庫.md",
-    "PHP/程序導向預處理操作資料庫.md",
-    "PHP/補充知識.md",
-    "PHP/標頭定義.md"
->>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
+    "PHP/字串函式.md"
   ]
 }
