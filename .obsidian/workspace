@@ -10,7 +10,15 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "PHP/字串.md",
+=======
+<<<<<<< HEAD
+            "file": "PHP/字串函式.md",
+=======
+            "file": "PHP/類別.md",
+>>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
+>>>>>>> 2fd7bd20826bf53c33d2d996bd64e222f8abb13d
             "mode": "source"
           }
         }
@@ -69,7 +77,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "PHP/字串.md",
+=======
+<<<<<<< HEAD
+                "file": "PHP/字串函式.md",
+=======
+                "file": "PHP/類別.md",
+>>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
+>>>>>>> 2fd7bd20826bf53c33d2d996bd64e222f8abb13d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +102,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "PHP/字串.md",
     "PHP/類別.md",
     "PHP/靜態成員.md",
@@ -96,5 +113,30 @@
     "PHP/補充資料.md",
     "PHP/存取方法.md",
     "PHP/超全域變數.md"
+=======
+<<<<<<< HEAD
+    "PHP/字串函式.md",
+    "PHP/存取方法.md",
+    "MySQL/數據類型.md",
+    "MySQL/Untitled.md",
+    "MySQL/MySQL 補充資料.md",
+    "MySQL/DML.md",
+    "MySQL/DDL.md",
+    "MySQL/DQL.md",
+    "MySQL/備份與還原資料庫.md",
+    "MySQL/MySQL 常用函式.md"
+=======
+    "PHP/Untitled.md",
+    "PHP/物件導向.md",
+    "PHP/陣列.md",
+    "PHP/迴圈.md",
+    "PHP/函數補充.md",
+    "PHP/變數.md",
+    "PHP/程序導向操作資料庫.md",
+    "PHP/程序導向預處理操作資料庫.md",
+    "PHP/補充知識.md",
+    "PHP/標頭定義.md"
+>>>>>>> e3be7cfc0b4073b99e82be16f98fb0bb8a4a1544
+>>>>>>> 2fd7bd20826bf53c33d2d996bd64e222f8abb13d
   ]
 }
