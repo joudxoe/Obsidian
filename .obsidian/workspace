@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "MySQL/數據類型.md",
     "MySQL/Untitled.md",
     "MySQL/MySQL 補充資料.md",
     "MySQL/DML.md",
@@ -94,7 +95,6 @@
     "MySQL/備份與還原資料庫.md",
     "MySQL/MySQL 常用函式.md",
     "PHP/資料物件操作資料庫.md",
-    "PHP/物件導向操作資料庫.md",
-    "PHP/程序導向操作資料庫.md"
+    "PHP/物件導向操作資料庫.md"
   ]
 }
