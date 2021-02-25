@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/htaccess.md",
+            "file": "PHP/抽象類別.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/htaccess.md",
+                "file": "PHP/抽象類別.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Others/htaccess.md",
-    "Others/Untitled.md",
-    "Others/VSCode.md",
-    "Others/Windwos.md",
-    "Others/Markdown.md",
-    "Others/EMMET.md",
-    "Others/命令提示字元.md",
-    "Others/網站開發.md",
-    "MySQL/備份與還原資料庫.md",
-    "MySQL/常用函式.md"
+    "PHP/抽象類別.md",
+    "PHP/繼承.md",
+    "PHP/檔案與目錄操作.md",
+    "PHP/補充資料.md",
+    "PHP/常數.md",
+    "PHP/例外異常處理.md",
+    "PHP/錯誤檢測處理.md",
+    "PHP/變數.md",
+    "PHP/資料物件操作資料庫.md",
+    "PHP/資料過濾.md"
   ]
 }

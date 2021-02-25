@@ -76,15 +76,22 @@ VS Code支援語法突顯、代碼自動補全並內建命令行工具和Git版�
 *`Bracket Pair Colorizer` 透過顏色來配對大中小括號，可更輕易的找到結尾括號*
 *`indent-rainbow` 透過顏色來配對/辨別縮排層級*
 *`Prettier` 代碼排版對齊/格式化*
-*`Live Server` 即時更新預覽*
+*`Live Server` 即時更新預覽，確保本地開發與運行環境一致*
 *`AutoFileName` 自動填入檔案路徑*
 *`Code Spell Checker` 拚寫檢查*
 *`Guides`*
 *`Power Mode` 打字特效*
 *`Material Icon Theme` 圖示*
+*`One Dark Pro` 主題*
 *`Beautify` JavaScript,HTML,CSS程式碼格式化*
 *`Emmet` 快速編寫HTML和CSS的縮寫語法*
 *`Color Picker` 顏色選擇器*
-*`Fira Code` 美觀的字型*
+*`Fira Code` 字型*
 *`TabNine` 自動補齊程式碼*
-
+*`Better Comment` 將註解加入不同的色彩，讓說明更容易辨識*
+*`dash` 搜尋文件說明*
+*`Excel Viewer` 預覽Excel文檔*
+*`PDF Viewer` 預覽PDF*
+*`Chinese` VS Code簡體中文化*
+*`GitLens`*
+*`Todo Tree`*
