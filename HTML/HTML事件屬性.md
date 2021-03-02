@@ -1,11 +1,11 @@
-*窗口事件*
+窗口事件
 
 *`onblur` 當窗口失去焦點時*
 *`onfocus` 當窗口獲得焦點時*
 *`onload` 當文檔加載時*
 *`onresize` 窗口大小改變時*
 
-*表單事件*
+表單事件
 
 *`onblur` 當元素失去焦點時*
 *`onchange` 當元素改變時*
@@ -18,13 +18,13 @@
 *`oninput` 當元素獲得用戶輸入時*
 *`oninvalid` 當元素無效時*
 
-*鍵盤事件*
+鍵盤事件
 
 *`onkeypress` 當按下按鍵並放開時*
 *`onkeydown` 當按下按鍵時*
 *`onkeyup` 當放開按鍵時*
 
-*滑鼠事件*
+滑鼠事件
 
 *`onclick` 當滑鼠點擊時*
 *`onmousedown` 當按下滑鼠按鈕時*
@@ -35,7 +35,7 @@
 *`onmousewheel` 當滑鼠滾動時*
 *`onscroll` 當捲軸滾動時*
 
-*多媒體事件*
+多媒體事件
 
 `onpause`
 `onplay`
