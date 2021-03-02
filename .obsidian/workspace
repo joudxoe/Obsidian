@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/編碼規範.md",
+            "file": "PHP/開發環境.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/編碼規範.md",
+                "file": "PHP/開發環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/編碼規範.md",
-    "Others/術語.md",
-    "PHP/變數.md",
-    "PHP/Untitled.md",
     "PHP/開發環境.md",
-    "PHP/簡介.md",
-    "Others/VSCode.md",
-    "Others/命令提示字元.md",
-    "Others/EMMET.md",
-    "MySQL/數據類型.md"
+    "Others/CMS.md",
+    "Others/MVC.md",
+    "Others/Smarty.md",
+    "Others/Markdown.md",
+    "Others/Untitled.md",
+    "PHP/大綱.md",
+    "Others/術語.md",
+    "PHP/靜態成員.md",
+    "PHP/上傳檔案.md"
   ]
 }
