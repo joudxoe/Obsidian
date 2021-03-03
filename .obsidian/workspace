@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHP/例外處理.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHP/例外處理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JavaScript/Ajax.md",
+    "PHP/例外處理.md",
     "PHP/大綱.md",
-    "PHP/資料類型.md",
-    "Others/RESTful.md",
-    "Others/術語.md",
-    "Others/Untitled.md",
-    "PHP/RESTful.md",
+    "PHP/錯誤處理.md",
+    "PHP/物件導向.md",
+    "PHP/封裝.md",
     "PHP/Untitled.md",
-    "PHP/內建函數.md",
-    "PHP/函數.md"
+    "PHP/session.md",
+    "PHP/cookie.md",
+    "CSS/佈局.md",
+    "Others/CMS.md"
   ]
 }
