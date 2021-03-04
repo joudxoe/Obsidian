@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93a9c3fca28443bc",
+        "id": "108cfa18748ea333",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHP/陣列函數.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "42d3a6c5d680a01b",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHP/陣列函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/常用函式.md",
-    "MySQL/其它補充.md",
-    "MySQL/終端機命令.md",
-    "MySQL/資料操作語言.md",
-    "MySQL/數據類型.md",
-    "MySQL/終端命令.md",
-    "MySQL/資料定義語言.md",
-    "MySQL/Untitled.md",
-    "MySQL/資料查詢語言.md",
-    "MySQL/SQL敘述.md"
+    "PHP/陣列函數.md",
+    "PHP/內建函數.md",
+    "PHP/補充資料.md",
+    "PHP/陣列.md",
+    "PHP/字串函數.md",
+    "PHP/字串.md",
+    "PHP/常數.md",
+    "PHP/正規表示式.md",
+    "PHP/編碼規範.md",
+    "PHP/環境設定.md"
   ]
 }
