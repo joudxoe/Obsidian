@@ -1,17 +1,20 @@
-session是儲存在何服器端，用來儲存/記錄使用者資訊
+要點整理
+- session是儲存在何服器端，用來儲存/記錄使用者資訊
+- session_start()必須放在程式的最開頭，在還沒輸出任何東西之前
 
 常用的session函式庫
-*`session_start()`*
-*`session_destroy()`*
-*`session_name()`*
-*`session_module_name()`*
-*`session_sava_path()`*
-*`session_id()`*
-*`sesson_register()`*
-*`session_unregister()`*
-*`session_is_registered()`*
-*`session_decode()`*
-*`session_encode()`*
+
+`session_start()`
+`session_destroy()`
+`session_name()`
+`session_module_name()`
+`session_sava_path()`
+`session_id()`
+`sesson_register()`
+`session_unregister()`
+`session_is_registered()`
+`session_decode()`
+`session_encode()`
 
 啟用session
 ```
@@ -37,6 +40,3 @@ unset($_SESSION['author']);
 ```
 session_destroy();
 ```
-
-補充資料
-1. session_start()必須放在程式的最開頭，在還沒輸出任何東西之前

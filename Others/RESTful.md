@@ -1,5 +1,6 @@
-RESTful透過HTTP來表達語義化的路由設計
-RESTful的設計在強調從路由結構就能看出要對什麼資料，進行什麼操作
+要點整理
+- RESTful透過HTTP來表達語義化的路由設計
+- RESTful的設計在強調從路由結構就能看出要對什麼資料，進行什麼操作
 
 HTTP Method
 * GET (讀取)

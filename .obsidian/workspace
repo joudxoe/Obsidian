@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9293881c1a775cf3",
+        "id": "93a9c3fca28443bc",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/例外處理.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/例外處理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/例外處理.md",
-    "PHP/大綱.md",
-    "PHP/錯誤處理.md",
-    "PHP/物件導向.md",
-    "PHP/封裝.md",
-    "PHP/Untitled.md",
-    "PHP/session.md",
-    "PHP/cookie.md",
-    "CSS/佈局.md",
-    "Others/CMS.md"
+    "MySQL/常用函式.md",
+    "MySQL/其它補充.md",
+    "MySQL/終端機命令.md",
+    "MySQL/資料操作語言.md",
+    "MySQL/數據類型.md",
+    "MySQL/終端命令.md",
+    "MySQL/資料定義語言.md",
+    "MySQL/Untitled.md",
+    "MySQL/資料查詢語言.md",
+    "MySQL/SQL敘述.md"
   ]
 }
