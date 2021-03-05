@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/陣列函數.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/陣列函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/陣列函數.md",
-    "PHP/內建函數.md",
-    "PHP/補充資料.md",
-    "PHP/陣列.md",
-    "PHP/字串函數.md",
-    "PHP/字串.md",
-    "PHP/常數.md",
-    "PHP/正規表示式.md",
-    "PHP/編碼規範.md",
-    "PHP/環境設定.md"
+    "PHP/表單實例.md",
+    "PHP/Untitled.md",
+    "PHP/表單.md",
+    "PHP/例外處理.md",
+    "PHP/魔術常數.md",
+    "PHP/大綱.md",
+    "PHP/亂數函數.md",
+    "PHP/簡易帳密登入.md",
+    "HTML/HTML事件屬性.md",
+    "HTML/語言規範.md"
   ]
 }
