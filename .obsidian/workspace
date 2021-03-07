@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHP/程序導向操作資料庫.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHP/程序導向操作資料庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/表單實例.md",
-    "PHP/Untitled.md",
-    "PHP/表單.md",
-    "PHP/例外處理.md",
+    "PHP/程序導向操作資料庫.md",
+    "PHP/標頭定義.md",
+    "Others/VSCode.md",
+    "PHP/檔案路徑.md",
+    "PHP/內建函數.md",
     "PHP/魔術常數.md",
-    "PHP/大綱.md",
-    "PHP/亂數函數.md",
-    "PHP/簡易帳密登入.md",
-    "HTML/HTML事件屬性.md",
-    "HTML/語言規範.md"
+    "PHP/常數.md",
+    "PHP/Untitled.md",
+    "PHP/取得檔案目錄.md",
+    "PHP/命名空間.md"
   ]
 }
