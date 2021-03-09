@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "108cfa18748ea333",
+        "id": "6d87254c36d01f31",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/Markdown.md",
+            "file": "HTML/標籤.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 254
   },
   "right": {
     "id": "42d3a6c5d680a01b",
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Markdown.md",
+                "file": "HTML/標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -82,19 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 285.3999938964844
   },
   "lastOpenFiles": [
-    "Others/Markdown.md",
-    "Others/VSCode.md",
-    "Others/Windwos.md",
-    "PHP/開發環境.md",
-    "PHP/介面.md",
-    "PHP/大綱.md",
-    "PHP/程序導向操作資料庫.md",
-    "PHP/標頭定義.md",
-    "PHP/檔案路徑.md",
-    "PHP/內建函數.md"
+    "HTML/標籤.md",
+    "HTML/其它補充.md",
+    "HTML/語言規範.md",
+    "HTML/HTML事件屬性.md",
+    "PHP/抽象類別.md",
+    "PHP/超全域變數.md",
+    "PHP/常數.md",
+    "PHP/參數變數.md",
+    "PHP/補充資料.md",
+    "PHP/魔術引號.md"
   ]
 }

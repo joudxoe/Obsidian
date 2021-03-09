@@ -40,3 +40,7 @@ unset($_SESSION['author']);
 ```
 session_destroy();
 ```
+
+```
+session_unset();
+```
