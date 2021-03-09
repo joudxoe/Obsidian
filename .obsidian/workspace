@@ -6,12 +6,37 @@
       {
         "id": "6d87254c36d01f31",
         "type": "leaf",
+        "dimension": 31.16651825467498,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHP/大綱.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "1a292c9ec3139153",
+        "type": "leaf",
+        "dimension": 37.88958147818344,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/標籤.md",
+            "file": "PHP/變數.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7a3a7f7855d6bab0",
+        "type": "leaf",
+        "dimension": 30.943900267141583,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHP/變數命名規則.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/標籤.md",
+                "file": "PHP/變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,18 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.3999938964844
+    "width": 409,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML/標籤.md",
-    "HTML/其它補充.md",
-    "HTML/語言規範.md",
-    "HTML/HTML事件屬性.md",
-    "PHP/抽象類別.md",
-    "PHP/超全域變數.md",
-    "PHP/常數.md",
-    "PHP/參數變數.md",
-    "PHP/補充資料.md",
-    "PHP/魔術引號.md"
+    "PHP/變數.md",
+    "PHP/變數命名規則.md",
+    "PHP/大綱.md",
+    "PHP/變數作用域.md",
+    "PHP/動態變數.md",
+    "PHP/靜態變數.md",
+    "PHP/資料類型.md",
+    "PHP/浮點數.md",
+    "PHP/Untitled.md",
+    "PHP/編碼規範.md"
   ]
 }
