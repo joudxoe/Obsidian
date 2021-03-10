@@ -4,14 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6d87254c36d01f31",
+        "id": "afd5c759e5ca9d61",
         "type": "leaf",
+        "dimension": 44.74621549421193,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHP/大綱.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "beb99088007f5736",
+        "type": "leaf",
+        "dimension": 55.253784505788076,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/其它函式.md",
-            "mode": "preview"
+            "file": "PHP/類別.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/其它函式.md",
+                "file": "PHP/類別.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/其它函式.md",
-    "MySQL/其它補充.md",
-    "MySQL/數值函式.md",
-    "MySQL/函式.md",
-    "MySQL/統計函式.md",
-    "MySQL/Untitled.md",
-    "MySQL/常用函式.md",
-    "MySQL/數據類型.md",
+    "PHP/類別.md",
+    "PHP/類別常數.md",
+    "PHP/檔案路徑.md",
+    "PHP/檔案函式.md",
+    "PHP/檔案與目錄操作.md",
+    "PHP/檔案上傳.md",
     "PHP/大綱.md",
-    "PHP/目錄函式.md"
+    "PHP/流程控制.md",
+    "PHP/選擇結構.md",
+    "PHP/迴圈結構.md"
   ]
 }
