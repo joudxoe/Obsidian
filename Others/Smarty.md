@@ -6,7 +6,7 @@ Smarty安裝
 1. 到Smarty官網下載Smarty套件
 2. 將解壓縮後的libs目錄放到根目錄下
 
-Smarty初始環境設定
+Smarty環境設定
 ```
 define('SMARTY_DIR','smarty-2.6.9')
 define('__SITE_ROOT','d:/appserv/www/project');

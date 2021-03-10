@@ -6,36 +6,11 @@
       {
         "id": "6d87254c36d01f31",
         "type": "leaf",
-        "dimension": 31.16651825467498,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/大綱.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "1a292c9ec3139153",
-        "type": "leaf",
-        "dimension": 37.88958147818344,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/變數.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7a3a7f7855d6bab0",
-        "type": "leaf",
-        "dimension": 30.943900267141583,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/變數命名規則.md",
+            "file": "MySQL/其它函式.md",
             "mode": "preview"
           }
         }
@@ -94,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/變數.md",
+                "file": "MySQL/其它函式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,19 +82,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409,
+    "width": 285.3999938964844,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/變數.md",
-    "PHP/變數命名規則.md",
+    "MySQL/其它函式.md",
+    "MySQL/其它補充.md",
+    "MySQL/數值函式.md",
+    "MySQL/函式.md",
+    "MySQL/統計函式.md",
+    "MySQL/Untitled.md",
+    "MySQL/常用函式.md",
+    "MySQL/數據類型.md",
     "PHP/大綱.md",
-    "PHP/變數作用域.md",
-    "PHP/動態變數.md",
-    "PHP/靜態變數.md",
-    "PHP/資料類型.md",
-    "PHP/浮點數.md",
-    "PHP/Untitled.md",
-    "PHP/編碼規範.md"
+    "PHP/目錄函式.md"
   ]
 }
