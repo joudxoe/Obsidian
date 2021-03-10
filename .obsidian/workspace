@@ -6,24 +6,11 @@
       {
         "id": "afd5c759e5ca9d61",
         "type": "leaf",
-        "dimension": 44.74621549421193,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/大綱.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "beb99088007f5736",
-        "type": "leaf",
-        "dimension": 55.253784505788076,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/類別.md",
+            "file": "PHP/大綱.md",
             "mode": "source"
           }
         }
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/類別.md",
+                "file": "PHP/大綱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PHP/大綱.md",
     "PHP/類別.md",
     "PHP/類別常數.md",
     "PHP/檔案路徑.md",
     "PHP/檔案函式.md",
     "PHP/檔案與目錄操作.md",
     "PHP/檔案上傳.md",
-    "PHP/大綱.md",
     "PHP/流程控制.md",
     "PHP/選擇結構.md",
     "PHP/迴圈結構.md"
