@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "afd5c759e5ca9d61",
+        "id": "4e523519343572b0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/大綱.md",
-            "mode": "source"
+            "file": "PHP/資料轉型.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "get_type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/大綱.md",
+                "file": "PHP/資料轉型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PHP/資料轉型.md",
+    "PHP/程序導向操作資料庫.md",
+    "PHP/物件導向操作資料庫.md",
+    "PHP/資料庫存取.md",
     "PHP/大綱.md",
-    "PHP/類別.md",
-    "PHP/類別常數.md",
-    "PHP/檔案路徑.md",
-    "PHP/檔案函式.md",
-    "PHP/檔案與目錄操作.md",
-    "PHP/檔案上傳.md",
-    "PHP/流程控制.md",
-    "PHP/選擇結構.md",
-    "PHP/迴圈結構.md"
+    "PHP/亂數函式.md",
+    "PHP/資訊安全.md",
+    "PHP/函式.md",
+    "PHP/靜態變數.md",
+    "PHP/變數.md"
   ]
 }
