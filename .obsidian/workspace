@@ -6,12 +6,25 @@
       {
         "id": "cffd59d0689d6728",
         "type": "leaf",
+        "dimension": 50.0987491770902,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHP/類別與物件.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b71e0b7667d8206b",
+        "type": "leaf",
+        "dimension": 49.90125082290981,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/表單元素.md",
-            "mode": "source"
+            "file": "PHP/封裝.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/表單元素.md",
+                "file": "PHP/封裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML/表單元素.md",
-    "HTML/Untitled.md",
-    "HTML/多媒體元素.md",
-    "HTML/表格元素.md",
-    "HTML/補充知識.md",
-    "Others/Windwos快捷鍵.md",
-    "HTML/列表元素.md",
-    "HTML/HTML規範.md",
-    "Others/瀏覽器快捷鍵.md",
-    "Others/Markdown.md"
+    "PHP/封裝.md",
+    "PHP/物件導向.md",
+    "PHP/類別與物件.md",
+    "PHP/資料類型.md",
+    "PHP/類別.md",
+    "PHP/大綱.md",
+    "PHP/函式參數.md",
+    "PHP/函式.md",
+    "JavaScript/Ajax.md",
+    "HTML/表單元素.md"
   ]
 }

@@ -1,4 +1,5 @@
 AJAX
+- AJAX (Asynchronous JavaScript and XML - ==非同步==的JavaScript與XML技術)
 - AJAX是一種不需重整頁面，透過JavaScript和伺服器交換資料，來更新網頁內容的技術
 - AJAX透過XHR發送HTTP請求，在不重整頁面的情況下，更新部份的網頁內容
 - 更新頁面資料時不需進行頁面重載(Page Reload)，這種非同步更新資料的技術就是AJAX
