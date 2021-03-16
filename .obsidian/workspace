@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "74ef30976e2480d5",
+        "id": "cffd59d0689d6728",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/已移除的元素.md",
+            "file": "HTML/表單元素.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 281
   },
   "right": {
     "id": "42d3a6c5d680a01b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/已移除的元素.md",
+                "file": "HTML/表單元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML/表單元素.md",
     "HTML/Untitled.md",
-    "HTML/文本格式化元素.md",
-    "HTML/語義元素.md",
-    "HTML/頭部元素.md",
-    "HTML/HTML規範.md",
-    "HTML/補充知識.md",
-    "HTML/圖像元素.md",
     "HTML/多媒體元素.md",
-    "HTML/HTML事件屬性.md",
-    "HTML/文本格式化.md"
+    "HTML/表格元素.md",
+    "HTML/補充知識.md",
+    "Others/Windwos快捷鍵.md",
+    "HTML/列表元素.md",
+    "HTML/HTML規範.md",
+    "Others/瀏覽器快捷鍵.md",
+    "Others/Markdown.md"
   ]
 }

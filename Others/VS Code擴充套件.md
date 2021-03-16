@@ -1,0 +1,22 @@
+`Bracket Pair Colorizer` <small>透過顏色配對括號，可更輕易找到結尾括號</small>
+`indent-rainbow` <small>透過顏色來配對/辨別縮排層級</small>
+`Prettier` <small>代碼排版對齊/格式化</small>
+`Live Server` <small>即時更新預覽，確保本地開發與運行環境一致</small>
+`AutoFileName` <small>自動填入檔案路徑</small>
+`Code Spell Checker` <small>拚寫檢查</small>
+`Guides`
+`Power Mode` <small>打字特效</small>
+`Material Icon Theme` <small>圖示</small>
+`One Dark Pro` <small>主題</small>
+`Beautify` <small>JavaScript,HTML,CSS程式碼格式化</small>
+`Emmet` <small>快速編寫HTML和CSS的縮寫語法</small>
+`Color Picker` <small>顏色選擇器</small>
+`Fira Code` <small>字型</small>
+`TabNine` <small>自動補齊程式碼</small>
+`Better Comment` <small>將註解加入不同的色彩，讓說明更容易辨識</small>
+`dash` <small>搜尋文件說明</small>
+`Excel Viewer` <small>預覽Excel文檔</small>
+`PDF Viewer` <small>預覽PDF</small>
+`Chinese` <small>VS Code簡體中文化</small>
+`GitLens`
+`Todo Tree`
