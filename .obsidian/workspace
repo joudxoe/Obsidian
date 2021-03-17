@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "cffd59d0689d6728",
+        "id": "3a3c33d226bc0dde",
         "type": "leaf",
+<<<<<<< HEAD
         "state": {
           "type": "markdown",
           "state": {
@@ -17,11 +18,17 @@
       {
         "id": "f75d4a85ed374ea5",
         "type": "leaf",
+=======
+>>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "PHP/函式參數.md",
+=======
+            "file": "HTML/表單元素.md",
+>>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
             "mode": "preview"
           }
         }
@@ -80,7 +87,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "PHP/函式參數.md",
+=======
+                "file": "HTML/表單元素.md",
+>>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +108,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "PHP/函式參數.md",
     "PHP/函式.md",
     "PHP/變數.md",
@@ -107,5 +119,17 @@
     "PHP/內建常數.md",
     "PHP/常數.md",
     "PHP/魔術常數.md"
+=======
+    "HTML/表單元素.md",
+    "HTML/頭部元素.md",
+    "HTML/表格元素.md",
+    "HTML/補充知識.md",
+    "HTML/全域屬性.md",
+    "HTML/嵌入元素.md",
+    "HTML/多媒體元素.md",
+    "HTML/多媒體格式.md",
+    "HTML/列表元素.md",
+    "HTML/框架元素.md"
+>>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
   ]
 }
