@@ -1,5 +1,5 @@
 要點整理
-- .htaccess是Apache Web Server對系統目錄進行權限規則設置的一個配置文件
+- `.htaccess`是Apache Web Server對系統目錄進行權限規則設置的一個配置文件
 - 一般會將.htaccess文件放在網站的根目錄，以控制所在目錄及所有子目錄
 - 301常被用於網址發生變化時，例如變更網域、網站目錄或是頁面名稱
 
@@ -21,7 +21,6 @@ RewriteBase /
 RewriteRule . /index.php [L]
 </IfModule>
 ```
-
 
 變更默認首頁
 ```
