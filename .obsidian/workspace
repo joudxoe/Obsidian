@@ -6,24 +6,22 @@
       {
         "id": "cffd59d0689d6728",
         "type": "leaf",
-        "dimension": 50.0987491770902,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/類別與物件.md",
+            "file": "PHP/大綱.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b71e0b7667d8206b",
+        "id": "f75d4a85ed374ea5",
         "type": "leaf",
-        "dimension": 49.90125082290981,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/封裝.md",
+            "file": "PHP/函式參數.md",
             "mode": "preview"
           }
         }
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "get_type",
+                "query": "is_null",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/封裝.md",
+                "file": "PHP/函式參數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/封裝.md",
-    "PHP/物件導向.md",
-    "PHP/類別與物件.md",
-    "PHP/資料類型.md",
-    "PHP/類別.md",
-    "PHP/大綱.md",
     "PHP/函式參數.md",
     "PHP/函式.md",
-    "JavaScript/Ajax.md",
-    "HTML/表單元素.md"
+    "PHP/變數.md",
+    "PHP/傳址呼叫.md",
+    "PHP/變數命名規則.md",
+    "PHP/運算子.md",
+    "PHP/Untitled.md",
+    "PHP/內建常數.md",
+    "PHP/常數.md",
+    "PHP/魔術常數.md"
   ]
 }
