@@ -1,35 +1,17 @@
 {
   "main": {
-    "id": "8e469d2d42addd5e",
+    "id": "a543a234dce9ba8f",
     "type": "split",
     "children": [
       {
-        "id": "3a3c33d226bc0dde",
+        "id": "c7d5f0ad83aa8955",
         "type": "leaf",
-<<<<<<< HEAD
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/大綱.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f75d4a85ed374ea5",
-        "type": "leaf",
-=======
->>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "PHP/函式參數.md",
-=======
-            "file": "HTML/表單元素.md",
->>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
-            "mode": "preview"
+            "file": "PHP/URL編碼.md",
+            "mode": "source"
           }
         }
       }
@@ -37,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "65f8d1b70bdde13b",
+    "id": "e50c460f0eecdbe3",
     "type": "split",
     "children": [
       {
-        "id": "c3ed963cff183cb1",
+        "id": "57a49512717508db",
         "type": "tabs",
         "children": [
           {
-            "id": "d40271bfa64cd0a9",
+            "id": "4a128c9cd9bb7a13",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +35,12 @@
             }
           },
           {
-            "id": "39ecf127f0f6b0da",
+            "id": "bec0eeee5b0d4462",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "is_null",
+                "query": "number_format",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,31 +53,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 307
   },
   "right": {
-    "id": "42d3a6c5d680a01b",
+    "id": "abf56205d120f554",
     "type": "split",
     "children": [
       {
-        "id": "dcde573baf8aa81d",
+        "id": "f2a834a3f5bd469a",
         "type": "tabs",
         "children": [
           {
-            "id": "55909402c77de62e",
+            "id": "25dc848244909938",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "PHP/函式參數.md",
-=======
-                "file": "HTML/表單元素.md",
->>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
+                "file": "PHP/URL編碼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -104,32 +82,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.3999938964844,
+    "width": 300,
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PHP/函式參數.md",
-    "PHP/函式.md",
-    "PHP/變數.md",
-    "PHP/傳址呼叫.md",
-    "PHP/變數命名規則.md",
-    "PHP/運算子.md",
     "PHP/Untitled.md",
-    "PHP/內建常數.md",
-    "PHP/常數.md",
-    "PHP/魔術常數.md"
-=======
+    "HTML/輸入元素.md",
     "HTML/表單元素.md",
-    "HTML/頭部元素.md",
-    "HTML/表格元素.md",
-    "HTML/補充知識.md",
-    "HTML/全域屬性.md",
-    "HTML/嵌入元素.md",
-    "HTML/多媒體元素.md",
-    "HTML/多媒體格式.md",
-    "HTML/列表元素.md",
-    "HTML/框架元素.md"
->>>>>>> e9556524550f8fc4373799d6aabb2d8781ad3293
+    "PHP/檔案上傳.md",
+    "PHP/表單.md",
+    "PHP/表單傳遞方式.md",
+    "PHP/引用.md",
+    "PHP/靜態變數.md",
+    "PHP/陣列函式.md",
+    "PHP/陣列.md"
   ]
 }
