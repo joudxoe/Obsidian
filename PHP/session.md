@@ -42,6 +42,10 @@ echo $_SESSION['author'];
 unset($_SESSION['author']);
 ```
 
+```
+$_SESSION['author']=null;
+```
+
 刪除全部的session，需謹愼使用
 ```
 session_destroy();

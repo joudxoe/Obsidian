@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d5f0ad83aa8955",
+        "id": "a61797f642917c04",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/圖像處理.md",
+            "file": "PHP/目錄函式.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/圖像處理.md",
+                "file": "PHP/目錄函式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/圖像處理.md",
-    "PHP/物件導向.md",
+    "PHP/目錄函式.md",
+    "PHP/檔案與目錄操作.md",
+    "PHP/檔案函式.md",
+    "PHP/檔案上傳.md",
+    "PHP/檔案路徑.md",
+    "PHP/寫入檔案.md",
     "PHP/Untitled.md",
-    "PHP/大綱.md",
-    "PHP/Cookie.md",
-    "PHP/Session.md",
-    "PHP/會話函式.md",
-    "PHP/匹配函式.md",
-    "PHP/時間函式.md",
-    "PHP/日期函式.md"
+    "PHP/讀取檔案.md",
+    "PHP/驗證碼類別.md",
+    "PHP/圖像處理.md"
   ]
 }
