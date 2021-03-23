@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/目錄操作.md",
+            "file": "PHP/存取修飾子.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/目錄操作.md",
+                "file": "PHP/存取修飾子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PHP/存取修飾子.md",
+    "PHP/物件導向.md",
+    "PHP/開啟檔案.md",
     "PHP/目錄操作.md",
     "PHP/檔案與目錄.md",
-    "PHP/轉義過濾函式.md",
-    "PHP/變數作用域.md",
-    "PHP/物件導向.md",
     "PHP/檔案上傳.md",
-    "PHP/目錄函式.md",
-    "PHP/Untitled.md",
-    "PHP/檔案函式.md",
-    "PHP/超全域變數.md"
+    "PHP/PHP設定.md",
+    "PHP/大綱.md",
+    "PHP/轉義過濾函式.md",
+    "PHP/變數作用域.md"
   ]
 }
