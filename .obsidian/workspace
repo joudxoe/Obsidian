@@ -7,10 +7,11 @@
         "id": "251fcfb0bdf3ee1a",
         "type": "leaf",
         "dimension": 43.1282722513089,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/大綱.md",
+            "file": "`Smarty`.md",
             "mode": "source"
           }
         }
@@ -19,7 +20,6 @@
         "id": "4f27aec1b1368039",
         "type": "leaf",
         "dimension": 56.8717277486911,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/phpMyAdmin設定.md",
+                "file": "`Smarty`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "`Smarty`.md",
+    "PHP/大綱.md",
     "PHP/phpMyAdmin設定.md",
     "PHP/環境設定.md",
-    "PHP/大綱.md",
     "PHP/開發環境.md",
     "Others/MVC.md",
     "PHP/PHP設定.md",
     "PHP/物件導向.md",
     "PHP/例外處理.md",
-    "PHP/錯誤處理.md",
-    "PHP/資訊安全.md"
+    "PHP/錯誤處理.md"
   ]
 }
