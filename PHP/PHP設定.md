@@ -6,7 +6,7 @@ PHP設定
 * `precision` <small>浮點數顯示時的有效位數</small>
 * `safe_mode` <small>是否啟用安全模式</small>
 * `post_max_size=4M` <small>PHP能接收POST資料的最大值</small>
-* `magic_quotes_gpc` <small>是否對GET/POST/Cookie資料啟用魔術引用</small>
+* `magic_quotes_gpc` <small>是否對GET/POST/Cookie資料啟用[[魔術引號]]</small>
 
 資源限制
 * `memory_limit` <small>腳本可使用的記憶體，單位為位元組，預設為128MB</small>

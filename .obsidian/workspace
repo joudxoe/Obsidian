@@ -6,12 +6,25 @@
       {
         "id": "251fcfb0bdf3ee1a",
         "type": "leaf",
+        "dimension": 43.1282722513089,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHP/大綱.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4f27aec1b1368039",
+        "type": "leaf",
+        "dimension": 56.8717277486911,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/函式參數.md",
-            "mode": "preview"
+            "file": "PHP/phpMyAdmin設定.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/函式參數.md",
+                "file": "PHP/phpMyAdmin設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/函式參數.md",
-    "PHP/函式.md",
-    "PHP/自訂函式.md",
-    "PHP/Untitled.md",
-    "PHP/匿名函式.md",
-    "PHP/內建函式.md",
-    "PHP/其它補充.md",
-    "PHP/標頭定義.md",
-    "PHP/時間函式.md",
-    "PHP/日期時間.md"
+    "PHP/phpMyAdmin設定.md",
+    "PHP/環境設定.md",
+    "PHP/大綱.md",
+    "PHP/開發環境.md",
+    "Others/MVC.md",
+    "PHP/PHP設定.md",
+    "PHP/物件導向.md",
+    "PHP/例外處理.md",
+    "PHP/錯誤處理.md",
+    "PHP/資訊安全.md"
   ]
 }
