@@ -1,22 +1,17 @@
 {
   "main": {
-    "id": "a543a234dce9ba8f",
+    "id": "77efd493104597fc",
     "type": "split",
     "children": [
       {
-        "id": "a61797f642917c04",
+        "id": "9182a35b1ab5f87e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "PHP/介面實做.md",
-            "mode": "source"
-=======
-            "file": "PHP/目錄操作.md",
+            "file": "PHP/存取修飾子.md",
             "mode": "preview"
->>>>>>> 8c87bc23d4977e8520968844b0c9b08a30c14ac6
           }
         }
       }
@@ -24,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e50c460f0eecdbe3",
+    "id": "539dbf4724e65b80",
     "type": "split",
     "children": [
       {
-        "id": "57a49512717508db",
+        "id": "1ea80ea8ab921fad",
         "type": "tabs",
         "children": [
           {
-            "id": "4a128c9cd9bb7a13",
+            "id": "819533b8f12cc704",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,12 +35,12 @@
             }
           },
           {
-            "id": "bec0eeee5b0d4462",
+            "id": "960baf1246d7d7ed",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "htmlentities",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,32 +53,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 300
   },
   "right": {
-    "id": "abf56205d120f554",
+    "id": "601f899ff2b6320d",
     "type": "split",
     "children": [
       {
-        "id": "f2a834a3f5bd469a",
+        "id": "d10f3509db2b7f92",
         "type": "tabs",
         "children": [
           {
-            "id": "25dc848244909938",
+            "id": "f312bfeed0ed375a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "PHP/介面實做.md",
-=======
-                "file": "PHP/目錄操作.md",
->>>>>>> 8c87bc23d4977e8520968844b0c9b08a30c14ac6
+                "file": "PHP/存取修飾子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -95,28 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PHP/介面實做.md",
-    "PHP/介面.md",
-    "PHP/物件導向.md",
-    "PHP/Untitled.md",
-    "PHP/繼承.md",
-    "PHP/多型.md",
-    "PHP/類別與物件.md",
-    "PHP/物件導向操作資料庫.md",
-    "PHP/抽象類別.md",
-    "PHP/靜態成員.md"
-=======
-    "PHP/目錄操作.md",
-    "PHP/檔案與目錄.md",
-    "PHP/轉義過濾函式.md",
-    "PHP/變數作用域.md",
-    "PHP/物件導向.md",
-    "PHP/檔案上傳.md",
-    "PHP/目錄函式.md",
-    "PHP/Untitled.md",
-    "PHP/檔案函式.md",
-    "PHP/超全域變數.md"
->>>>>>> 8c87bc23d4977e8520968844b0c9b08a30c14ac6
+    "PHP/存取修飾子.md",
+    "PHP/物件導向.md"
   ]
 }
