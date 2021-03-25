@@ -32,5 +32,10 @@ PHP設定
 * `default_socket_timeout` <small>預設連接超時時間，以秒為單位</small>
 * `allow_url_fopen` <small>是否允許把URLs當做檔案處理</small>
 
+郵件設定
+* `SMTP`
+* `smtp_port`
+* `sendmail_from`
+
 要點整理
 - 限制程式執行時間，可有效避免單一網頁程式耗用太多伺服器資源

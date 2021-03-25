@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "251fcfb0bdf3ee1a",
+        "id": "4f27aec1b1368039",
         "type": "leaf",
-        "dimension": 43.1282722513089,
-        "active": true,
+        "dimension": 32.62032085561498,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "`Smarty`.md",
-            "mode": "source"
+            "file": "PHP/大綱.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "4f27aec1b1368039",
+        "id": "b313943b7be76f98",
         "type": "leaf",
-        "dimension": 56.8717277486911,
+        "dimension": 67.37967914438502,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/phpMyAdmin設定.md",
+            "file": "PHP/PHPMailer.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "傳址",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "`Smarty`.md",
+                "file": "PHP/PHPMailer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "`Smarty`.md",
-    "PHP/大綱.md",
-    "PHP/phpMyAdmin設定.md",
-    "PHP/環境設定.md",
-    "PHP/開發環境.md",
-    "Others/MVC.md",
+    "PHP/PHPMailer.md",
+    "PHP/郵件發送.md",
+    "PHP/電子郵件.md",
     "PHP/PHP設定.md",
-    "PHP/物件導向.md",
-    "PHP/例外處理.md",
-    "PHP/錯誤處理.md"
+    "PHP/環境設定.md",
+    "PHP/大綱.md",
+    "PHP/Untitled.md",
+    "PHP/函式.md",
+    "PHP/日期時間.md",
+    "PHP/編碼規範.md"
   ]
 }
