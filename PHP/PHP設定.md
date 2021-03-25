@@ -32,7 +32,7 @@ PHP設定
 * `default_socket_timeout` <small>預設連接超時時間，以秒為單位</small>
 * `allow_url_fopen` <small>是否允許把URLs當做檔案處理</small>
 
-郵件設定
+郵件發送
 * `SMTP`
 * `smtp_port`
 * `sendmail_from`
