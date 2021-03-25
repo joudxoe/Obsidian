@@ -6,25 +6,12 @@
       {
         "id": "4f27aec1b1368039",
         "type": "leaf",
-        "dimension": 32.62032085561498,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHP/大綱.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "b313943b7be76f98",
-        "type": "leaf",
-        "dimension": 67.37967914438502,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/PHPMailer.md",
-            "mode": "source"
+            "file": "PHP/檔案與目錄.md",
+            "mode": "preview"
           }
         }
       }
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/PHPMailer.md",
+                "file": "PHP/檔案與目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PHP/檔案與目錄.md",
+    "PHP/目錄函式.md",
+    "PHP/檔案函式.md",
+    "PHP/大綱.md",
     "PHP/PHPMailer.md",
     "PHP/郵件發送.md",
     "PHP/電子郵件.md",
     "PHP/PHP設定.md",
     "PHP/環境設定.md",
-    "PHP/大綱.md",
-    "PHP/Untitled.md",
-    "PHP/函式.md",
-    "PHP/日期時間.md",
-    "PHP/編碼規範.md"
+    "PHP/Untitled.md"
   ]
 }
