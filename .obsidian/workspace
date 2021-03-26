@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f27aec1b1368039",
+        "id": "9370a34f247792e7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/電子郵件.md",
+            "file": "PHP/變數.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/電子郵件.md",
+                "file": "PHP/變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/電子郵件.md",
-    "PHP/PHPMailer.md",
-    "PHP/郵件發送.md",
-    "PHP/PHP設定.md",
-    "PHP/環境設定.md",
-    "PHP/大綱.md",
     "PHP/變數.md",
-    "PHP/函式參數.md",
-    "PHP/函式.md",
-    "PHP/檔案與目錄.md"
+    "PHP/遍歷陣列.md",
+    "PHP/編碼規範.md",
+    "Others/Composer.md",
+    "PHP/大綱.md",
+    "PHP/表單.md",
+    "Others/MVC.md",
+    "PHP/JSON.md",
+    "PHP/JSON編碼.md",
+    "PHP/Untitled.md"
   ]
 }
