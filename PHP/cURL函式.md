@@ -1,0 +1,12 @@
+cURL函式
+- `curl_init()`
+- `curl_file_create()`
+- `curl_getinfo()`
+- `curl_exec()`
+- `curl_setopt()`
+- `curl_error()`
+- `curl_errno()`
+- `curl_close()`
+- `curl_pause()`
+- `curl_reset()`
+- `curl_version()`

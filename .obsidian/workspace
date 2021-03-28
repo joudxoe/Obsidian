@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/變數.md",
+            "file": "PHP/函式.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "傳址",
+                "query": "urlencode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/變數.md",
+                "file": "PHP/函式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/變數.md",
-    "PHP/遍歷陣列.md",
-    "PHP/編碼規範.md",
-    "Others/Composer.md",
-    "PHP/大綱.md",
-    "PHP/表單.md",
-    "Others/MVC.md",
-    "PHP/JSON.md",
+    "PHP/函式.md",
+    "PHP/cURL函式.md",
+    "PHP/Untitled.md",
+    "PHP/URL編碼.md",
+    "PHP/雜湊函式.md",
     "PHP/JSON編碼.md",
-    "PHP/Untitled.md"
+    "PHP/JSON.md",
+    "PHP/JSON解碼.md",
+    "PHP/JSON格式.md",
+    "PHP/大綱.md"
   ]
 }

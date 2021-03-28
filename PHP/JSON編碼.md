@@ -1,18 +1,39 @@
-JSON編碼: 將關聯陣列編碼為JSON物件
+將關聯陣列編碼為JSON物件
 ```
-$scores=array('Peter'=>84,'Jane'=>92,'Sam'=>88);	// an associative array
+$scores=array('Peter'=>84,'Jane'=>92,'Sam'=>88);
 json_encode($scores);
 ```
 
-JSON編碼: 將數值陣列編碼為JSON陣列
+將數值陣列強制編碼為JSON物件
 ```
-$employees=['jane','same','peter','方大同'];	// an indexed array
-json_encode($employees);
-json_encode($employees, JSON_FORCE_OBJECT);	// 強制返回JSON物件
-json_encode($employees, JSON_UNESCAPED_UNICODE);	// 不編碼中文
+$employees=['jane','sam','peter'];
+json_encode($employees, JSON_FORCE_OBJECT);
 ```
 
-JSON編碼: 將PHP物件編碼為JSON物件
+將數值陣列編碼為JSON陣列
+```
+$employees=['jane','sam','peter'];
+json_encode($employees);
+```
+
+將含有中文的陣列轉成JSON物件
+```
+$city=array(
+	'北部'=>'台北','北部'=>'桃園',
+	'中部'=>'台中','中部'=>'南投',
+	'南部'=>'台南','南部'=>'高雄'
+);
+// 利用urlencode編碼中文字
+foreach($city as $key=>$val){
+	$new_city[urlencode($key)]=urlencode($val);
+}
+// 將資料轉成JSON格式
+$json=json_encode($new_city);
+// 使用urldecode將資料轉回中文
+$data=urldecode($json);
+```
+
+將PHP物件編碼為JSON物件
 ```
 class Employee{
 	public $name='jane';
