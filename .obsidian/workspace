@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/函式.md",
-            "mode": "source"
+            "file": "PHP/程序導向操作資料庫.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "urlencode",
+                "query": "pecl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/函式.md",
+                "file": "PHP/程序導向操作資料庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PHP/函式.md",
-    "PHP/cURL函式.md",
-    "PHP/Untitled.md",
-    "PHP/URL編碼.md",
-    "PHP/雜湊函式.md",
-    "PHP/JSON編碼.md",
-    "PHP/JSON.md",
-    "PHP/JSON解碼.md",
-    "PHP/JSON格式.md",
-    "PHP/大綱.md"
+    "PHP/程序導向操作資料庫.md",
+    "PHP/資料庫存取.md",
+    "PHP/大綱.md",
+    "MySQL/其它補充.md",
+    "PHP/流程控制.md",
+    "PHP/選擇結構.md",
+    "PHP/迴圈結構.md",
+    "PHP/資料類型.md",
+    "PHP/編碼規範.md",
+    "PHP/錯誤級別.md"
   ]
 }

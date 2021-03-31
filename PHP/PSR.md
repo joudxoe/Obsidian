@@ -1,5 +1,5 @@
 要點整理
-- ==PSR==(PHP Standards Recommendations)是編寫PHP時的標準建議/規範，不是規定
+- ==PSR==(PHP Standards Recommendations)是編寫PHP時的標準建議/規範，並非規定
 - PSR目的在於以最低程度的限制定訂統一的標準，讓各框架==遵循統一的編碼規範==
 
 PSR規範
