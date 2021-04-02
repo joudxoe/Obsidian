@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/程序導向操作資料庫.md",
-            "mode": "preview"
+            "file": "MySQL/資料庫正規化.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/程序導向操作資料庫.md",
+                "file": "MySQL/資料庫正規化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "MySQL/Untitled.md",
+    "PHP/URL編碼.md",
+    "PHP/大綱.md",
+    "Others/Windwos快捷鍵.md",
+    "Others/VS Code快捷鍵.md",
     "PHP/程序導向操作資料庫.md",
     "PHP/資料庫存取.md",
-    "PHP/大綱.md",
     "MySQL/其它補充.md",
     "PHP/流程控制.md",
-    "PHP/選擇結構.md",
-    "PHP/迴圈結構.md",
-    "PHP/資料類型.md",
-    "PHP/編碼規範.md",
-    "PHP/錯誤級別.md"
+    "PHP/選擇結構.md"
   ]
 }
