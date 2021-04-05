@@ -10,8 +10,13 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "MySQL/資料表操作存取.md",
             "mode": "preview"
+=======
+            "file": "MySQL/資料庫正規化.md",
+            "mode": "source"
+>>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
           }
         }
       }
@@ -40,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "urlencode",
+                "query": "pecl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "MySQL/資料表操作存取.md",
+=======
+                "file": "MySQL/資料庫正規化.md",
+>>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +95,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "MySQL/資料表操作存取.md",
     "PHP/大綱.md",
     "MySQL/資料庫大綱.md",
@@ -96,5 +106,17 @@
     "MySQL/資料庫備份與還原.md",
     "MySQL/其它補充.md",
     "MySQL/資料庫簡介.md"
+=======
+    "MySQL/Untitled.md",
+    "PHP/URL編碼.md",
+    "PHP/大綱.md",
+    "Others/Windwos快捷鍵.md",
+    "Others/VS Code快捷鍵.md",
+    "PHP/程序導向操作資料庫.md",
+    "PHP/資料庫存取.md",
+    "MySQL/其它補充.md",
+    "PHP/流程控制.md",
+    "PHP/選擇結構.md"
+>>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
   ]
 }
