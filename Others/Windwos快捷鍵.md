@@ -12,11 +12,12 @@
 `WIN+M` <small>將所有視窗最小化</small>
 `WIN+UP` <small>將視窗最大化</small>
 `WIN+DOWN` <small>將視窗最小化/移除目前的應用程式</small>
-`WIN+PAUSE` <small>顯示系統內容對話方塊</small>
+`WIN+PAUSE` <small>顯示系統內容對話方塊/電腦的基本資訊</small>
 `WIN+HOME` <small>將所有非使用中的視窗最小化(再按一下即可還原所有視窗)</small>
 `WIN+TAB` <small>開啟工作檢視</small>
 `WIN+LEFT` / `WIN+RIGHT` <small>將視窗左/右側最大化</small>
 `WIN+SPACE` <small>切換輸入語言</small>
+`WIN+CTRL+SPACE` <small>變更至先前選取的輸入法</small>
 `WIN+.` / `WIN+;` <small>開啟Emoji面版</small>
 `WIN+,` <small>暫時預覽桌面</small>
 `WIN+ALT+D` <small>顯示或隱藏日曆</small>
