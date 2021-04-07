@@ -1,22 +1,16 @@
 {
   "main": {
-    "id": "17c2f022aabfbfa8",
+    "id": "8d802f681bd96a77",
     "type": "split",
     "children": [
       {
-        "id": "ab042edddc9dd66a",
+        "id": "d1b0b7f7e2b0958e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "MySQL/資料表操作存取.md",
+            "file": "CSS/引入方式.md",
             "mode": "preview"
-=======
-            "file": "MySQL/資料庫正規化.md",
-            "mode": "source"
->>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
           }
         }
       }
@@ -24,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3a8a736af21fd34",
+    "id": "0fa430cdafe2a3d0",
     "type": "split",
     "children": [
       {
-        "id": "42f1411c9bf909a9",
+        "id": "7cb4f2df905cd05c",
         "type": "tabs",
         "children": [
           {
-            "id": "784b92daf737b23e",
+            "id": "d8e064dd000d5344",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,12 +34,12 @@
             }
           },
           {
-            "id": "5b9677992d9a1f1a",
+            "id": "3528cc393ece2960",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pecl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,30 +52,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 300
   },
   "right": {
-    "id": "9c79bfaf17a1ee05",
+    "id": "f5745c851780dd02",
     "type": "split",
     "children": [
       {
-        "id": "a292ecc5c0f87ca1",
+        "id": "54de3faf5b9b9752",
         "type": "tabs",
         "children": [
           {
-            "id": "fccfdb324ed0e06e",
+            "id": "17d986331648bb84",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "MySQL/資料表操作存取.md",
-=======
-                "file": "MySQL/資料庫正規化.md",
->>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
+                "file": "CSS/引入方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,29 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d1b0b7f7e2b0958e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "MySQL/資料表操作存取.md",
-    "PHP/大綱.md",
-    "MySQL/資料庫大綱.md",
-    "MySQL/資料操作語言.md",
-    "MySQL/Untitled.md",
-    "MySQL/終端機命令.md",
-    "MySQL/MySQL函式.md",
-    "MySQL/資料庫備份與還原.md",
-    "MySQL/其它補充.md",
-    "MySQL/資料庫簡介.md"
-=======
-    "MySQL/Untitled.md",
-    "PHP/URL編碼.md",
-    "PHP/大綱.md",
-    "Others/Windwos快捷鍵.md",
-    "Others/VS Code快捷鍵.md",
-    "PHP/程序導向操作資料庫.md",
-    "PHP/資料庫存取.md",
-    "MySQL/其它補充.md",
-    "PHP/流程控制.md",
-    "PHP/選擇結構.md"
->>>>>>> 983937b82714fc96b9812bebd3158093cfeff477
+    "CSS/Untitled.md",
+    "CSS/CSS簡介.md",
+    "CSS/隱藏頁面元素的方法.md",
+    "CSS/選擇器.md",
+    "CSS/偽元素.md",
+    "CSS/偽類.md",
+    "CSS/偽類和偽元素.md",
+    "CSS/屬.md",
+    "CSS/應用技巧.md",
+    "CSS/其它補充.md"
   ]
 }
