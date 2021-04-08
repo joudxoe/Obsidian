@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "8d802f681bd96a77",
+    "id": "46a17c0aa7d5fd8e",
     "type": "split",
     "children": [
       {
-        "id": "d1b0b7f7e2b0958e",
+        "id": "edd0a0d63027a850",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/引入方式.md",
-            "mode": "preview"
+            "file": "PHP/學習大綱.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0fa430cdafe2a3d0",
+    "id": "eba58387b8fda153",
     "type": "split",
     "children": [
       {
-        "id": "7cb4f2df905cd05c",
+        "id": "e9a44c3bdd2b150a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e064dd000d5344",
+            "id": "310861ac817d1d5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "3528cc393ece2960",
+            "id": "e68c8a826872f363",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "f5745c851780dd02",
+    "id": "40d4b7e1eda17f0b",
     "type": "split",
     "children": [
       {
-        "id": "54de3faf5b9b9752",
+        "id": "b0fce361ca112f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "17d986331648bb84",
+            "id": "0f89d8055ca811e5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/引入方式.md",
+                "file": "PHP/學習大綱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "CSS/引入方式.md",
-    "CSS/Untitled.md",
-    "CSS/CSS簡介.md",
-    "CSS/隱藏頁面元素的方法.md",
-    "CSS/選擇器.md",
+    "PHP/學習大綱.md",
+    "CSS/屬性選擇器.md",
     "CSS/偽元素.md",
+    "CSS/選擇器應用.md",
     "CSS/偽類.md",
-    "CSS/偽類和偽元素.md",
-    "CSS/屬.md",
-    "CSS/應用技巧.md"
+    "CSS/選擇器.md",
+    "CSS/簡介.md",
+    "CSS/樣式引用.md",
+    "CSS/顏色.md",
+    "CSS/實例.md"
   ]
 }
