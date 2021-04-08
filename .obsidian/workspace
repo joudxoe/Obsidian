@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/引入方式.md",
-            "mode": "preview"
+            "file": "CSS/選擇器應用.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/引入方式.md",
+                "file": "CSS/選擇器應用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d1b0b7f7e2b0958e",
   "lastOpenFiles": [
-    "CSS/Untitled.md",
-    "CSS/CSS簡介.md",
-    "CSS/隱藏頁面元素的方法.md",
-    "CSS/選擇器.md",
-    "CSS/偽元素.md",
+    "CSS/選擇器應用.md",
     "CSS/偽類.md",
-    "CSS/偽類和偽元素.md",
-    "CSS/屬.md",
-    "CSS/應用技巧.md",
-    "CSS/其它補充.md"
+    "CSS/偽元素.md",
+    "CSS/Untitled.md",
+    "CSS/選擇器.md",
+    "CSS/屬性選擇器.md",
+    "CSS/動畫.md",
+    "CSS/單位.md",
+    "CSS/語法.md",
+    "CSS/顏色.md"
   ]
 }
