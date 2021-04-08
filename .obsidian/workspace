@@ -6,6 +6,7 @@
       {
         "id": "d1b0b7f7e2b0958e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -72,8 +73,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,8 +85,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1b0b7f7e2b0958e",
   "lastOpenFiles": [
+    "CSS/引入方式.md",
     "CSS/Untitled.md",
     "CSS/CSS簡介.md",
     "CSS/隱藏頁面元素的方法.md",
@@ -96,7 +95,6 @@
     "CSS/偽類.md",
     "CSS/偽類和偽元素.md",
     "CSS/屬.md",
-    "CSS/應用技巧.md",
-    "CSS/其它補充.md"
+    "CSS/應用技巧.md"
   ]
 }
