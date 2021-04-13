@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/轉換.md",
-            "mode": "preview"
+            "file": "CSS/語法.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/轉換.md",
+                "file": "CSS/語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e36b01c1973ca064",
   "lastOpenFiles": [
-    "CSS/轉換.md",
-    "CSS/大綱.md",
-    "CSS/過渡.md",
-    "CSS/單位.md",
-    "CSS/定位.md",
-    "CSS/網頁字體.md",
-    "CSS/偽類.md",
-    "CSS/自定義字體.md",
-    "CSS/字體.md",
-    "CSS/字型.md"
+    "CSS/語法.md",
+    "HTML/多媒體元素.md",
+    "HTML/輸入元素.md",
+    "HTML/頭部元素.md",
+    "HTML/語義元素.md",
+    "HTML/圖像元素.md",
+    "HTML/嵌入元素.md",
+    "HTML/框架元素.md",
+    "HTML/表單元素.md",
+    "HTML/事件屬性.md"
   ]
 }
