@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/語法.md",
+            "file": "CSS/邊框.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "視口",
+                "query": "viewport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/語法.md",
+                "file": "CSS/邊框.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e36b01c1973ca064",
   "lastOpenFiles": [
-    "CSS/語法.md",
-    "HTML/多媒體元素.md",
-    "HTML/輸入元素.md",
-    "HTML/頭部元素.md",
-    "HTML/語義元素.md",
-    "HTML/圖像元素.md",
-    "HTML/嵌入元素.md",
-    "HTML/框架元素.md",
-    "HTML/表單元素.md",
-    "HTML/事件屬性.md"
+    "CSS/邊框.md",
+    "CSS/尺寸.md",
+    "CSS/佈局.md",
+    "CSS/寬高.md",
+    "CSS/盒尺寸.md",
+    "CSS/框架.md",
+    "CSS/媒體.md",
+    "CSS/RWD.md",
+    "CSS/Untitled.md",
+    "CSS/大綱.md"
   ]
 }
