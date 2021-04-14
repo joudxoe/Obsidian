@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/邊框.md",
+            "file": "CSS/漸變.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "viewport",
+                "query": "linear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/邊框.md",
+                "file": "CSS/漸變.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e36b01c1973ca064",
   "lastOpenFiles": [
-    "CSS/邊框.md",
-    "CSS/尺寸.md",
-    "CSS/佈局.md",
-    "CSS/寬高.md",
-    "CSS/盒尺寸.md",
-    "CSS/框架.md",
+    "CSS/漸變.md",
+    "CSS/屬性選擇器應用.md",
+    "CSS/選擇器應用.md",
+    "CSS/函數.md",
+    "CSS/函數應用.md",
+    "CSS/大綱.md",
+    "CSS/圖標.md",
     "CSS/媒體.md",
-    "CSS/RWD.md",
-    "CSS/Untitled.md",
-    "CSS/大綱.md"
+    "CSS/單位.md",
+    "CSS/陰影.md"
   ]
 }
