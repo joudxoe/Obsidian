@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/大綱.md",
+            "file": "CSS/佈局.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "media",
+                "query": "權重",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/大綱.md",
+                "file": "CSS/佈局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e36b01c1973ca064",
   "lastOpenFiles": [
-    "CSS/大綱.md",
-    "CSS/網頁字體.md",
-    "CSS/表格.md",
-    "CSS/動畫.md",
-    "CSS/轉場.md",
-    "CSS/媒體.md",
-    "CSS/引用.md",
+    "CSS/佈局.md",
+    "CSS/版型.md",
+    "CSS/規則.md",
+    "CSS/函數.md",
+    "CSS/變形應用.md",
     "CSS/變形.md",
-    "CSS/過渡.md",
-    "CSS/函數.md"
+    "CSS/轉場.md",
+    "CSS/動畫.md",
+    "CSS/濾鏡.md",
+    "CSS/大綱.md"
   ]
 }
