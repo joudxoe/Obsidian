@@ -1,10 +1,10 @@
 RGB顏色表示法
 ```
-.red{background-color: rgb(255,0,0);}		// 紅色
-.green{background-color: rgb(0,255,0);}		// 綠色
-.blue{background-color: rgb(0,0,255);}		// 藍色
-.white{background-color: rgb(255,255,255);}	// 白色
-.balck{background-color: rgb(0,0,0);}		// 黑色
+.red{background-color: rgb(255,0,0);}			// 紅色
+.green{background-color: rgb(0,255,0);}			// 綠色
+.blue{background-color: rgb(0,0,255);}			// 藍色
+.white{background-color: rgb(255,255,255);}		// 白色
+.balck{background-color: rgb(0,0,0);}			// 黑色
 ```
 
 ```
