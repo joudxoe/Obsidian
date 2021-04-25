@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/規範.md",
+            "file": "HTML/標準框架式.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/規範.md",
+                "file": "HTML/標準框架式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cfce97ee56ab7b9d",
   "lastOpenFiles": [
+    "HTML/標準框架式.md",
+    "CSS/選擇器.md",
+    "CSS/單位示例.md",
+    "CSS/偽類示例.md",
+    "CSS/偽類.md",
     "CSS/Untitled.md",
-    "CSS/命名方法.md",
-    "CSS/工具.md",
-    "CSS/Functional CSS.md",
-    "CSS/模組化.md",
-    "CSS/簡介.md",
-    "jQuery/簡介.md",
-    "jQuery/Untitled.md",
-    "CSS/大綱.md",
-    "CSS/單位.md"
+    "CSS/字體示例.md",
+    "CSS/文本示例.md",
+    "CSS/文本.md",
+    "CSS/盒尺寸.md"
   ]
 }
