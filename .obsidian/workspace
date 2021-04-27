@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "3d77b129ed90d587",
+    "id": "5a9bcdb44d467fed",
     "type": "split",
     "children": [
       {
-        "id": "cfce97ee56ab7b9d",
+        "id": "6f5ba262ce29704f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/標準框架式.md",
+            "file": "CSS/隱藏.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b89b3525570dd179",
+    "id": "b44f8d5d88a2a6bc",
     "type": "split",
     "children": [
       {
-        "id": "66a4bd06431d769e",
+        "id": "903299c00315679e",
         "type": "tabs",
         "children": [
           {
-            "id": "568b514fa4af1688",
+            "id": "0345f83c377b5c71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e8acfe2f82a29a3f",
+            "id": "71b5452e3a459e1c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "@",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "26425752b84d8066",
+    "id": "c0249861f7905a5e",
     "type": "split",
     "children": [
       {
-        "id": "3692c1320e26f4f2",
+        "id": "8f9761df1be17396",
         "type": "tabs",
         "children": [
           {
-            "id": "1a9429095330fd03",
+            "id": "0397b367bd667d4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/標準框架式.md",
+                "file": "CSS/隱藏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,30 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cfce97ee56ab7b9d",
+  "active": "6f5ba262ce29704f",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "CSS/規範.md",
-    "CSS/Untitled.md",
-    "CSS/命名方法.md",
+    "CSS/隱藏.md",
+    "CSS/隱藏應用.md",
+    "CSS/語法.md",
+    "CSS/預處理.md",
     "CSS/工具.md",
-    "CSS/Functional CSS.md",
-    "CSS/模組化.md",
-    "CSS/簡介.md",
-    "jQuery/簡介.md",
-    "jQuery/Untitled.md",
-    "CSS/大綱.md"
-=======
-    "HTML/標準框架式.md",
-    "CSS/選擇器.md",
-    "CSS/單位示例.md",
-    "CSS/偽類示例.md",
-    "CSS/偽類.md",
     "CSS/Untitled.md",
-    "CSS/字體示例.md",
-    "CSS/文本示例.md",
-    "CSS/文本.md",
-    "CSS/盒尺寸.md"
->>>>>>> 0c2295f977dbe88c2a9614ca2d159a396b3f967e
+    "CSS/圓角示例.md",
+    "CSS/重置.md",
+    "CSS/轉場.md",
+    "CSS/TRICKS.md"
   ]
 }
