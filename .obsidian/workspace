@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/表單.md",
-            "mode": "preview"
+            "file": "HTML/頭部.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/表單.md",
+                "file": "HTML/頭部.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "715523dd1240d6c9",
   "lastOpenFiles": [
-    "HTML/表單.md",
+    "HTML/頭部元素.md",
+    "HTML/元素應用.md",
     "HTML/大網.md",
-    "HTML/Untitled.md",
-    "HTML/簡介.md",
-    "HTML/規範.md",
-    "HTML/廢除.md",
-    "HTML/視口.md",
-    "HTML/行內元素.md",
-    "HTML/文本格式化元素.md",
-    "HTML/列表示例.md"
+    "CSS/佈局.md",
+    "CSS/邊框示例.md",
+    "CSS/變形應用.md",
+    "CSS/變數.md",
+    "CSS/顏色.md",
+    "CSS/邊框.md",
+    "CSS/屬性選擇器.md"
   ]
 }
