@@ -13,3 +13,11 @@ img{max-width:100%;}		// 可防止圖片撐破容器
 ```
 body{user-select:none;}		// 禁用文本選中，頁面中的文本不能選取
 ```
+
+```
+.disabled{pointer-events:none}			// 禁用鼠標 / 點擊事件無效
+```
+
+```
+img{max-width:100%;height:auto;}		// 響應式圖片
+```
