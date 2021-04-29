@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/文本.md",
+            "file": "HTML/標題.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/文本.md",
+                "file": "HTML/標題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edd15b1f8c3ae5ed",
   "lastOpenFiles": [
+    "HTML/標題.md",
+    "HTML/Untitled.md",
     "HTML/文本.md",
-    "HTML/插件.md",
-    "HTML/插件應用.md",
-    "HTML/補充.md",
-    "HTML/表格.md",
-    "HTML/表單示例.md",
-    "HTML/表單.md",
     "HTML/簡介.md",
-    "HTML/廢除.md",
-    "HTML/格式.md"
+    "HTML/引用.md",
+    "HTML/表格.md",
+    "HTML/格式.md",
+    "HTML/鏈接.md",
+    "HTML/表單.md",
+    "HTML/字符實體.md"
   ]
 }
