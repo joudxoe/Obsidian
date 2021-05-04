@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/插件.md",
+            "file": "HTML/圖像示例.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<data>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/插件.md",
+                "file": "HTML/圖像示例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5d56a9c84dddea99",
   "lastOpenFiles": [
-    "HTML/插件.md",
-    "HTML/廢棄.md",
-    "HTML/表格.md",
-    "HTML/列表.md",
-    "HTML/語義化.md",
-    "HTML/鏈接.md",
+    "HTML/圖像示例.md",
     "HTML/圖像.md",
-    "HTML/框架.md",
-    "HTML/引用.md",
-    "HTML/音訊.md"
+    "HTML/頭部.md",
+    "HTML/屬性.md",
+    "HTML/輸入示例.md",
+    "HTML/輸入.md",
+    "HTML/輸出.md",
+    "HTML/事件.md",
+    "HTML/實體.md",
+    "HTML/區塊.md"
   ]
 }
