@@ -1,3 +1,6 @@
+圖像標籤
+- `<svg>` <small>定義使用svg的圖像繪製</small>
+
 要點整理
 - SVG (Scalable Vector Graphics - 可伸縮失量圖形)
 - SVG是一種使用XML描述/定義2D圖形的語言

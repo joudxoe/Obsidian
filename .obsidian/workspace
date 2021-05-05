@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4ee89bea875fa3eb",
+        "id": "d073915bf3c35e2f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/腳本.md",
+            "file": "HTML/拖放.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<data>",
+                "query": "<wbr>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/腳本.md",
+                "file": "HTML/拖放.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ee89bea875fa3eb",
+  "active": "d073915bf3c35e2f",
   "lastOpenFiles": [
-    "HTML/腳本.md",
-    "HTML/廢棄.md",
-    "HTML/框架示例.md",
-    "HTML/框架.md",
-    "HTML/表單示例.md",
-    "HTML/表單.md",
-    "HTML/表格示例.md",
-    "HTML/文檔.md",
+    "HTML/拖放.md",
+    "HTML/大網.md",
+    "HTML/Untitled.md",
+    "HTML/事件.md",
+    "HTML/本地儲存.md",
+    "HTML/儲存.md",
+    "HTML/地理定位.md",
     "HTML/行內.md",
-    "HTML/區塊.md"
+    "HTML/文檔結構.md",
+    "HTML/語義化.md"
   ]
 }
