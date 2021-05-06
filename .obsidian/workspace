@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/實體.md",
-            "mode": "preview"
+            "file": "Others/瀏覽器快捷鍵.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/實體.md",
+                "file": "Others/瀏覽器快捷鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d073915bf3c35e2f",
   "lastOpenFiles": [
-    "HTML/實體.md",
-    "HTML/文本.md",
-    "HTML/輸出.md",
-    "HTML/框架.md",
-    "HTML/本地儲存.md",
+    "Others/瀏覽器快捷鍵.md",
+    "Others/Windwos快捷鍵.md",
+    "HTML/規範.md",
     "HTML/大網.md",
-    "HTML/SVG.md",
-    "HTML/頭部.md",
-    "HTML/文檔.md",
-    "Others/Smarty.md"
+    "HTML/實體.md",
+    "HTML/拖放.md",
+    "HTML/Untitled.md",
+    "HTML/表單.md",
+    "HTML/表單示例.md",
+    "HTML/屬性.md"
   ]
 }
