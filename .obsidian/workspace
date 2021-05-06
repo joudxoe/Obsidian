@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/拖放.md",
-            "mode": "source"
+            "file": "HTML/實體.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<wbr>",
+                "query": "<bdo>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/拖放.md",
+                "file": "HTML/實體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d073915bf3c35e2f",
   "lastOpenFiles": [
-    "HTML/拖放.md",
-    "HTML/大網.md",
-    "HTML/Untitled.md",
-    "HTML/事件.md",
+    "HTML/實體.md",
+    "HTML/文本.md",
+    "HTML/輸出.md",
+    "HTML/框架.md",
     "HTML/本地儲存.md",
-    "HTML/儲存.md",
-    "HTML/地理定位.md",
-    "HTML/行內.md",
-    "HTML/文檔結構.md",
-    "HTML/語義化.md"
+    "HTML/大網.md",
+    "HTML/SVG.md",
+    "HTML/頭部.md",
+    "HTML/文檔.md",
+    "Others/Smarty.md"
   ]
 }
