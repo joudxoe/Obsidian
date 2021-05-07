@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d073915bf3c35e2f",
+        "id": "438f5e119cea7da1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/瀏覽器快捷鍵.md",
+            "file": "Others/XML.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<bdo>",
+                "query": "SGML",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/瀏覽器快捷鍵.md",
+                "file": "Others/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d073915bf3c35e2f",
+  "active": "438f5e119cea7da1",
   "lastOpenFiles": [
-    "Others/瀏覽器快捷鍵.md",
-    "Others/Windwos快捷鍵.md",
-    "HTML/規範.md",
-    "HTML/大網.md",
-    "HTML/實體.md",
-    "HTML/拖放.md",
-    "HTML/Untitled.md",
+    "Others/XML.md",
+    "HTML/聲明.md",
+    "Others/XHTML.md",
+    "HTML/輸入.md",
     "HTML/表單.md",
-    "HTML/表單示例.md",
-    "HTML/屬性.md"
+    "HTML/屬性.md",
+    "CSS/AWD.md",
+    "CSS/字體.md",
+    "CSS/單位.md",
+    "CSS/@規則.md"
   ]
 }

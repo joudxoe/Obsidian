@@ -28,6 +28,7 @@
 `PrtScr`/`CTRL+PrtScr` <small>複製整個螢幕的截圖</small>
 `ALT+PrtScr` <small>複製當前視窗截圖</small>
 `ALT+TAB` <small>在開啟的應用程式之間切換</small>
+`ALT+SHIFT+TAB` <small>在開啟的應用程式之間逆向切換</small>
 
 `CTRL+D` <small>刪除選取的項目</small>
 `CTRL+F4` <small>關閉使用中的文件</small>
