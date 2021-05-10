@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/XML.md",
+            "file": "CSS/偽類.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/XML.md",
+                "file": "CSS/偽類.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "438f5e119cea7da1",
   "lastOpenFiles": [
-    "Others/XML.md",
-    "HTML/聲明.md",
-    "Others/XHTML.md",
-    "HTML/輸入.md",
-    "HTML/表單.md",
-    "HTML/屬性.md",
-    "CSS/AWD.md",
+    "CSS/偽類.md",
+    "CSS/文本.md",
+    "CSS/大綱.md",
+    "CSS/字型.md",
+    "CSS/Untitled.md",
+    "CSS/網頁字型.md",
+    "CSS/字型示例.md",
+    "CSS/字體示例.md",
     "CSS/字體.md",
-    "CSS/單位.md",
-    "CSS/@規則.md"
+    "CSS/背景.md"
   ]
 }
