@@ -20,10 +20,12 @@ RGBA顏色表示法
 .red{background-color: rgba(255,0,0,.3);}			// 帶30%不透明度的紅色
 .green{background-color: rgba(0,255,0,.5);}			// 帶50%不透明度的綠色
 .blue{background-color: rgba(0,0,255,.7);}			// 帶70%不透明度的藍色
+.transparent{background-color: rgba(0,0,0,0);}		// 透明黑色
 ```
 
 ```
 .red{background-color: rgba(100%,0%,0%,.3);}		// 帶30%不透明的紅色
 .green{background-color: rgba(0%,100%,0%,.5);}		// 帶50%不透明的綠色
 .blue{background-color: rgba(0%,0%,100%,.7);}		// 帶70%不透明的藍色
+.transparent{background-color: rgba(%0,%0,%0,0);}	// 透明黑色
 ```
