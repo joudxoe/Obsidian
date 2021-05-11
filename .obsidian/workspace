@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/偽類.md",
+            "file": "CSS/媒體查詢應用.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SGML",
+                "query": "translate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/偽類.md",
+                "file": "CSS/媒體查詢應用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "438f5e119cea7da1",
   "lastOpenFiles": [
-    "CSS/偽類.md",
-    "CSS/文本.md",
+    "CSS/媒體查詢應用.md",
+    "CSS/媒體查詢.md",
+    "CSS/輪廓.md",
+    "CSS/盒尺寸.md",
+    "CSS/盒尺寸應用.md",
     "CSS/大綱.md",
-    "CSS/字型.md",
-    "CSS/Untitled.md",
-    "CSS/網頁字型.md",
-    "CSS/字型示例.md",
-    "CSS/字體示例.md",
-    "CSS/字體.md",
-    "CSS/背景.md"
+    "CSS/多欄.md",
+    "CSS/動畫示例.md",
+    "CSS/動畫.md",
+    "CSS/網格.md"
   ]
 }
