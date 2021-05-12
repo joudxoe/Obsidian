@@ -7,8 +7,11 @@
         "id": "988a7331e6cb75dd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CSS/媒體查詢應用.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transparent",
+                "query": "border-image-source",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/媒體查詢應用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "988a7331e6cb75dd",
   "lastOpenFiles": [
-    "CSS/顏色名表示法.md",
-    "CSS/顏色.md",
-    "CSS/Untitled.md",
-    "CSS/RGB顏色表示法.md",
-    "CSS/HSL顏色表示法.md",
-    "CSS/十六進制顏色表示法.md",
-    "CSS/文本示例.md",
-    "CSS/安全字型.md",
     "CSS/媒體查詢應用.md",
-    "CSS/媒體查詢.md"
+    "CSS/媒體查詢.md",
+    "CSS/預定義顏色名稱.md",
+    "CSS/顏色.md",
+    "CSS/濾鏡應用.md",
+    "CSS/濾鏡.md",
+    "CSS/大綱.md",
+    "CSS/屬性.md",
+    "CSS/@規則.md",
+    "CSS/變形.md"
   ]
 }
