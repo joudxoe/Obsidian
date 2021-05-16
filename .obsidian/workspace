@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/動畫.md",
-            "mode": "source"
+            "file": "CSS/AWD.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/動畫.md",
+                "file": "CSS/AWD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e51c91791bca1e17",
   "lastOpenFiles": [
-    "CSS/動畫.md",
-    "CSS/定位應用.md",
-    "CSS/定位.md",
-    "CSS/單位示例.md",
-    "CSS/@規則.md",
-    "CSS/安全字型.md",
-    "CSS/背景.md",
-    "CSS/邊框.md",
-    "CSS/變數.md",
-    "CSS/變形.md"
+    "CSS/AWD.md",
+    "CSS/字型示例.md",
+    "CSS/字型.md",
+    "CSS/轉場應用.md",
+    "CSS/重置.md",
+    "CSS/圓角示例.md",
+    "CSS/圓角.md",
+    "CSS/預定義顏色名稱.md",
+    "CSS/預處理器.md",
+    "CSS/語法.md"
   ]
 }
