@@ -2,6 +2,9 @@ HSL顏色表示法
 ```
 .red{background-color: hsl(360,100%,50%);}				// 紅色
 .green{background-color: hsl(120,100%,50%);}			// 綠色
+.lightgreen{background-color: hsl(120,100%,75%);}		// 淺綠色
+.darkgreen{background-color: hsl(120,100%,25%);}		// 深綠色
+.softgreen{background-color: hsl(120,60%,70%);}			// 柔和的綠色
 .blue{background-color: hsl(240,100%,50%);}				// 藍色
 .lightblue{background-color: hsl(240,100%,75%);}		// 淺藍色
 .darkblue{background-color: hsl(240,100%,25%);}			// 深藍色

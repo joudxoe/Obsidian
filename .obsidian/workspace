@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e51c91791bca1e17",
+        "id": "b3acf68a247e393b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/AWD.md",
+            "file": "CSS/媒體查詢.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "border-image-source",
+                "query": "fontawesome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/AWD.md",
+                "file": "CSS/媒體查詢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e51c91791bca1e17",
+  "active": "b3acf68a247e393b",
   "lastOpenFiles": [
-    "CSS/AWD.md",
-    "CSS/字型示例.md",
-    "CSS/字型.md",
-    "CSS/轉場應用.md",
-    "CSS/重置.md",
-    "CSS/圓角示例.md",
-    "CSS/圓角.md",
-    "CSS/預定義顏色名稱.md",
-    "CSS/預處理器.md",
-    "CSS/語法.md"
+    "CSS/媒體查詢.md",
+    "CSS/媒體查詢應用.md",
+    "Others/MVC.md",
+    "CSS/網頁字型.md",
+    "CSS/安全字型.md",
+    "CSS/變數示例.md",
+    "CSS/網格示例.md",
+    "CSS/網格.md",
+    "CSS/偽類示例.md",
+    "CSS/偽元素示例.md"
   ]
 }

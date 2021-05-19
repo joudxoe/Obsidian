@@ -15,9 +15,13 @@ body{user-select:none;}		// 禁用文本選中，頁面中的文本不能選取
 ```
 
 ```
-.disabled{pointer-events:none}			// 禁用鼠標 / 點擊事件無效
+.disabled{pointer-events:none}			// 禁用事件 / 任何點擊事件將無效
 ```
 
 ```
 img{max-width:100%;height:auto;}		// 響應式圖片
+```
+
+```
+input,textarea{caret-color:red;}		// 改變輸入框焦點光標的顏色
 ```
