@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/媒體查詢.md",
-            "mode": "preview"
+            "file": "CSS/顏色.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/媒體查詢.md",
+                "file": "CSS/顏色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b3acf68a247e393b",
   "lastOpenFiles": [
-    "CSS/媒體查詢.md",
-    "CSS/媒體查詢應用.md",
-    "Others/MVC.md",
-    "CSS/網頁字型.md",
-    "CSS/安全字型.md",
-    "CSS/變數示例.md",
-    "CSS/網格示例.md",
-    "CSS/網格.md",
-    "CSS/偽類示例.md",
-    "CSS/偽元素示例.md"
+    "CSS/顏色.md",
+    "CSS/選擇器.md",
+    "CSS/選擇器示例.md",
+    "CSS/語法.md",
+    "CSS/引用.md",
+    "CSS/盒尺寸.md",
+    "CSS/大綱.md",
+    "CSS/定位.md",
+    "CSS/定位應用.md",
+    "CSS/可見性.md"
   ]
 }
