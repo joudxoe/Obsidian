@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3acf68a247e393b",
+        "id": "cb18019acebe2fd5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/顏色.md",
+            "file": "CSS/媒體查詢應用.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fontawesome",
+                "query": "media",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/顏色.md",
+                "file": "CSS/媒體查詢應用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3acf68a247e393b",
+  "active": "cb18019acebe2fd5",
   "lastOpenFiles": [
+    "CSS/媒體查詢應用.md",
+    "CSS/簡介.md",
+    "CSS/文本.md",
+    "CSS/顯示.md",
     "CSS/顏色.md",
-    "CSS/選擇器.md",
-    "CSS/選擇器示例.md",
-    "CSS/語法.md",
-    "CSS/引用.md",
-    "CSS/盒尺寸.md",
-    "CSS/大綱.md",
-    "CSS/定位.md",
-    "CSS/定位應用.md",
-    "CSS/可見性.md"
+    "CSS/溢出.md",
+    "CSS/陰影.md",
+    "CSS/隱藏.md",
+    "CSS/游標.md",
+    "CSS/語法.md"
   ]
 }
