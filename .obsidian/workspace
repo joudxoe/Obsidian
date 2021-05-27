@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/媒體查詢應用.md",
+            "file": "CSS/徑向漸變示例.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "media",
+                "query": "opacity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/媒體查詢應用.md",
+                "file": "CSS/徑向漸變示例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cb18019acebe2fd5",
   "lastOpenFiles": [
-    "CSS/媒體查詢應用.md",
+    "CSS/徑向漸變示例.md",
+    "CSS/徑向漸變.md",
+    "CSS/線性漸變示例.md",
+    "CSS/線性漸變.md",
+    "CSS/漸變.md",
     "CSS/簡介.md",
-    "CSS/文本.md",
-    "CSS/顯示.md",
+    "CSS/背景.md",
+    "CSS/背景示例.md",
     "CSS/顏色.md",
-    "CSS/溢出.md",
-    "CSS/陰影.md",
-    "CSS/隱藏.md",
-    "CSS/游標.md",
-    "CSS/語法.md"
+    "CSS/邊框示例.md"
   ]
 }

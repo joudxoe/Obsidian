@@ -30,3 +30,11 @@ RGBA顏色表示法
 .blue{background-color: rgba(0%,0%,100%,.7);}		// 帶70%不透明的藍色
 .transparent{background-color: rgba(%0,%0,%0,0);}	// 透明黑色
 ```
+
+定義後備顏色
+```
+.red{
+	background-color:rgb(255,0,0);			// 瀏覽器若不支援RGBA的替代降級方案
+	background-color:rgba(255,0,0,0.6);
+}
+```
