@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cb18019acebe2fd5",
+        "id": "9e058685e24483ba",
         "type": "leaf",
+        "dimension": 65.38116591928251,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/徑向漸變示例.md",
+            "file": "Others/URL.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "daae7887f2776304",
+        "type": "leaf",
+        "dimension": 34.618834080717484,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTML/大網.md",
             "mode": "source"
           }
         }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opacity",
+                "query": "<mark>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/徑向漸變示例.md",
+                "file": "Others/URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb18019acebe2fd5",
+  "active": "9e058685e24483ba",
   "lastOpenFiles": [
-    "CSS/徑向漸變示例.md",
-    "CSS/徑向漸變.md",
-    "CSS/線性漸變示例.md",
-    "CSS/線性漸變.md",
-    "CSS/漸變.md",
-    "CSS/簡介.md",
-    "CSS/背景.md",
-    "CSS/背景示例.md",
-    "CSS/顏色.md",
-    "CSS/邊框示例.md"
+    "Others/URL.md",
+    "HTML/實體.md",
+    "HTML/大網.md",
+    "HTML/腳本.md",
+    "HTML/頭部示例.md",
+    "HTML/頭部.md",
+    "CSS/@規則示例.md",
+    "HTML/語義化.md",
+    "HTML/元素.md",
+    "HTML/聲明.md"
   ]
 }
