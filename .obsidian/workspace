@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/CDN.md",
+            "file": "jQuery/選擇器.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/CDN.md",
+                "file": "jQuery/選擇器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "af8c6de0e4b6ae21",
   "lastOpenFiles": [
-    "Others/Untitled.md",
-    "jQuery/簡介.md",
+    "jQuery/選擇器.md",
+    "CSS/選擇器.md",
     "CSS/大綱.md",
+    "jQuery/Untitled.md",
+    "jQuery/語法.md",
+    "jQuery/簡介.md",
     "HTML/大網.md",
-    "HTML/Worker.md",
-    "HTML/元素.md",
-    "HTML/註釋.md",
-    "HTML/語言.md",
-    "HTML/應用.md",
-    "HTML/引用.md"
+    "Others/CDN.md",
+    "Others/Untitled.md",
+    "HTML/Worker.md"
   ]
 }
