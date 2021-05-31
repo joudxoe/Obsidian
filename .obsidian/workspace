@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9e058685e24483ba",
+        "id": "af8c6de0e4b6ae21",
         "type": "leaf",
-        "dimension": 65.38116591928251,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/應用.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "daae7887f2776304",
-        "type": "leaf",
-        "dimension": 34.618834080717484,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML/大網.md",
+            "file": "Others/CDN.md",
             "mode": "source"
           }
         }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<mark>",
+                "query": "lang=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/應用.md",
+                "file": "Others/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e058685e24483ba",
+  "active": "af8c6de0e4b6ae21",
   "lastOpenFiles": [
-    "HTML/應用.md",
-    "HTML/屬性.md",
-    "HTML/圖像示例.md",
-    "HTML/連結.md",
-    "HTML/區塊.md",
+    "Others/Untitled.md",
+    "jQuery/簡介.md",
+    "CSS/大綱.md",
+    "HTML/大網.md",
+    "HTML/Worker.md",
     "HTML/元素.md",
-    "HTML/路徑.md",
-    "CSS/多欄.md",
-    "CSS/清除浮動.md",
-    "CSS/版型.md"
+    "HTML/註釋.md",
+    "HTML/語言.md",
+    "HTML/應用.md",
+    "HTML/引用.md"
   ]
 }
