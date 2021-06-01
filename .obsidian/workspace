@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jQuery/衝突.md",
+            "file": "jQuery/POST.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jQuery/衝突.md",
+                "file": "jQuery/POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "af8c6de0e4b6ae21",
   "lastOpenFiles": [
+    "jQuery/POST.md",
+    "jQuery/GET.md",
+    "jQuery/Untitled.md",
     "jQuery/衝突.md",
     "jQuery/函式庫.md",
     "jQuery/滑動.md",
-    "jQuery/Untitled.md",
     "jQuery/事件.md",
     "CSS/多欄.md",
     "jQuery/獲取設定.md",
-    "jQuery/鏈式.md",
-    "jQuery/獲取.md",
-    "Others/DOM.md"
+    "jQuery/鏈式.md"
   ]
 }
