@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jQuery/選擇器.md",
+            "file": "jQuery/衝突.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272
   },
   "right": {
     "id": "c0249861f7905a5e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jQuery/選擇器.md",
+                "file": "jQuery/衝突.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "af8c6de0e4b6ae21",
   "lastOpenFiles": [
-    "jQuery/選擇器.md",
-    "CSS/選擇器.md",
-    "CSS/大綱.md",
+    "jQuery/衝突.md",
+    "jQuery/函式庫.md",
+    "jQuery/滑動.md",
     "jQuery/Untitled.md",
-    "jQuery/語法.md",
-    "jQuery/簡介.md",
-    "HTML/大網.md",
-    "Others/CDN.md",
-    "Others/Untitled.md",
-    "HTML/Worker.md"
+    "jQuery/事件.md",
+    "CSS/多欄.md",
+    "jQuery/獲取設定.md",
+    "jQuery/鏈式.md",
+    "jQuery/獲取.md",
+    "Others/DOM.md"
   ]
 }
