@@ -21,6 +21,12 @@ DOM方法
 `getAttribute()`
 `setAttribute()`
 
+要點整理
+- DOM (Document Object Model - 文檔對象模型)
+- DOM定義訪問HTML和XML文檔的標準
+
+---
+
 取得文檔中A標籤的數量
 ```
 document.anchors.length

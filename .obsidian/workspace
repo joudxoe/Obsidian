@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "af8c6de0e4b6ae21",
+        "id": "5adcd4c795a78a83",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jQuery/POST.md",
+            "file": "jQuery/安裝.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jQuery/POST.md",
+                "file": "jQuery/安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af8c6de0e4b6ae21",
+  "active": "5adcd4c795a78a83",
   "lastOpenFiles": [
-    "jQuery/POST.md",
-    "jQuery/GET.md",
-    "jQuery/Untitled.md",
-    "jQuery/衝突.md",
-    "jQuery/函式庫.md",
-    "jQuery/滑動.md",
+    "jQuery/安裝.md",
+    "jQuery/版本.md",
     "jQuery/事件.md",
-    "CSS/多欄.md",
-    "jQuery/獲取設定.md",
-    "jQuery/鏈式.md"
+    "jQuery/語法.md",
+    "jQuery/選擇器.md",
+    "Others/CDN.md",
+    "Others/CMS.md",
+    "jQuery/Untitled.md",
+    "jQuery/設定.md",
+    "jQuery/簡介.md"
   ]
 }
