@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jQuery/安裝.md",
+            "file": "jQuery/設置操作.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lang=",
+                "query": "slice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 286
   },
   "right": {
     "id": "c0249861f7905a5e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jQuery/安裝.md",
+                "file": "jQuery/設置操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5adcd4c795a78a83",
   "lastOpenFiles": [
-    "jQuery/安裝.md",
-    "jQuery/版本.md",
-    "jQuery/事件.md",
-    "jQuery/語法.md",
-    "jQuery/選擇器.md",
-    "Others/CDN.md",
-    "Others/CMS.md",
-    "jQuery/Untitled.md",
+    "jQuery/設置操作.md",
+    "jQuery/設置.md",
+    "jQuery/設定操作.md",
     "jQuery/設定.md",
-    "jQuery/簡介.md"
+    "jQuery/插入.md",
+    "jQuery/插入操作.md",
+    "jQuery/獲取.md",
+    "jQuery/刪除.md",
+    "jQuery/類.md",
+    "jQuery/尺寸.md"
   ]
 }

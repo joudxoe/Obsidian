@@ -1,0 +1,21 @@
+生成異步AJAX請求
+```
+$.ajax({
+	url:'test.txt',
+	async:true,
+	success:function(data){
+		$('#result').html(data);
+	},
+	error:function(xhr){
+		alert(xhr.status+'('+xhr.statusText+')');
+	}
+});
+```
+
+規定請求的數據類型
+```
+$.ajax({
+	url:'script.js',
+	dataType:'script'
+});
+```
