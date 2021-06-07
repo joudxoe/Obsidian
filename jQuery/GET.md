@@ -22,5 +22,5 @@ $.get('time.php',function(data){
 $.get('time.php',function(data,status){
 	if(status=='success')
 		$('#result').html(data);
-})
+});
 ```

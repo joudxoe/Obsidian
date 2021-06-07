@@ -1,5 +1,5 @@
 要點整理
-- JSONP (JSON with Padding)是JSON的一種使用模式，可以從別的域名獲取資料，也就是跨網域存取
+- JSONP (JSON with Padding)是解決跨網域限制的方法，可從其它域獲取資料，也就是跨網域存取 (CORS)
 - 因為同源策略不允許跨網域的請求和存取，所以訪問不同域的數據需要使用JSONP
 
 ---
