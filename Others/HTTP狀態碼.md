@@ -1,3 +1,9 @@
+要點整理
+- HTTP狀態碼是表示網頁伺服器回應超文字傳輸協定狀態的3位數代碼
+- HTTP狀態碼是服務器對瀏覽器請求回應的三位數狀態代碼
+
+---
+
 成功
 - `200` `OK` <small>HTTP請求成功</small>
 - `201` `Created` <small>請求被創建完成，同時新的資源被創建</small>
@@ -25,7 +31,3 @@
 - `503` `Service Unavailable` <small>服務器當前不可用，過載或當機</small>
 - `504` `Gateway Timeout` <small>服務器未能收到及時的響應</small>
 - `511` `Network Authentication Required` <small>用戶需要提供身份驗證來獲取訪問權限</small>
-
-要點整理
-- HTTP狀態碼是表示網頁伺服器回應超文字傳輸協定狀態的3位數代碼
-- HTTP狀態碼是服務器對瀏覽器請求回應的三位數狀態代碼

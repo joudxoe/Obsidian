@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4a7f0ead911d0e",
+        "id": "edea4b8a6e74a2d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/ASCII.md",
+            "file": "Others/Linux.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toggle()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/ASCII.md",
+                "file": "Others/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e4a7f0ead911d0e",
+  "active": "edea4b8a6e74a2d2",
   "lastOpenFiles": [
-    "Others/ASCII.md",
-    "Others/區網共用資料夾設定.md",
-    "Others/文件目錄結構.md",
-    "Others/術語.md",
-    "Others/開發工具.md",
-    "Others/命令提示字元.md",
-    "Others/瀏覽器快捷鍵.md",
-    "Others/架站整合包.md",
-    "Others/傳輸協定.md",
-    "JavaScript/JSON格式.md"
+    "Others/Linux.md",
+    "Others/Linux指令.md",
+    "Others/Linux操作.md",
+    "Others/Untitled.md",
+    "Others/Markdown.md",
+    "Others/MVC.md",
+    "Others/RESTful.md",
+    "Others/SEO.md",
+    "Others/Smarty.md",
+    "Others/URL.md"
   ]
 }

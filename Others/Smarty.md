@@ -11,6 +11,8 @@ Smarty常用的方法
 - `assign()` <small>在模板執行時賦值給模板變數</small>
 - `display()` <small>用於顯示模板</small>
 
+---
+
 Smarty環境設定
 ```
 define('BATH_PATH'$_SERVER['DOCUMENT_ROOT']);	// 定義服務器根目錄的絕對路徑
