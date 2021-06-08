@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jQuery/JSONP.md",
+            "file": "Others/ASCII.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 319
   },
   "right": {
     "id": "c0249861f7905a5e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jQuery/JSONP.md",
+                "file": "Others/ASCII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0e4a7f0ead911d0e",
   "lastOpenFiles": [
-    "jQuery/JSONP.md",
-    "jQuery/大綱.md",
-    "HTML/大網.md",
-    "HTML/應用.md",
-    "HTML/驗證.md",
-    "HTML/框架.md",
-    "CSS/TRICKS.md",
-    "CSS/大綱.md",
-    "CSS/Sprites.md",
-    "CSS/可見性.md"
+    "Others/ASCII.md",
+    "Others/區網共用資料夾設定.md",
+    "Others/文件目錄結構.md",
+    "Others/術語.md",
+    "Others/開發工具.md",
+    "Others/命令提示字元.md",
+    "Others/瀏覽器快捷鍵.md",
+    "Others/架站整合包.md",
+    "Others/傳輸協定.md",
+    "JavaScript/JSON格式.md"
   ]
 }
