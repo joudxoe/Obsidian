@@ -88,6 +88,7 @@
   },
   "active": "ff276aed77dffbd6",
   "lastOpenFiles": [
+    "JavaScript/Location對象.md",
     "JavaScript/未命名.md",
     "JavaScript/DOM.md",
     "JavaScript/JSON.md",
@@ -96,7 +97,6 @@
     "JavaScript/DOM操作.md",
     "JavaScript/DOM節點.md",
     "JavaScript/DOM方法.md",
-    "JavaScript/DOM文檔對象.md",
-    "JavaScript/DOM事件對象.md"
+    "JavaScript/DOM文檔對象.md"
   ]
 }
