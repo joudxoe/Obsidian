@@ -1,0 +1,45 @@
+文檔對象方法
+- `document.addEventListener()`
+- `document.close()`
+- `document.createAttribute()` <small>創建屬性節點</small>
+- `document.createComment()`
+- `document.createDocumentFragment()`
+- `document.createElement()` <small>創建元素節點</small>
+- `document.createTextNode()` <small>創建文本節點</small>
+- `document.getElementsByClassName()` <small>返回帶有指定類名的所有元素的節點列表</small>
+- `document.getElementById()` <small>返回帶有指定ID的元素</small>
+- `document.getElementsByName()` <small>返回帶有指定名稱的所有元素的節點列表</small>
+- `document.getElementsByTagName()` <small>返回帶有指定標籤名的所有元素的節點列表</small> 
+- `document.importNode()`
+- `document.normalize()`
+- `document.open()`
+- `document.querySelector()` <small>返回匹配選取器的第一個元素</small>
+- `document.querySelectorAll()` <small>返回匹配選取器的所有元素的節點列表</small>
+- `document.removeEventListener()`
+- `document.renameNode()`
+- `document.write()`
+- `document.writeln()`
+
+文檔對象屬性
+- `document.activeElement`
+- `document.anchors`
+- `document.baseURI`
+- `document.body`
+- `document.cookie`
+- `document.doctype`
+- `document.documentElement`
+- `document.documentMode`
+- `document.documentURI`
+- `document.domain`
+- `document.embeds`
+- `document.forms`
+- `document.images`
+- `document.lastModified`
+- `document.inputEncoding`
+- `document.links`
+- `document.readyState`
+- `document.referrer`
+- `document.scripts`
+- `document.strictErrorChecking`
+- `document.title`
+- `document.URL`

@@ -1,12 +1,11 @@
 要點整理
-- XHTML是以XML格式撰寫的HTML
-- XHTML是可擴展超文本標記語言
-- XHTML是結構和語法規範更嚴謹的HTML
-- XHTML是一種必須正確標記且格式良好的標記語言
+- XHTML (Extensible HyperText Markup Language - 可延伸/擴展超文本標示語言)
+- XHTML是一種基於[[XML]]的標記式語言，且文檔結構和語法規範比HTML更加嚴謹
+- XHTML是一種必須正確標記且格式良好的標記式語言
 
 語法規範
-- XHTML的檔案型別宣告是強制性
-- XHTML巢狀結構的標籤必須正確的對應
+- XHTML的檔案型別宣告/文檔類型聲明是強制性
+- XHTML巢狀結構的標籤必須正確的對應/嵌套
 - XHTML元素必須有關閉標籤
 - 空元素必須正確關閉標籤
 - XHTML元素必須是小寫

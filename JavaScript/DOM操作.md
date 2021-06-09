@@ -1,5 +1,5 @@
 ```
-document.anchors.length			// 取得文檔中A標籤的數量
+document.anchors.length			// 取得文檔中a標籤的數量
 ```
 
 ```

@@ -45,6 +45,7 @@
 `CTRL+SHIFT+C` <small>打開命令提示字元</small>
 `CTRL+F` <small>查找</small>
 `CTRL+H` <small>替換</small>
+
 `ALT+UP`/`ALT+DOWN` <small>移動當前行</small>
 `ALT+SHIFT+RIGHT` <small>選取區塊的內容</small>
 `ALT+Z` <small>程式碼換行</small>
@@ -55,11 +56,13 @@
 `ALT+C` <small>區分大小寫</small>
 `ALT+R` <small>正則</small>
 `ALT+W` <small>完整匹配</small>
+
 `SHIFT+ALT+F`/`CTRL+K+F` <small>格式化程式碼</small>
 `SHIFT+ALT+A` <small>多行註解</small>
 `SHIFT+ALT+UP`/`SHIFT+ALT+DOWN` <small>複製當前行</small>
 `SHIFT+F3` <small>查找上一個</small>
 `SFHIT+F11` <small>跳出</small>
+
 `F3` <small>查找下一個</small>
 `F9` <small>設置或取消斷點</small>
 `F5` <small>開始或繼續</small>

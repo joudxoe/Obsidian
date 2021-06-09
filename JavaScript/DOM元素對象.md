@@ -1,0 +1,60 @@
+元素對象方法
+- `element.accessKey()`
+- `element.addEventListener()`
+- `element.appendChild()` <small>插入新的子節點</small>
+- `element.cloneNode()`
+- `element.compareDocumentPosition()`
+- `element.focus()`
+- `element.getAttribute()` <small>返回指定的屬性值</small>
+- `element.getAttributeNode()`
+- `element.getElementsByTagName()`
+- `element.getElementsByClassName()`
+- `element.hasAttribute()`
+- `element.hasAttributes()`
+- `element.hasChildNodes()`
+- `element.hasFocus()`
+- `element.insertBefore()` <small>在指定的子節點前插入子節點</small>
+- `element.isContentEditable()`
+- `element.isDefaultNamespace()`
+- `element.isEqualNode()`
+- `element.isSameNode()`
+- `element.isSupported()`
+- `element.normailize()`
+- `element.querySelector()`
+- `element.removeAttribute()`
+- `element.removeAttributeNode()`
+- `element.removeChild()` <small>刪除子節點</small>
+- `element.removeEventListener()`
+- `element.replaceChild()` <small>替換子節點</small>
+- `element.setAttribute()` <small>設置指定屬性的值</small>
+- `element.setAttributeNode()`
+- `nodelist.item()`
+
+元素對象屬性
+- `element.attributes`
+- `element.childNodes`
+- `element.children`
+- `element.classList`
+- `element.className`
+- `element.contentEditable`
+- `element.dir`
+- `element.firstChild`
+- `element.id`
+- `element.innerHTML`
+- `element.lang`
+- `element.lastChild`
+- `element.namespaceURI`
+- `element.nextSibling`
+- `element.nextElementSibling`
+- `element.nodeName`
+- `element.nodeType`
+- `element.nodeValue`
+- `element.ownerDocument`
+- `element.parentNode`
+- `element.previousSibling`
+- `element.previousElementSibling`
+- `element.tabIndex`
+- `element.tagName`
+- `element.textContent`
+- `element.title`
+- `nodelist.length`
