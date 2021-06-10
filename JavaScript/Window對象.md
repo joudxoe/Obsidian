@@ -1,57 +1,62 @@
+要點整理
+- Window對象表示瀏覽器中打開的窗口
+
+---
+
 Window對象方法
-- `alert()`
-- `atob()`
-- `btoa()`
-- `blur()`
-- `clearInterval()`
-- `clearTimeout()`
-- `close()`
-- `confirm()`
-- `createPopup()`
-- `focus()`
+- `alert()` <small>顯示警告框</small>
+- `atob()` <small>解碼base-64編碼的字符串</small>
+- `btoa()` <small>創建base-64編碼的字符串</small>
+- `blur()` <small>不取得新窗口的焦點</small>
+- `clearInterval()` <small>取消由setInterval()設置的timeout</small>
+- `clearTimeout()` <small>取消由setTimeout()設置的timeout</small>
+- `close()` <small>關閉瀏覽器窗口</small>
+- `confirm()` <small>顯示確認對話框</small>
+- `createPopup()` <small>創建一個彈出視窗</small>
+- `focus()` <small>取得新窗口的焦點</small>
 - `getSelection()`
-- `getComputedStyle()`
+- `getComputedStyle()` <small>獲取指定元素的CSS樣式</small>
 - `matchMedia()`
-- `moveBy()`
-- `moveTo()`
-- `open()`
-- `print()`
-- `prompt()`
-- `resizeBy()`
-- `resizeTo()`
-- `scroll()`
-- `scrollBy()`
-- `scrollTo()`
-- `setInterval()`
-- `setTimeout()`
-- `stop()`
-- `postMessage()`
+- `moveBy()` <small></small>
+- `moveTo()` <small>將窗口的左上角移動到指定的座標</small>
+- `open()` <small>開啟一個新的窗口</small>
+- `print()`	<small>打印當前窗口的內容</small>
+- `prompt()`<small>顯示可提用戶輸入的對話框</small>
+- `resizeBy()` <small>依照指定的像素調整窗口的大小</small>
+- `resizeTo()` <small>將窗口的大小調整到指定的高度和寬度</small>
+- ~~`scroll()`~~
+- `scrollBy()` <small>依照指定的像素值滾動內容</small>
+- `scrollTo()` <small>將內容滾動到指定的座標</small>
+- `setInterval()` <small>依據指定的週期 (以毫秒計)調用函式</small>
+- `setTimeout()` <small>在指定的毫秒數後調用函式</small>
+- `stop()` <small>停止頁面載入</small>
+- `postMessage()` <small>安全的實現跨源通信</small>
 
 Window對象屬性
-- `closed`
-- `defaultStatus`
-- `document`
-- `frames`
-- `history`
-- `innerHeight`
-- `innerWidth`
-- `localStorage`
-- `length`
-- `location`
-- `name`
-- `navigator`
+- `closed` <small>返回窗口是否已關閉</small>
+- `defaultStatus` <small>設置或返回窗口狀態欄中的默認文本</small>
+- `document` <small>Document對象的引用</small>
+- `frames` <small>返回窗口中所有命名的框架</small>
+- `history` <small>History對象的引用</small>
+- `innerHeight` <small>返回窗口的文檔顯示區的高度</small>
+- `innerWidth` <small>返回窗口的文檔顯示區的寬度</small>
+- `localStorage` <small>在瀏覽器中儲存鍵值對，沒有過期時間</small>
+- `length` <small>設置或返回窗口中的框架數量</small>
+- `location` <small>Location對象的引用</small>
+- `name` <small>設置或返回窗口的名稱</small>
+- `navigator` <small>Navigator對象的引用</small>
 - `opener`
-- `outerHeight`
-- `outerWidth`
-- `pageXOffset`
-- `pageYOffset`
-- `parent`
-- `screen`
-- `screenLeft`
-- `screenTop`
-- `screenX`
-- `sessionStorage`
-- `screenY`
-- `self`
-- `status`
-- `top`
+- `outerHeight` <small>返回窗口的外部高度，包含工具條和滾動條</small>
+- `outerWidth` <small>返回窗口的外部寬度，包含工具條和滾動條</small>
+- `pageXOffset` <small>設置或返回當前頁面相對於窗口顯示區左上角的X位置</small>
+- `pageYOffset` <small>設置或返回當前頁面相對於窗口顯示區左上角的Y位置</small>
+- `parent` <small>返回父窗口</small>
+- `screen` <small>Screen對象的引用</small>
+- `screenLeft` <small>返回相對於視窗的X座標</small>
+- `screenTop` <small>返回相對於視窗的Y座標</small>
+- `screenX` <small>返回相對於視窗的X座標</small>
+- `sessionStorage` <small>在瀏覽器中儲存鍵值對，在關閉窗口或標籤頁後會刪除數據</small>
+- `screenY` <small>返回相對於視窗的Y座標</small>
+- `self` <small>返回對當前窗口的引用</small>
+- `status` <small>設置窗口狀態欄的文本</small>
+- `top` <small>返回最頂層的父窗口</small>

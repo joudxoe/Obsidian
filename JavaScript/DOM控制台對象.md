@@ -1,0 +1,15 @@
+DOM Console對象方法
+- `assert()` <small>在第一個參數為false的情況下，輸出錯誤訊息到控制台</small>
+- `clear()` <small>清除控制台內容</small>
+- `count()` <small>記錄count()調用次數</small>
+- `error()` <small>輸出錯誤訊息到控制台</small>
+- `group()` <small>設置分組信息</small>
+- `groupEnd()` <small>設置分組信息結束</small>
+- `groupCollapsed()` <small>設置折疊分組信息</small>
+- `info()` <small>輸出內容到控制台</small>
+- `log()` <small>輸出內容到控制台</small>
+- `table()` <small>以表格形式顯示數據</small>
+- `time()` <small>計時開始，可用於算出一個操作所花費的時間</small>
+- `timeEnd()` <small>計時結束</small>
+- `trace()` <small>顯示當前執行的代碼在堆棧中的調用路徑</small>
+- `warn()` <small>輸出警告訊息到控制台</small>

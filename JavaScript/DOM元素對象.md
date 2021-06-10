@@ -1,60 +1,79 @@
 元素對象方法
-- `element.accessKey()`
-- `element.addEventListener()`
-- `element.appendChild()` <small>插入新的子節點</small>
-- `element.cloneNode()`
-- `element.compareDocumentPosition()`
-- `element.focus()`
-- `element.getAttribute()` <small>返回指定的屬性值</small>
-- `element.getAttributeNode()`
-- `element.getElementsByTagName()`
-- `element.getElementsByClassName()`
-- `element.hasAttribute()`
-- `element.hasAttributes()`
-- `element.hasChildNodes()`
-- `element.hasFocus()`
-- `element.insertBefore()` <small>在指定的子節點前插入子節點</small>
-- `element.isContentEditable()`
-- `element.isDefaultNamespace()`
-- `element.isEqualNode()`
-- `element.isSameNode()`
-- `element.isSupported()`
+- `element.accessKey()` <small>設置或返回單選按鈕的快捷鍵</small>
+- `element.addEventListener()` <small>添加事件至指定元素</small>
+- `element.appendChild()` <small>插入新的子節點至當前元素</small>
+- `element.cloneNode()` <small>克隆元素</small>
+- `element.compareDocumentPosition()` <small>比較兩個元素的文檔位置</small>
+- `element.focus()` <small>設置文檔或元素獲取焦點</small>
+- `element.getAttribute()` <small>返回指定元素的屬性值</small>
+- `element.getAttributeNode()` <small>返回指定屬性節點</small>
+- `element.getElementsByTagName()` <small>返回指定標籤名的所有子元素集合</small>
+- `element.getElementsByClassName()` <small>返回所有指定類名的元素集合</small>
+- `element.hasAttribute()` <small>返回元素中是否存在指定的屬性</small>
+- `element.hasAttributes()` <small>返回元素中是否有設置任何屬性</small>
+- `element.hasChildNodes()` <small>返回元素是否具有任何子元素</small>
+- `element.hasFocus()` <small>檢測文檔或元素是否獲取焦點</small>
+- `element.insertBefore()` <small>在指定的子元素前插入子節點</small>
+- `element.isContentEditable()` <small>檢測元素內容是否可編輯</small>
+- `element.isDefaultNamespace()` <small>返回是否指定namespaceURI</small>
+- `element.isEqualNode()` <small>檢測兩個元素是否相等</small>
+- `element.isSameNode()` <small>檢測兩個元素是否為相同節點</small>
+- `element.isSupported()` <small>檢測元素是否支持指定特徵</small>
 - `element.normailize()`
-- `element.querySelector()`
-- `element.removeAttribute()`
-- `element.removeAttributeNode()`
-- `element.removeChild()` <small>刪除子節點</small>
-- `element.removeEventListener()`
-- `element.replaceChild()` <small>替換子節點</small>
-- `element.setAttribute()` <small>設置指定屬性的值</small>
-- `element.setAttributeNode()`
-- `nodelist.item()`
+- `element.getFeature()`
+- `element.getUserData()` <small>返回元素中關聯鍵值的對象</small>
+- `element.querySelector()` <small>返回匹配選取器的第一個元素</small>
+- `element.querySelectorAll()` <small>返回匹配選擇器的所有元素節點列表</small>
+- `element.removeAttribute()` <small>刪除元素的指定屬性</small>
+- `element.removeAttributeNode()` <small>移除指定屬性節點</small>
+- `element.removeChild()` <small>刪除子元素</small>
+- `element.removeEventListener()` <small>移除由addEventListener()添加的事件</small>
+- `element.replaceChild()` <small>替換子元素</small>
+- `element.setAttribute()` <small>設置或修改指定屬性的值</small>
+- `element.setAttributeNode()` <small>設置或改變指定屬性節點</small>
+- `element.setIdAttribute()`
+- `element.setIdAttributeNode()`
+- `element.setUserData()`
+- `element.toString()` <small>將元素轉換成字符串</small>
+- `nodelist.item()` <small>返回基於節點列表索引的元素</small>
 
 元素對象屬性
-- `element.attributes`
-- `element.childNodes`
-- `element.children`
-- `element.classList`
-- `element.className`
-- `element.contentEditable`
-- `element.dir`
-- `element.firstChild`
-- `element.id`
-- `element.innerHTML`
-- `element.lang`
-- `element.lastChild`
-- `element.namespaceURI`
-- `element.nextSibling`
-- `element.nextElementSibling`
-- `element.nodeName`
-- `element.nodeType`
-- `element.nodeValue`
-- `element.ownerDocument`
-- `element.parentNode`
-- `element.previousSibling`
-- `element.previousElementSibling`
-- `element.tabIndex`
-- `element.tagName`
-- `element.textContent`
-- `element.title`
-- `nodelist.length`
+- `element.attributes` <small>返回元素的屬性數組</small>
+- `element.childNodes` <small>返回元素的子節點數組</small>
+- `element.children` <small>返回元素的子元素集合</small>
+- `element.classList` <small>返回元素的類名，作為DOMTokenList對象</small>
+- `element.className` <small>設置或返回元素的class屬性</small>
+- `element.contentEditable` <small>設置或返回元素的內容是否可編輯</small>
+- `element.clientHeight` <small>返回內容的可視高度，不包括邊框、邊距和滾動條</small>
+- `element.clientWidth` <small>返回內容的可視寬度，不包括邊框、邊距和滾動條</small>
+- `element.dir` <small>設置或返回元素的文本方向</small>
+- `element.firstChild` <small>返回元素的第一個子節點</small>
+- `element.id` <small>設置或返回元素的id</small>
+- `element.innerHTML` <small>設置或返回元素的內容</small>
+- `element.lang` <small>設置或返回元素的語言</small>
+- `element.lastChild` <small>返回最後一個子節點</small>
+- `element.namespaceURI` <small>返回命名空間的URI</small>
+- `element.nextSibling` <small>返回指定元素的下一個兄弟節點</small>
+- `element.nextElementSibling` <small>返回指定元素的下一個兄弟節點</small>
+- `element.nodeName` <small>返回元素的大寫標記名</small>
+- `element.nodeType` <small>返回元素的節點類型</small>
+- `element.nodeValue` <small>返回元素的節點值</small>
+- `element.ownerDocument` <small>返回元素的根元素 (文檔對象)</small>
+- `element.offsetHeight` <small>返回元素的高度，包括邊框和填充</small>
+- `element.offsetWidth` <small>返回元素的寬度，包括邊框和填充</small>
+- `element.offsetLeft` <small>返回當前元素相對於偏移容器的水平偏移位置</small>
+- `element.offsetTop` <small>返回當前元素相對於偏移容器的垂直偏移位置</small>
+- `element.offsetParent` <small>返回元素的偏移容器</small>
+- `element.parentNode` <small>返回元素的父節點</small>
+- `element.previousSibling` <small>返回指定元素的上一個兄弟節點</small>
+- `element.previousElementSibling` <small>返回指定元素的上一個兄弟節點</small>
+- `element.scrollHeight` <small>返回元素的全部高度</small>
+- `element.scrollLeft` <small>返回元素和可視區左側的距離</small>
+- `element.scrollTop` <small>返回元素和可視區上側的距離</small>
+- `element.scrollWidth` <small>返回元素的全部寬度</small>
+- `element.style` <small>設置或返回元素的樣式屬性</small>
+- `element.tabIndex` <small>設置或返回元素的標籤順序</small>
+- `element.tagName` <small>返回指定元素的大寫標記名</small>
+- `element.textContent` <small>設置或返回指定節點的文本內容</small>
+- `element.title` <small>設置或返回元素的title屬性</small>
+- `nodelist.length` <small>返回節點列表的節點數目</small>
