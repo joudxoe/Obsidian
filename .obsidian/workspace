@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/DOM HTMLCollection對象.md",
+            "file": "Git/使用者設定.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/DOM HTMLCollection對象.md",
+                "file": "Git/使用者設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ff276aed77dffbd6",
   "lastOpenFiles": [
-    "JavaScript/DOM HTMLCollection對象.md",
-    "JavaScript/對象.md",
-    "JavaScript/DOM元素對象.md",
-    "JavaScript/DOM文檔對象.md",
-    "JavaScript/DOM屬性對象.md",
-    "JavaScript/DOM事件對象.md",
-    "JavaScript/DOM控制台對象.md",
-    "JavaScript/未命名.md",
-    "JavaScript/CSS樣式聲明對象.md",
-    "HTML/事件屬性.md"
+    "Git/使用者設定.md",
+    "Git/簡介.md",
+    "Git/指令.md",
+    "Others/終端機指令.md",
+    "Others/架站整合包.md",
+    "Others/傳輸協定.md",
+    "Git/終端機指令.md",
+    "Git/未命名.md",
+    "Others/命令提示字元.md",
+    "Git/初始設定.md"
   ]
 }
