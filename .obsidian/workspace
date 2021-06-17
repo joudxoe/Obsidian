@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/檢視.md",
+            "file": "Git/標籤.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foundation",
+                "query": "SHA-1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/檢視.md",
+                "file": "Git/標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1acd9bdaee7d79a4",
   "lastOpenFiles": [
-    "Git/檢視.md",
-    "Git/註冊.md",
-    "Git/提交.md",
-    "Git/區塊.md",
-    "Git/指令.md",
-    "Git/操作.md",
     "Git/未命名.md",
-    "Git/初始化.md",
+    "Git/流程.md",
+    "Git/前往.md",
+    "Git/簡介.md",
+    "Git/提交.md",
     "Git/記錄.md",
-    "Others/終端機指令.md"
+    "Git/區塊.md",
+    "Git/使用者設定.md",
+    "Git/分支.md",
+    "Git/互動.md"
   ]
 }

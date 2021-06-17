@@ -1,0 +1,16 @@
+要點整理
+- Clone指令會將專案的內容複製一份到本機，內容包括檔案，整個專案的歷史記錄、分支標籤都會複製下來
+
+---
+
+```
+$ git clone git@github.com:joudxoe/obsidian.git			// 透過SSH連結複製線上專案並存在同名目錄
+```
+
+```
+$ git clone git@github.com:joudxoe/obsidian.git project			// 自定義複製專案的目錄名稱
+```
+
+```
+$ git clone https://github.com/joudxoe/obsidian.git		// 透過HTTPS複製線上專案並存在同名目錄
+```
