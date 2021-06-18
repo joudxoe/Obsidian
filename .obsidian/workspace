@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/標籤.md",
+            "file": "Git/分支.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/標籤.md",
+                "file": "Git/分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1acd9bdaee7d79a4",
   "lastOpenFiles": [
-    "Git/未命名.md",
-    "Git/流程.md",
-    "Git/前往.md",
-    "Git/簡介.md",
-    "Git/提交.md",
-    "Git/記錄.md",
-    "Git/區塊.md",
-    "Git/使用者設定.md",
     "Git/分支.md",
-    "Git/互動.md"
+    "Git/HEAD.md",
+    "Git/變基.md",
+    "Git/合併.md",
+    "Git/忽略.md",
+    "Git/更名.md",
+    "Git/前往.md",
+    "Git/SSH.md",
+    "Git/未命名.md",
+    "Git/Rebase.md"
   ]
 }
