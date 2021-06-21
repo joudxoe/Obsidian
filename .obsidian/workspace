@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML/大網.md",
+            "file": "Git/合併.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SHA-1",
+                "query": "checkout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/大網.md",
+                "file": "Git/合併.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1acd9bdaee7d79a4",
   "lastOpenFiles": [
-    "HTML/大網.md",
-    "Git/分支.md",
-    "Git/HEAD.md",
-    "Git/變基.md",
     "Git/合併.md",
-    "Git/忽略.md",
+    "Git/分支.md",
+    "Git/開發流程.md",
+    "Git/工作流程.md",
+    "Git/上傳.md",
+    "Git/設定.md",
+    "Git/切換.md",
+    "Git/未命名.md",
     "Git/更名.md",
-    "Git/前往.md",
-    "Git/SSH.md",
-    "Git/未命名.md"
+    "Git/初始.md"
   ]
 }
