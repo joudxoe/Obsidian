@@ -12,33 +12,37 @@ SSH連線運作方式
 ---
 
 ```
-$ ssh-keygen							// 產生金鑰
+$ cd ~/.ssh									// 進入SSH目錄
 ```
 
 ```
-$ ssh-keygen -t rsa						// 使用RSA做為金鑰的加密演算法
+$ ssh-keygen								// 產生SSH金鑰
 ```
 
 ```
-$ ssh-keygen -t rsa -C 'email@demo.com'		// 使用申請GitHub的電子郵件做為標籤
+$ ssh-keygen -t rsa							// 使用RSA做為金鑰的加密演算法
 ```
 
 ```
-$ ssh-keygen -t rsa -b 4096				// 使用RSA做為金鑰的加密演算法，並指定金鑰長度為4096
+$ ssh-keygen -t rsa -C "email@demo.com"		// 使用申請GitHub的電子郵件做為標籤
 ```
 
 ```
-$ cat ~/.ssh/id_rsa.pub					// 讀取金鑰檔案內容
+$ ssh-keygen -t rsa -b 4096					// 使用RSA做為金鑰的加密演算法，並指定金鑰長度為4096
 ```
 
 ```
- $ clip < ~/.ssh/id_rsa.pub				// 複製金鑰檔案內容到剪貼簿
+$ cat ~/.ssh/id_rsa.pub						// 讀取公鑰檔案內容
 ```
 
 ```
-$ ssh git@github.com					// 驗證GitHub的SSH綁定
+ $ clip < ~/.ssh/id_rsa.pub					// 複製金鑰檔案內容到剪貼簿
 ```
 
 ```
- $ ssh -T git@github.com				// 驗證GitHub的SSH綁定
+$ ssh git@github.com						// 驗證GitHub的SSH綁定
+```
+
+```
+ $ ssh -T git@github.com					// 驗證GitHub的SSH綁定
 ```
