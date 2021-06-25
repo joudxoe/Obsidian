@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/SSH.md",
+            "file": "Git/設定.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/SSH.md",
+                "file": "Git/設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
+    "Git/設定.md",
+    "Git/上傳.md",
     "Git/SSH.md",
     "Git/SHA-1.md",
     "Git/HEAD.md",
@@ -95,8 +97,6 @@
     "Git/抓取.md",
     "Git/註冊.md",
     "Git/指令.md",
-    "Git/遠端.md",
-    "Git/下載.md",
-    "Git/挑選.md"
+    "Git/遠端.md"
   ]
 }
