@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/上傳.md",
-            "mode": "preview"
+            "file": "Git/下載.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/上傳.md",
+                "file": "Git/下載.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Git/上傳.md",
-    "Git/抓取.md",
     "Git/下載.md",
+    "Git/上傳.md",
+    "Git/合併.md",
+    "Git/抓取.md",
+    "Git/變基.md",
     "Git/工具.md",
     "Git/狀態.md",
     "Git/分支.md",
     "Git/切換.md",
-    "Git/合併.md",
-    "Git/追蹤.md",
-    "Git/未命名.md"
+    "Git/追蹤.md"
   ]
 }
