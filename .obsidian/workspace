@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/恢復.md",
-            "mode": "source"
+            "file": "Others/終端機指令.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/恢復.md",
+                "file": "Others/終端機指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Git/恢復.md",
-    "Git/分支.md",
-    "Git/下載.md",
-    "Git/抓取.md",
+    "Others/終端機指令.md",
     "Git/上傳.md",
-    "Git/追蹤.md",
-    "Git/切換.md",
-    "Git/變基.md",
-    "Others/HTTP狀態碼.md",
-    "Git/遠端拒絕.md"
+    "Others/README.md",
+    "Others/文件目錄結構.md",
+    "Others/區網共用資料夾設定.md",
+    "Git/指令.md",
+    "Git/初始.md",
+    "Git/SSH.md",
+    "Git/簡介.md",
+    "Others/版本控制系統.md"
   ]
 }
