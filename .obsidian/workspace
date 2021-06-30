@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/終端機指令.md",
-            "mode": "preview"
+            "file": "Git/變基.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checkout",
+                "query": "master~",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/終端機指令.md",
+                "file": "Git/變基.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Others/終端機指令.md",
+    "Git/變基.md",
+    "Git/恢復.md",
+    "Git/挑選.md",
+    "Git/前往.md",
+    "Git/提交.md",
+    "Git/日誌.md",
+    "Git/檢視.md",
     "Git/上傳.md",
-    "Others/README.md",
-    "Others/文件目錄結構.md",
-    "Others/區網共用資料夾設定.md",
-    "Git/指令.md",
-    "Git/初始.md",
-    "Git/SSH.md",
-    "Git/簡介.md",
-    "Others/版本控制系統.md"
+    "Git/切換.md",
+    "Git/回收.md"
   ]
 }

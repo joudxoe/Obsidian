@@ -42,8 +42,8 @@ $ cat ~/.ssh/id_rsa.pub
 ```
 
 ```
- # 複製金鑰檔案內容到剪貼簿
- $ clip < ~/.ssh/id_rsa.pub
+# 複製金鑰檔案內容到剪貼簿
+$ clip < ~/.ssh/id_rsa.pub
 ```
 
 ```
@@ -52,6 +52,6 @@ $ ssh git@github.com
 ```
 
 ```
- # 驗證GitHub的SSH綁定
- $ ssh -T git@github.com
+# 驗證GitHub的SSH綁定
+$ ssh -T git@github.com
 ```

@@ -5,12 +5,12 @@ composer -v
 
 初始化
 ```
-composer init			// 以對話方式產生composer.json
+composer init
 ```
 
 檢查composer.json
 ```
-composer validate		// 若有手動更新composer.json檔案
+composer validate
 ```
 
 更新Composer
