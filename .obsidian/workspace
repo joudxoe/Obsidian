@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/遠端.md",
+            "file": "Git/SHA-1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/遠端.md",
+                "file": "Git/SHA-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Git/遠端.md",
-    "Git/抓取.md",
+    "Git/SHA-1.md",
+    "Git/設定.md",
+    "Others/版本控制系統.md",
+    "Git/工具.md",
+    "Git/暫存.md",
+    "Git/工作流程.md",
+    "Git/狀態.md",
+    "Git/開發流程.md",
     "Git/上傳.md",
-    "Git/提交.md",
-    "Git/下載.md",
-    "Git/克隆.md",
-    "Git/分支.md",
-    "Git/日誌.md",
-    "Git/SSH.md",
-    "Git/追蹤.md"
+    "Git/遠端.md"
   ]
 }
