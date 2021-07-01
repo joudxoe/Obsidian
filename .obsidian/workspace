@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/變基.md",
+            "file": "Git/遠端.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master~",
+                "query": "origin/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/變基.md",
+                "file": "Git/遠端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Git/變基.md",
-    "Git/恢復.md",
-    "Git/挑選.md",
-    "Git/前往.md",
-    "Git/提交.md",
-    "Git/日誌.md",
-    "Git/檢視.md",
+    "Git/遠端.md",
+    "Git/抓取.md",
     "Git/上傳.md",
-    "Git/切換.md",
-    "Git/回收.md"
+    "Git/提交.md",
+    "Git/下載.md",
+    "Git/克隆.md",
+    "Git/分支.md",
+    "Git/日誌.md",
+    "Git/SSH.md",
+    "Git/追蹤.md"
   ]
 }
