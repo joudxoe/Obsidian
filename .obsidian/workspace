@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/背景.md",
-            "mode": "preview"
+            "file": "CSS/方法論.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/背景.md",
+                "file": "CSS/方法論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "CSS/背景.md",
-    "Others/Markdown.md",
-    "CSS/版型.md",
-    "CSS/按鈕.md",
-    "CSS/安全字型.md",
-    "CSS/@規則.md",
-    "CSS/邊框示例.md",
-    "CSS/邊框.md",
-    "CSS/背景示例.md",
-    "CSS/單位示例.md"
+    "CSS/方法論.md",
+    "CSS/多欄應用.md",
+    "CSS/多欄.md",
+    "CSS/動畫示例.md",
+    "CSS/動畫.md",
+    "CSS/定位應用.md",
+    "CSS/定位.md",
+    "CSS/單位示例.md",
+    "CSS/單位.md",
+    "CSS/表格.md"
   ]
 }
