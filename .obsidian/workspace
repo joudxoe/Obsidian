@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/SHA-1.md",
-            "mode": "source"
+            "file": "CSS/背景.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "origin/",
+                "query": "clean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/SHA-1.md",
+                "file": "CSS/背景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46e3a350cded45dc",
   "lastOpenFiles": [
-    "Git/SHA-1.md",
-    "Git/設定.md",
-    "Others/版本控制系統.md",
-    "Git/工具.md",
-    "Git/暫存.md",
-    "Git/工作流程.md",
-    "Git/狀態.md",
-    "Git/開發流程.md",
-    "Git/上傳.md",
-    "Git/遠端.md"
+    "CSS/背景.md",
+    "CSS/版型.md",
+    "CSS/按鈕.md",
+    "CSS/安全字型.md",
+    "CSS/@規則.md",
+    "CSS/邊框示例.md",
+    "CSS/邊框.md",
+    "CSS/背景示例.md",
+    "CSS/單位示例.md",
+    "CSS/單位.md"
   ]
 }
