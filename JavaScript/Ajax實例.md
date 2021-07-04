@@ -25,7 +25,8 @@ xhr.open('get',opendata,true);
 
 發送請求
 ```
-xhr.send(null);	 // 請求訊息的payload內容，get方法不得送出payload，因此以null值代表請求中的資料
+// 請求訊息的payload內容，get方法不得送出payload，因此以null值代表請求中的資料
+xhr.send(null);
 ```
 
 處理伺服器回應/回調函式(callback)，讓回應完成時，能執行相對應處理的函式

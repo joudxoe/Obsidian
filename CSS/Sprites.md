@@ -7,5 +7,7 @@
 
 定位圖片
 ```
-background-position: 0 -100px;		// 定義Sprites單個圖像的確切位置
+# 定義Sprites單個圖像的確切位置
+
+# background-position: 0 -100px;
 ```

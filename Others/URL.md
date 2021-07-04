@@ -1,15 +1,17 @@
 要點整理
 - URL (Uniform/Universal Resource Locator - 統一資源定位器)
 
-語法規則
-```
-scheme://host.domain:port/path/filename
-```
+---
 
 ```
-scheme://host:port/path?query-string#fragment-id
+# 語法規則
+
+# scheme://host.domain:port/path/filename
+
+# scheme://host:port/path?query-string#fragment-id
 ```
 
+---
 
 格式說明
 - `scheme` <small>定義網路服務的類型/協議/通訊協定</small>

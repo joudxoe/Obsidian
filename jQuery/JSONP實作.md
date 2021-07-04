@@ -20,9 +20,9 @@ $.getJSON('https://www.runoob.com/try/ajax/jsonp.php?callback=?', function(data)
 $.ajax({
 	type:'get',
 	url:'http://flightQuery.com/jsonp/flightResult.aspx?code=CA1998',
-	dataType:'jsonp',
-	jsonp:'callback',								// 用於獲取回調函數名的引數
-	jsonpCallback:'flightHandler',					// 預設為jQuery自動生成的隨機函式名
+	dataType:'jsonp',	
+	jsonp:'callback',	// 用於獲取回調函數名的引數
+	jsonpCallback:'flightHandler',	// 預設為jQuery自動生成的隨機函式名					
 	success:function(data){
 		$('#result').html('票價'+data.price+'元');
 	},
@@ -35,9 +35,9 @@ $.ajax({
 服務端
 ```
 header('Content-type: application/json');
-$callback=$_GET['callback'];						// 獲取回調函數名
+$callback=$_GET['callback'];	// 獲取回調函數名						
 $data='["Jane","Sam"]';
-echo $callback.'('.$data.')';						// 輸出JSON格式的數據
+echo $callback.'('.$data.')';	// 輸出JSON格式的數據						
 ```
 
 ---
@@ -54,7 +54,7 @@ echo $callback.'('.$data.')';						// 輸出JSON格式的數據
 
 remote.js
 ```
-callback({											// 呼叫客戶端的callback函數並傳入JSON參數
+callback({	// 呼叫客戶端的callback函數並傳入JSON參數
 	'name':'Jane',
 	'age':24
 });

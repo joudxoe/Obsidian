@@ -1,15 +1,23 @@
 ```
-document.anchors.length			// 取得文檔中a標籤的數量
+# 取得文檔中a標籤的數量
+
+# document.anchors.length
 ```
 
 ```
-document.links.length			// 返回文檔中的連結數(具有href屬性)
+# 返回文檔中的連結數(具有href屬性)
+
+# document.links.length
 ```
 
 ```
-document.images.length			// 返回文檔中圖片的數量
+# 返回文檔中圖片的數量
+
+# document.images.length
 ```
 
 ```
-document.URL					// 返回文檔的URL
+# 返回文檔的URL
+
+# document.URL
 ```

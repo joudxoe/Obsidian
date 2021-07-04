@@ -6,6 +6,8 @@
 - JSONP利用src屬性不阻止指向路徑的這個漏洞來逃避同源策略
 - JSONP傳遞一個回調引數給服務端，服務端返回資料將callback引數做為函式包住JSON資料供客戶端處理
 
+---
+
 jQuery實現JSONP的方式
 - `$.getJSON`
 - `$.ajax`

@@ -4,6 +4,8 @@
 - TCP/IP最早發源於美國國防部(DoD)的ARPA網專案，因此也稱作Dod 模型 (Dod Model)
 - TCP/IP採取協定堆疊的方式，將通訊過程抽象化為四層，各分層依功能實作不同通訊協定
 
+---
+
 DoD模型
 - 應用層 (Application Layer)
 

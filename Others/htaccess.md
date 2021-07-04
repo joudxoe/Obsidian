@@ -3,6 +3,8 @@
 - 一般會將.htaccess文件放在網站的根目錄，以控制所在目錄及所有子目錄
 - 301常被用於網址發生變化時，例如變更網域、網站目錄或是頁面名稱
 
+---
+
 常用的功能
 * 定義默認首頁
 * 404
@@ -15,49 +17,64 @@
 
 ---
 
-初始設定
 ```
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule . /index.php [L]
-</IfModule>
+# 初始設定
+
+# <IfModule mod_rewrite.c>
+
+# RewriteEngine On
+
+# RewriteBase /
+
+# RewriteRule . /index.php [L]
+
+# </IfModule>
 ```
 
-變更默認首頁
 ```
-DirectoryIndex default.html
+# 變更默認首頁
+
+# DirectoryIndex default.html
 ```
 
-自定義錯誤頁面
 ```
-ErrorDocument 404 /error/404.html
-ErrorDocument 503 /error/503.html
+# 自定義錯誤頁面
+
+# ErrorDocument 404 /error/404.html
+
+# ErrorDocument 503 /error/503.html
 ```
 
-頁面跳轉
 ```
-Redirect home.html index.html
+# 頁面跳轉
+
+# Redirect home.html index.html
 ```
 
-301重新導向
 ```
-Redirect 301 / https://newsite.com
-Redirect 301 /arts/index.html /news/index.html
-Redirect 301 /old.html https://website.com/new.html
+# 301重新導向
+
+# Redirect 301 / https://newsite.com
+
+# Redirect 301 /arts/index.html /news/index.html
+
+# Redirect 301 /old.html https://website.com/new.html
 ```
 
-禁止特定IP
 ```
-Order allow,deny
-Deny from 145.186.144.122
-Deny from 124.15
-Allow from all
+# 禁止特定IP
+
+# Order allow,deny
+
+# Deny from 145.186.144.122
+
+# Deny from 124.15
+
+# Allow from all
 ```
 
-禁止瀏覽目錄
 ```
-Options All -Indexes
+# 禁止瀏覽目錄
+
+# Options All -Indexes
 ```
-
-

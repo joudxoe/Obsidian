@@ -1,3 +1,9 @@
+要點整理
+- 通過jQuery AJAX方法，能夠使用HTTP GET / POST從服務上請求HTML、XML或JSON外部數據載入網頁
+- ==同源策略==基於安全性的考量，不允許跨來源的請求和存取，可避免自已網站的資源被存取或修改
+
+---
+
 AJAX方法
 - `$.ajax()` <small>執行異步AJAX請求</small>
 - `$.ajaxSetup()` <small>為AJAX請求設置默認值</small>
@@ -10,7 +16,3 @@ AJAX方法
 - `ajaxSuccess()` <small>設定AJAX請求成功時運行的函數</small>
 - `serialize()` <small>將序列化表單值編碼為URL查詢字符串</small>
 - `serializeArray()` <small>將序列化表單值編碼為關聯陣列</small>
-
-要點整理
-- 通過jQuery AJAX方法，能夠使用HTTP GET / POST從服務上請求HTML、XML或JSON外部數據載入網頁
-- ==同源策略==基於安全性的考量，不允許跨來源的請求和存取，可避免自已網站的資源被存取或修改
