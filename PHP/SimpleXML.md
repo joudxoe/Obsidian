@@ -8,6 +8,8 @@ PHP操作XML格式文檔的方法
 - `simplexml_load_string($str)`
 - `simplexml_import_dom($dom)`
 
+---
+
 創建XML對象
 ```
 header('content-type:text/html;charset=utf-8');

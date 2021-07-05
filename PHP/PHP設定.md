@@ -1,3 +1,8 @@
+要點整理
+- 限制程式執行時間，可有效避免單一網頁程式耗用太多伺服器資源
+
+---
+
 PHP設定
 * `short_open_tag` <small>是否允許使用PHP代碼短標籤`<? ... ?>`</small>
 * `register_globals` <small>是否將EGPCS變數註冊為全域變數</small>
@@ -35,6 +40,3 @@ PHP設定
 * `SMTP`
 * `smtp_port`
 * `sendmail_from`
-
-要點整理
-- 限制程式執行時間，可有效避免單一網頁程式耗用太多伺服器資源

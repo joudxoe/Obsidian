@@ -1,6 +1,6 @@
 要點整理
 - XHTML (Extensible HyperText Markup Language - 可延伸/擴展超文本標記語言)
-- XHTML是一種基於[[XML]]的標記式語言，文檔結構和語法規範比HTML更加嚴謹，必須正確標記且格式良好
+- XHTML是基於[[XML]]的標記式語言，文檔結構和語法規範比HTML更加嚴謹，必須正確標記且格式良好
 - 因為HTML的語法形式較為鬆散也未嚴格要求，於是便將XML的語法套用在HTML，即是XHTML
 
 ---

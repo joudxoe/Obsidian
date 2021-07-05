@@ -1,6 +1,8 @@
 要點整理
 - 使用PHPMailer時，PHP必須安裝OpenSSL的擴充程式
 
+---
+
 安裝PHPMailer套件
 ```
 composer require phpmailer/phpmailer
@@ -14,7 +16,7 @@ $mail=new PHPMailer();				// 建立PHPMailer物件
 $mail->IsSMTP();					// 設定使用SMTP寄信
 $mail->SMTPAuth=true;				// 設定SMTP需要驗證
 $mail->SMTPSecure='ssl';			// SMTP使用SSL連線
-$mail->Host='ssl://smtp.gmail.com';		// 設定SMTP主機
+$mail->Host='ssl://smtp.gmail.com';	// 設定SMTP主機
 $mail->Port=465;					// Gmail的SMTP埠位為465或587
 $mail->CharSet='big5';				// 設定郵件編碼
 $mail->Username='';

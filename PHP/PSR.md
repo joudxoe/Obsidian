@@ -3,6 +3,8 @@
 - PSR是由非官方組織PHP-FIG所制定的PHP規範/標準
 - PSR目的在於以最低程度的限制定訂統一的標準，讓各框架==遵循統一的編碼規範==
 
+---
+
 PSR規範
 - <s>PSR-0 Autoloading Standard，自動載入規範，該規範已廢棄由PSR-4替代</s>
 - [[PSR-1]] Basic Coding Standard，基本程式碼規範，例如:排版、命名原則等
