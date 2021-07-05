@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/線性漸變.md",
-            "mode": "preview"
+            "file": "CSS/TRICKS.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/線性漸變.md",
+                "file": "CSS/TRICKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a9f3bac38b16ae0",
   "lastOpenFiles": [
-    "CSS/線性漸變.md",
-    "CSS/線性漸變示例.md",
-    "CSS/溢出.md",
-    "CSS/正規化.md",
-    "CSS/AWD.md",
-    "CSS/HSL顏色表示法.md",
-    "CSS/RGB顏色表示法.md",
-    "CSS/RWD.md",
+    "CSS/TRICKS.md",
     "CSS/Sprites.md",
-    "CSS/TRICKS.md"
+    "CSS/RWD.md",
+    "CSS/RGB顏色表示法.md",
+    "CSS/HSL顏色表示法.md",
+    "CSS/AWD.md",
+    "CSS/字型示例.md",
+    "CSS/字型.md",
+    "CSS/重置.md",
+    "CSS/正規化.md"
   ]
 }
