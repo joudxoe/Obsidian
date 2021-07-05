@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/PDO.md",
-            "mode": "source"
+            "file": "PHP/字串操作.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/PDO.md",
+                "file": "PHP/字串操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a9f3bac38b16ae0",
   "lastOpenFiles": [
-    "PHP/PDO.md",
-    "PHP/PHP設定.md",
-    "PHP/PHPMailer.md",
-    "PHP/phpMyAdmin設定.md",
-    "PHP/PSR.md",
-    "PHP/PSR-1.md",
-    "PHP/SimpleXML.md",
-    "PHP/Session.md",
-    "PHP/PSR-12.md",
-    "PHP/URL編碼.md"
+    "PHP/字串操作.md",
+    "PHP/字串表示.md",
+    "PHP/字串函式.md",
+    "PHP/字串.md",
+    "PHP/多維陣列.md",
+    "PHP/多型.md",
+    "PHP/全域變數.md",
+    "PHP/目錄管理.md",
+    "PHP/目錄函式.md",
+    "PHP/正規表示式.md"
   ]
 }
