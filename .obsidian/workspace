@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/背景.md",
-            "mode": "source"
+            "file": "CSS/線性漸變.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/背景.md",
+                "file": "CSS/線性漸變.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a9f3bac38b16ae0",
   "lastOpenFiles": [
-    "CSS/背景.md",
-    "CSS/版型.md",
-    "CSS/按鈕.md",
-    "CSS/安全字型.md",
-    "CSS/@規則.md",
-    "CSS/表格.md",
-    "CSS/變形應用.md",
-    "CSS/表格示例.md",
-    "CSS/大綱.md",
-    "CSS/單位.md"
+    "CSS/線性漸變.md",
+    "CSS/線性漸變示例.md",
+    "CSS/溢出.md",
+    "CSS/正規化.md",
+    "CSS/AWD.md",
+    "CSS/HSL顏色表示法.md",
+    "CSS/RGB顏色表示法.md",
+    "CSS/RWD.md",
+    "CSS/Sprites.md",
+    "CSS/TRICKS.md"
   ]
 }
