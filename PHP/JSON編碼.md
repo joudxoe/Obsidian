@@ -23,12 +23,15 @@ $city=array(
 	'中部'=>'台中','中部'=>'南投',
 	'南部'=>'台南','南部'=>'高雄'
 );
+
 // 利用urlencode編碼中文字
 foreach($city as $key=>$val){
 	$new_city[urlencode($key)]=urlencode($val);
 }
+
 // 將資料轉成JSON格式
 $json=json_encode($new_city);
+
 // 使用urldecode將資料轉回中文
 $data=urldecode($json);
 ```

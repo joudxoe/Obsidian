@@ -7,9 +7,13 @@
 - 在setcookie()函數前輸出HTML標籤，echo語句，甚至空行都會導致出錯
 - 若未設置cookie過期時間，則在關閉瀏覽器時自動刪除cookie數據
 
+---
+
 使用cookie的限制
 * 必須在HTML內容發送之前設定輸出cookie
 * cookie不能超過4KB
+
+---
 
 setcookie()函數的參數說明
 - `name` - cookie的變數名
@@ -19,6 +23,8 @@ setcookie()函數的參數說明
 - `domain` - cookie有效的域名
 - `secure` - 指定cookie是否通過https安全連接
 
+---
+
 setcookie()函數的參數
 ```
 setcookie(name,value,expire,path,domain,secure);
@@ -26,7 +32,8 @@ setcookie(name,value,expire,path,domain,secure);
 
 啟用cookie
 ```
-$expire=time()+60*60*24*30;	// 設置過期時間為一個月(60秒*60分*24時*30天)
+// 設置過期時間為一個月(60秒*60分*24時*30天)
+$expire=time()+60*60*24*30;
 setcookie('user','Jane',$expire);
 ```
 

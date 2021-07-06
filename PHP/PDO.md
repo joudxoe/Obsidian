@@ -9,6 +9,8 @@ PDO的好處
 - PDO將存取資料庫的動作抽象化，使用一致的方式存取處理不同類型資料庫的資料
 - 可避免SQL注入(SQL Injection)
 
+---
+
 檢查PDO是否啟用
 * 檢查PHP版本的擴充功能目錄是否有內建PDO擴充元件
 * 通過phpinfo()查看是否啟用/安裝PDO擴充功能
@@ -16,10 +18,8 @@ PDO的好處
 
 ---
 
+啟用PDO類別庫
 ```
-# 啟用PDO類別庫
-
-# extension=php_pdo.dll
-
-# extension=php_pdo_mysql.dll
+extension=php_pdo.dll
+extension=php_pdo_mysql.dll
 ```

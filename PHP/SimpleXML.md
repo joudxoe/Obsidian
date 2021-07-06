@@ -3,6 +3,8 @@ PHP操作XML格式文檔的方法
 - DOMXML函數
 - SimpleXML函數 (PHP5新增)
 
+---
+
 創建SimpleXML對象的方法
 - `simplexml_load_file($file)`
 - `simplexml_load_string($str)`

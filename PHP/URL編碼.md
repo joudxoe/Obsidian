@@ -15,8 +15,7 @@ URL編碼函數
 
 ---
 
+URL編碼
 ```
-# URL編碼
-
-# $query_string='foo='.urlencode($foo).'&bar='.urlencode($bar);
+$query_string='foo='.urlencode($foo).'&bar='.urlencode($bar);
 ```

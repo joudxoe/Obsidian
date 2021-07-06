@@ -5,62 +5,67 @@
 
 ---
 
-Session工作原理
->啟動Session會話時，會生成一個隨機且唯一的session_id，id儲存在服務器的內存中，關閉頁面時id會自動註銷，重新登錄頁面時，會再次生成一個隨機且唯一的id
-
-Session的功能
->網頁是一種無狀態的連接程序，因此無法得知用戶的瀏覽狀態，session可用來記錄用戶訊息，以供用戶再次以此身份對WEB服務器提交驗證時做身份/用戶/帳密確認
-
----
-
 PHP啟動會話的方式
 - 通過`session_start()`函數啟動會話
 - 通過`session_register()`函數創建會話
 
 ---
 
-```
-# 啟用session
+Session工作原理
 
-# session_start();
-```
+- 啟動Session會話時，會生成一個隨機且唯一的session_id，id儲存在服務器的內存中，關閉頁面時id會自
+	動註銷，重新登錄頁面時，會再次生成一個隨機且唯一的id
 
-```
-# 註冊/設定session
+Session的功能
 
-# $_SESSION['author']='Jane';
-```
+- 網頁是一種無狀態的連接程序，因此無法得知用戶的瀏覽狀態，session可用來記錄用戶訊息，以供用戶再
+	次以此身份對WEB服務器提交驗證時做身份/用戶/帳密確認
 
-```
-# $HTTP_SESSION_VARS['author']='Jane';
-```
+---
 
+啟用session
 ```
-# $auhtor='Jane';
-
-# session_register('author');
+session_start();
 ```
 
+註冊/設定session
 ```
-# 取得session的值
-
-# echo $_SESSION['author'];
+$_SESSION['author']='Jane';
 ```
 
 ```
-# 刪除指定的session
-
-# unset($_SESSION['author']);
-
-# $_SESSION['author']=null;
+$HTTP_SESSION_VARS['author']='Jane';
 ```
 
 ```
-# 刪除全部的session，需謹愼使用
+$auhtor='Jane';
 
-# session_destroy();
+session_register('author');
+```
 
-# $_SESSION=array();
+取得session的值
+```
+echo $_SESSION['author'];
+```
 
-# session_unset();
+刪除指定的session
+```
+unset($_SESSION['author']);
+```
+
+```
+$_SESSION['author']=null;
+```
+
+刪除全部的session，需謹愼使用
+```
+session_destroy();
+```
+
+```
+$_SESSION=array();
+```
+
+```
+session_unset();
 ```
