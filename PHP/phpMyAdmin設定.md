@@ -8,7 +8,9 @@ PMA登入模式
 設定phpMyAdmin的目錄路徑
 ```
 $cfg['PmaAbsoluteUri']='http://localhost/phpMyAdmin/';
+```
 
+```
 $cfg['PmaAbsoluteUri']='http://140.128.51.220/phpMyAdmin/';
 ```
 
@@ -37,8 +39,6 @@ $cfg['Servers'][$i]]['port']=3306;
 其它設定
 ```
 $cfg['Servers'][$i]['connect_type']='tcp';
-
 $cfg['Servers'][$i]['extension']='mysql';
-
 $cfg['Servers'][$i]['compress']='false';
 ```

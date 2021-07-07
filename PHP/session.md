@@ -39,7 +39,6 @@ $HTTP_SESSION_VARS['author']='Jane';
 
 ```
 $auhtor='Jane';
-
 session_register('author');
 ```
 

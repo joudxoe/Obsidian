@@ -19,62 +19,45 @@
 
 ```
 # 初始設定
-
 # <IfModule mod_rewrite.c>
-
 # RewriteEngine On
-
 # RewriteBase /
-
 # RewriteRule . /index.php [L]
-
 # </IfModule>
 ```
 
 ```
 # 變更默認首頁
-
 # DirectoryIndex default.html
 ```
 
 ```
 # 自定義錯誤頁面
-
 # ErrorDocument 404 /error/404.html
-
 # ErrorDocument 503 /error/503.html
 ```
 
 ```
 # 頁面跳轉
-
 # Redirect home.html index.html
 ```
 
 ```
 # 301重新導向
-
 # Redirect 301 / https://newsite.com
-
 # Redirect 301 /arts/index.html /news/index.html
-
 # Redirect 301 /old.html https://website.com/new.html
 ```
 
 ```
 # 禁止特定IP
-
 # Order allow,deny
-
 # Deny from 145.186.144.122
-
 # Deny from 124.15
-
 # Allow from all
 ```
 
 ```
 # 禁止瀏覽目錄
-
 # Options All -Indexes
 ```

@@ -1,70 +1,76 @@
-`CTRL+L` <small>選取整行</small>
-`CTRL+SHIFT+L`/`CTRL+F2` <small>一次選取檔案內所有相同的文字</small>
-`CTRL+D` <small>依序選取相同字串</small>
-`CTRL+K+D` <small>移除前一個向下選取的相同字串</small>
-`CTRL+/` <small>添加移除單行註解</small>
-`CTRL+UP`/`CTRL+DOWN` <small>滾動視窗</small>
-`CTRL+SHIFT+K` <small>刪除當前行</small>
-`CTRL+K+S` <small>開啟快捷鍵表</small>
-`CTRL+W`/`CTRL+F4` <small>關閉編輯器/編輯視窗</small>
-`CTRL+ENTER` <small>下一行插入</small>
-`CTRL+SHIFT+ENTER` <small>上一行插入</small>
-`CTRL+K+T` <small>切換主題背景</small>
-`CTRL+SHIFT+\` <small>跳轉到匹配的括號</small>
-`CTRL+[`/`CTRL+]` <small>代碼縮進</small>
-`CTRL+\` <small>開啟當前檔案至新編輯器視窗</small>
-`CTRL+B` <small>隱藏顯示側邊欄</small>
-`CTRL++`/`CTRL+-` <small>縮放字體大小</small>
-`CTRL+1` <small>切換至第一個分割編輯視窗</small>
-`CTRL+SHIFT+P` <small>開啟命令面版</small>
-`CTRL+P` <small>快速開啟檔案</small>
-`CTRL+T` <small>通過匹配文字開啟檔案</small>
-`CTRL+SHIFT+]` <small>展開代碼塊</small>
-`CTRL+SHIFT+[` <small>摺疊代碼塊</small>
-`CTRL+K+J` <small>展開所有代碼塊</small>
-`CTRL+K+0` <small>摺疊所有代碼塊</small>
-`CTRL+G` <small>跳到指定行</small>
-`CTRL+ALT+RIGHT` <small>開啟當前檔案至新編輯視窗</small>
-`CTRL+ALT+TOP`/`CTRL+ALT+DOWN` <small>複製郵標批量編輯代碼</small>
-`CTRL+SHIFT+RIGHT` <small>逐個選取字串</small>
-`CTRL+BACKSPACE` <small>刪除上一個字串</small>
-`CTRL+SHIFT+T` <small>重新開啟關閉的檔案/頁面</small>
-`CTRL+K+W` <small>關閉所有分頁/編輯器視窗</small>
-`CTRL+N` <small>開啟新檔</small>
-`CTRL+S` <small>儲存檔案</small>
-`CTRL+SHIFT+S` <small>另存新檔</small>
-`CTRL+O` <small>開啟文件</small>
-`CTRL+TAB` <small>前往下一個編輯頁</small>
-`CTRL+SHIFT+TAB` <small>前往上一個編輯頁</small>
-`CTRL+HOME` <small>跳到文件的開頭</small>
-`CTRL+END` <small>跳到文件的結尾</small>
-`CTRL+PAGEUP` <small>前往上一個標籤頁</small>
-`CTRL+PAGEDOWN` <small>前往下一個標籤頁</small>
-`CTRL+K+C` <small>添加注釋</small>
-`CTRL+K+U` <small>移除注釋</small>
-`CTRL+SHIFT+C` <small>打開命令提示字元</small>
-`CTRL+F` <small>查找</small>
-`CTRL+H` <small>替換</small>
+- `CTRL+L` <small>選取整行</small>
+- `CTRL+SHIFT+L`/`CTRL+F2` <small>一次選取檔案內所有相同的文字</small>
+- `CTRL+D` <small>依序選取相同字串</small>
+- `CTRL+K+D` <small>移除前一個向下選取的相同字串</small>
+- `CTRL+/` <small>添加移除單行註解</small>
+- `CTRL+UP`/`CTRL+DOWN` <small>滾動視窗</small>
+- `CTRL+SHIFT+K` <small>刪除當前行</small>
+- `CTRL+K+S` <small>開啟快捷鍵表</small>
+- `CTRL+W`/`CTRL+F4` <small>關閉編輯器/編輯視窗</small>
+- `CTRL+ENTER` <small>下一行插入</small>
+- `CTRL+SHIFT+ENTER` <small>上一行插入</small>
+- `CTRL+K+T` <small>切換主題背景</small>
+- `CTRL+SHIFT+\` <small>跳轉到匹配的括號</small>
+- `CTRL+[`/`CTRL+]` <small>代碼縮進</small>
+- `CTRL+\` <small>開啟當前檔案至新編輯器視窗</small>
+- `CTRL+B` <small>隱藏顯示側邊欄</small>
+- `CTRL++`/`CTRL+-` <small>縮放字體大小</small>
+- `CTRL+1` <small>切換至第一個分割編輯視窗</small>
+- `CTRL+SHIFT+P` <small>開啟命令面版</small>
+- `CTRL+P` <small>快速開啟檔案</small>
+- `CTRL+T` <small>通過匹配文字開啟檔案</small>
+- `CTRL+SHIFT+]` <small>展開代碼塊</small>
+- `CTRL+SHIFT+[` <small>摺疊代碼塊</small>
+- `CTRL+K+J` <small>展開所有代碼塊</small>
+- `CTRL+K+0` <small>摺疊所有代碼塊</small>
+- `CTRL+G` <small>跳到指定行</small>
+- `CTRL+ALT+RIGHT` <small>開啟當前檔案至新編輯視窗</small>
+- `CTRL+ALT+TOP`/`CTRL+ALT+DOWN` <small>複製郵標批量編輯代碼</small>
+- `CTRL+SHIFT+RIGHT` <small>逐個選取字串</small>
+- `CTRL+BACKSPACE` <small>刪除上一個字串</small>
+- `CTRL+SHIFT+T` <small>重新開啟關閉的檔案/頁面</small>
+- `CTRL+K+W` <small>關閉所有分頁/編輯器視窗</small>
+- `CTRL+N` <small>開啟新檔</small>
+- `CTRL+S` <small>儲存檔案</small>
+- `CTRL+SHIFT+S` <small>另存新檔</small>
+- `CTRL+O` <small>開啟文件</small>
+- `CTRL+TAB` <small>前往下一個編輯頁</small>
+- `CTRL+SHIFT+TAB` <small>前往上一個編輯頁</small>
+- `CTRL+HOME` <small>跳到文件的開頭</small>
+- `CTRL+END` <small>跳到文件的結尾</small>
+- `CTRL+PAGEUP` <small>前往上一個標籤頁</small>
+- `CTRL+PAGEDOWN` <small>前往下一個標籤頁</small>
+- `CTRL+K+C` <small>添加注釋</small>
+- `CTRL+K+U` <small>移除注釋</small>
+- `CTRL+SHIFT+C` <small>打開命令提示字元</small>
+- `CTRL+F` <small>查找</small>
+- `CTRL+H` <small>替換</small>
 
-`ALT+UP`/`ALT+DOWN` <small>移動當前行</small>
-`ALT+SHIFT+RIGHT` <small>選取區塊的內容</small>
-`ALT+Z` <small>程式碼換行</small>
-`ALT+PAGEUP` <small>按屏向上滾動</small>
-`ALT+PAGEDOWN` <small>按屏向下滾動</small>
-`ALT+LEFT` <small>返回</small>
-`ALT+RIGHT` <small>前進</small>
-`ALT+C` <small>區分大小寫</small>
-`ALT+R` <small>正則</small>
-`ALT+W` <small>完整匹配</small>
+---
 
-`SHIFT+ALT+F`/`CTRL+K+F` <small>格式化程式碼</small>
-`SHIFT+ALT+A` <small>多行註解</small>
-`SHIFT+ALT+UP`/`SHIFT+ALT+DOWN` <small>複製當前行</small>
-`SHIFT+F3` <small>查找上一個</small>
-`SFHIT+F11` <small>跳出</small>
+- `ALT+UP`/`ALT+DOWN` <small>移動當前行</small>
+- `ALT+SHIFT+RIGHT` <small>選取區塊的內容</small>
+- `ALT+Z` <small>程式碼換行</small>
+- `ALT+PAGEUP` <small>按屏向上滾動</small>
+- `ALT+PAGEDOWN` <small>按屏向下滾動</small>
+- `ALT+LEFT` <small>返回</small>
+- `ALT+RIGHT` <small>前進</small>
+- `ALT+C` <small>區分大小寫</small>
+- `ALT+R` <small>正則</small>
+- `ALT+W` <small>完整匹配</small>
 
-`F3` <small>查找下一個</small>
-`F9` <small>設置或取消斷點</small>
-`F5` <small>開始或繼續</small>
-`F11` <small>進入</small>
-`F10` <small>跳過</small>
+---
+
+- `SHIFT+ALT+F`/`CTRL+K+F` <small>格式化程式碼</small>
+- `SHIFT+ALT+A` <small>多行註解</small>
+- `SHIFT+ALT+UP`/`SHIFT+ALT+DOWN` <small>複製當前行</small>
+- `SHIFT+F3` <small>查找上一個</small>
+- `SFHIT+F11` <small>跳出</small>
+
+---
+
+- `F3` <small>查找下一個</small>
+- `F9` <small>設置或取消斷點</small>
+- `F5` <small>開始或繼續</small>
+- `F11` <small>進入</small>
+- `F10` <small>跳過</small>

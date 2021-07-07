@@ -8,18 +8,15 @@
 
 ```
 # 檢視HEAD檔案的內容
-
 $ cat .git/HEAD
 ```
 
 ```
 # 查看HEAD指向的master分支內容
-
 $ cat .git/refs/head/master
 ```
 
 ```
 # 檢視ORIG_HEAD檔案的內容
-
 $ cat .git/ORIG_HEAD
 ```

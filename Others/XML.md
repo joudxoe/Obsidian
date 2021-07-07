@@ -22,7 +22,8 @@ XML規範
 
 XML文檔結構
 ```
-<?xml version="1.0" encoding="utf-8"?>	<!-XML文件宣告/文檔聲明-->
+<!-XML文件宣告/文檔聲明-->
+<?xml version="1.0" encoding="utf-8"?>
 <bookstore>
 	<book category="COOKING">
 	  <title lang="en">Everyday Italian</title> 

@@ -34,6 +34,7 @@ setcookie(name,value,expire,path,domain,secure);
 ```
 // 設置過期時間為一個月(60秒*60分*24時*30天)
 $expire=time()+60*60*24*30;
+
 setcookie('user','Jane',$expire);
 ```
 

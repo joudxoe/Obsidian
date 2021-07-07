@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/物件導向操作資料庫.md",
-            "mode": "source"
+            "file": "Git/變基.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/物件導向操作資料庫.md",
+                "file": "Git/變基.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "13934e3b509f9b2f",
   "lastOpenFiles": [
-    "PHP/物件導向操作資料庫.md",
-    "PHP/物件導向預處理操作資料庫.md",
-    "PHP/物件導向.md",
-    "PHP/爬蟲.md",
-    "PHP/抽象類別.md",
-    "PHP/命名規則.md",
-    "PHP/命名空間.md",
-    "PHP/命名方法.md",
-    "PHP/函數變數.md",
-    "PHP/自定常數.md"
+    "Git/變基.md",
+    "JavaScript/DOM操作.md",
+    "JavaScript/DOM節點.md",
+    "JavaScript/History對象.md",
+    "JavaScript/DOM 文檔對象.md",
+    "JavaScript/DOM 屬性對象.md",
+    "JavaScript/DOM 事件對象.md",
+    "JavaScript/DOM 控制台對象.md",
+    "JavaScript/DOM.md",
+    "JavaScript/CSS樣式聲明對象.md"
   ]
 }

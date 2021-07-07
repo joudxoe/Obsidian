@@ -3,16 +3,6 @@
 
 ---
 
-```
-# 語法規則
-
-# scheme://host.domain:port/path/filename
-
-# scheme://host:port/path?query-string#fragment-id
-```
-
----
-
 格式說明
 - `scheme` <small>定義網路服務的類型/協議/通訊協定</small>
 - `host` <small>主機名稱、子網域，默認主機是www</small>
@@ -34,3 +24,11 @@
 - `ed2k` <small>ed2k下載鏈接協議</small>
 - `thunder` <small>thunder下載鏈接協議</small>
 - `flashget` <small>flashget下載鏈接協議</small>
+
+---
+
+```
+# 語法規則
+# scheme://host.domain:port/path/filename
+# scheme://host:port/path?query-string#fragment-id
+```

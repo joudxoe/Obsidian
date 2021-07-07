@@ -36,6 +36,7 @@ $mail->Port=465;
 
 // 設定郵件編碼
 $mail->CharSet='big5';
+
 $mail->Username='';
 $mail->Password='';
 $mail->From='';
@@ -72,9 +73,11 @@ try{
 	$mail->Password='';
 	$mail->SMTPSecure='ssl';	
 	$mail->Port=465;	
+	
 	// Recipients
 	$mail->setFrom('admin@domain.com','admin');
 	$mail->AddAddress('jane@gmail.com','Jane');
+	
 	// Content
 	$mail->isHTML(true);
 	$mail->Subject=iconv('big5','utf-8','信件標題');

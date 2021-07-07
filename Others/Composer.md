@@ -13,11 +13,13 @@
 ---
 
 INSTALL使用時機
->install會先找composer.lock，若檔案存在則依其中指定的版本安裝，若不存在則讀取composer.json來安裝並產生composer.lock
->
->若是從其它處拿到專案(例如github)，且專案目錄中已有composer.lock，最安全的作法是使用install，這樣可以確保安裝的套件版本和原專案的開發是相同的版號
+- install會先找composer.lock，若檔案存在則依其中指定的版本安裝，若不存在則讀取composer.json來安
+	裝並產生composer.lock
+
+- 若是從其它處拿到專案(例如github)，且專案目錄中已有composer.lock，最安全的作法是使用install，這樣
+	可以確保安裝的套件版本和原專案的開發是相同的版號
 
 UPDATE使用時機
->update會去讀取composer.json，並安裝最新版本，同時更新composer.lock
->當有確定要更新套件版本或是第一次下載套件時，才用update
-> 使用update的風險在於，可能會安裝到最新的版本造成程式執行時因為不相容而發生錯誤
+- update會去讀取composer.json，並安裝最新版本，同時更新composer.lock
+- 當有確定要更新套件版本或是第一次下載套件時，才用update
+- 使用update的風險在於，可能會安裝到最新的版本造成程式執行時因為不相容而發生錯誤

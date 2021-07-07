@@ -7,6 +7,5 @@
 
 ```
 # 檢視master的SHA-1雜湊值
-
 $ cat .git/refs/heads/master
 ```
