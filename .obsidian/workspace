@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/工具.md",
+            "file": "Git/設定.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/工具.md",
+                "file": "Git/設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "13934e3b509f9b2f",
   "lastOpenFiles": [
-    "Git/工具.md",
-    "Others/文件目錄結構.md",
-    "PHP/大綱.md",
+    "Git/設定.md",
+    "Git/前往.md",
+    "Git/分支.md",
+    "Git/狀態.md",
     "Git/變基.md",
-    "JavaScript/DOM操作.md",
-    "JavaScript/DOM節點.md",
-    "JavaScript/History對象.md",
-    "JavaScript/DOM 文檔對象.md",
-    "JavaScript/DOM 屬性對象.md",
-    "JavaScript/DOM 事件對象.md"
+    "Git/暫存.md",
+    "Git/恢復.md",
+    "Git/上傳.md",
+    "Git/究責.md",
+    "Git/挑選.md"
   ]
 }
