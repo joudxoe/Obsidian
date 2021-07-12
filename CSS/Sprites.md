@@ -8,5 +8,5 @@
 定位圖片
 ```
 # 定義Sprites單個圖像的確切位置
-# background-position: 0 -100px;
+# background-position:0 -100px;
 ```
