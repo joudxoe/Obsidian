@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/檢視.md",
+            "file": "CSS/顏色.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/檢視.md",
+                "file": "CSS/顏色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "13934e3b509f9b2f",
   "lastOpenFiles": [
-    "Git/檢視.md",
+    "CSS/顏色.md",
+    "CSS/十六進制顏色表示法.md",
+    "CSS/媒體查詢應用.md",
+    "CSS/媒體查詢.md",
+    "Git/上傳.md",
     "Git/工作原理.md",
-    "Git/大綱.md",
-    "Git/未命名.md",
-    "Git/指令.md",
-    "Git/切換.md",
-    "Git/前往.md",
-    "Git/刪除.md",
-    "Git/提交.md",
-    "Git/SSH.md"
+    "CSS/大綱.md",
+    "CSS/@規則.md",
+    "Git/設定.md",
+    "HTML/圖像示例.md"
   ]
 }
