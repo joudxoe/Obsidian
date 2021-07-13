@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/引用.md",
+            "file": "Git/初始.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 293
   },
   "right": {
     "id": "c0249861f7905a5e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/引用.md",
+                "file": "Git/初始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "13934e3b509f9b2f",
   "lastOpenFiles": [
-    "CSS/引用.md",
-    "CSS/隱藏.md",
-    "CSS/游標.md",
-    "CSS/語法.md",
-    "CSS/預處理器.md",
-    "CSS/預定義顏色名稱.md",
-    "CSS/圓角.md",
-    "CSS/圓角示例.md",
-    "CSS/正規化.md",
-    "CSS/重置.md"
+    "Git/初始.md",
+    "Git/設定.md",
+    "Git/刪除.md",
+    "Git/遠端.md",
+    "Git/清除.md",
+    "Git/日誌.md",
+    "Git/指令.md",
+    "Git/幫助.md",
+    "Git/更名.md",
+    "Git/切換.md"
   ]
 }
