@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "13934e3b509f9b2f",
+        "id": "dd4a9ab371892274",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/初始.md",
+            "file": "Git/變基.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/初始.md",
+                "file": "Git/變基.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13934e3b509f9b2f",
+  "active": "dd4a9ab371892274",
   "lastOpenFiles": [
-    "Git/初始.md",
-    "Git/設定.md",
-    "Git/刪除.md",
-    "Git/遠端.md",
-    "Git/清除.md",
-    "Git/日誌.md",
-    "Git/指令.md",
+    "Git/變基.md",
     "Git/幫助.md",
-    "Git/更名.md",
-    "Git/切換.md"
+    "Git/標籤.md",
+    "Git/大綱.md",
+    "Git/請求.md",
+    "Git/前往.md",
+    "Git/切換.md",
+    "Git/克隆.md",
+    "Git/日誌.md",
+    "Git/SSH.md"
   ]
 }

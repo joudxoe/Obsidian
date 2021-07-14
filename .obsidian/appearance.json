@@ -1,6 +1,7 @@
 {
   "theme": "moonstone",
   "baseFontSize": 14,
-  "cssTheme": "Solarized",
-  "translucency": false
+  "cssTheme": "Reverie",
+  "translucency": false,
+  "baseFontSizeAction": true
 }
