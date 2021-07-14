@@ -4,16 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "13934e3b509f9b2f",
+        "id": "dd4a9ab371892274",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "CSS/顏色.md",
-=======
             "file": "Git/初始.md",
->>>>>>> origin/master
             "mode": "source"
           }
         }
@@ -72,11 +69,8 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "CSS/顏色.md",
-=======
                 "file": "Git/初始.md",
->>>>>>> origin/master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +88,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13934e3b509f9b2f",
+  "active": "dd4a9ab371892274",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "CSS/顏色.md",
     "CSS/十六進制顏色表示法.md",
     "CSS/媒體查詢應用.md",
@@ -107,7 +100,6 @@
     "CSS/@規則.md",
     "Git/設定.md",
     "HTML/圖像示例.md"
-=======
     "Git/初始.md",
     "Git/設定.md",
     "Git/刪除.md",
@@ -118,6 +110,5 @@
     "Git/幫助.md",
     "Git/更名.md",
     "Git/切換.md"
->>>>>>> origin/master
   ]
 }
