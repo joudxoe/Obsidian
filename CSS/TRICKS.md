@@ -20,7 +20,7 @@
 
 ```
 # 禁用事件/任何點擊事件將無效
-# .disabled{pointer-events:none}
+# .disabled{pointer-events:none;}
 ```
 
 ```
