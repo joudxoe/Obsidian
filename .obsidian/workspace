@@ -1,16 +1,15 @@
 {
   "main": {
-    "id": "5a9bcdb44d467fed",
+    "id": "8c3ad20ed0ce7cbc",
     "type": "split",
     "children": [
       {
-        "id": "dd4a9ab371892274",
+        "id": "521564eca6bed618",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/顏色.md",
-            "file": "Git/初始.md",
+            "file": "Git/上傳.md",
             "mode": "source"
           }
         }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b44f8d5d88a2a6bc",
+    "id": "a6522fa8b0cf5b5a",
     "type": "split",
     "children": [
       {
-        "id": "903299c00315679e",
+        "id": "823f4f66c911a8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "0345f83c377b5c71",
+            "id": "1009ae46deaa7e7a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +34,12 @@
             }
           },
           {
-            "id": "71b5452e3a459e1c",
+            "id": "89446dd6335d5d92",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "clean",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,24 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 300
   },
   "right": {
-    "id": "c0249861f7905a5e",
+    "id": "da052a34c64ecb22",
     "type": "split",
     "children": [
       {
-        "id": "8f9761df1be17396",
+        "id": "b2bc3e8e11bdcaa8",
         "type": "tabs",
         "children": [
           {
-            "id": "0397b367bd667d4f",
+            "id": "ec4b8d502218cf0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/顏色.md",
-                "file": "Git/初始.md",
+                "file": "Git/上傳.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,27 +86,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd4a9ab371892274",
+  "active": "521564eca6bed618",
   "lastOpenFiles": [
-    "CSS/顏色.md",
-    "CSS/十六進制顏色表示法.md",
-    "CSS/媒體查詢應用.md",
-    "CSS/媒體查詢.md",
     "Git/上傳.md",
-    "Git/工作原理.md",
-    "CSS/大綱.md",
-    "CSS/@規則.md",
-    "Git/設定.md",
-    "HTML/圖像示例.md"
-    "Git/初始.md",
-    "Git/設定.md",
-    "Git/刪除.md",
-    "Git/遠端.md",
-    "Git/清除.md",
-    "Git/日誌.md",
+    "Git/下載.md",
     "Git/指令.md",
-    "Git/幫助.md",
-    "Git/更名.md",
-    "Git/切換.md"
+    "Git/初始.md",
+    "Git/工作原理.md",
+    "Git/大綱.md",
+    "Others/命令提示字元.md",
+    "Others/開發工具.md",
+    "Git/工具.md"
   ]
 }
