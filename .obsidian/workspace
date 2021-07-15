@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/上傳.md",
+            "file": "Git/下載.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git restore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293
   },
   "right": {
     "id": "da052a34c64ecb22",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/上傳.md",
+                "file": "Git/下載.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "521564eca6bed618",
   "lastOpenFiles": [
-    "Git/上傳.md",
     "Git/下載.md",
+    "Git/遠端.md",
+    "Git/遠端拒絕.md",
+    "Git/暫存.md",
     "Git/指令.md",
-    "Git/初始.md",
-    "Git/工作原理.md",
-    "Git/大綱.md",
-    "Others/命令提示字元.md",
-    "Others/開發工具.md",
-    "Git/工具.md"
+    "Git/註冊.md",
+    "Git/抓取.md",
+    "Git/狀態.md",
+    "Git/HEAD.md",
+    "Git/SHA-1.md"
   ]
 }

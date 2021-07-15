@@ -2,5 +2,6 @@
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "fileSortOrder": "alphabetical"
 }

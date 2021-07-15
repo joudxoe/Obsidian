@@ -56,9 +56,5 @@ $ clip < ~/.ssh/id_rsa.pub
 ```
 # 驗證GitHub的SSH綁定
 $ ssh git@github.com
-```
-
-```
-# 測試SSH，驗證GitHub的SSH綁定
-$ ssh -T git@github.com
+$ ssh git@github.com -T
 ```
