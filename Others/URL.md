@@ -1,5 +1,5 @@
 要點整理
-- URL (Uniform/Universal Resource Locator - 統一資源定位器)
+- URL (Uniform/Universal Resource Locator - ==統一資源定位器==)
 
 ---
 
@@ -12,6 +12,8 @@
 - `filename` <small>文檔名</small>
 - `query-string` <small>查詢字串是以?開頭的資料，包含傳遞給伺服端處理的資料</small>
 - `fragment-id` <small>片段識別符</small>
+
+---
 
 傳輸協議
 - `http` <small>超文件傳輸協定，不加密</small>

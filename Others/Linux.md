@@ -5,7 +5,7 @@
 ---
 
 主流的Linux發佈版本
-- CentOS
-- Fedora
-- Ubuntu
-- Debian
+- `CentOS`
+- `Fedora`
+- `Ubuntu`
+- `Debian`

@@ -5,11 +5,11 @@
 ---
 
 開源CMS
-- WordPress
-- Joomla!
-- Drupal
-- Xoops
-- Blogger
-- Discuz!
-- phpcms
-- dedecms
+- `WordPress`
+- `Joomla!`
+- `Drupal`
+- `Xoops`
+- `Blogger`
+- `Discuz!`
+- `phpcms`
+- `dedecms`

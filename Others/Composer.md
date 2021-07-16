@@ -1,5 +1,5 @@
 要點整理
-- Composer是一套PHP函式庫相依性管理工具
+- Composer是一套PHP==函式庫相依性管理工具==
 - 套件可能會引用到其它套件的物件或函式，於是套件之間產生相依性
 - 在專案中記錄和管理套件之間交互引用的關係稱為相依管理
 - 將vendor目錄加入`.gitignore`中，套件不需要被commit
@@ -18,6 +18,8 @@ INSTALL使用時機
 
 - 若是從其它處拿到專案(例如github)，且專案目錄中已有composer.lock，最安全的作法是使用install，這樣
 	可以確保安裝的套件版本和原專案的開發是相同的版號
+	
+---
 
 UPDATE使用時機
 - update會去讀取composer.json，並安裝最新版本，同時更新composer.lock

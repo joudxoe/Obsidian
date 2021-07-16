@@ -1,5 +1,5 @@
 要點整理
-- Smatry是PHP最為流行的範本/模板引擎
+- Smatry是PHP最為流行的範本/==模板引擎==
 - 模板引擎的目的在於==分離==程式邏輯 (PHP)和呈現邏輯 (HTML)
 - Smarty的開發模式也是以[[MVC]]架構為概念
 
@@ -8,6 +8,8 @@
 Smarty安裝
 1. 到Smarty官網下載Smarty套件
 2. 將解壓縮後的libs目錄放到根目錄下
+
+---
 
 Smarty方法
 - `assign()` <small>在模板執行時賦值給模板變數</small>
